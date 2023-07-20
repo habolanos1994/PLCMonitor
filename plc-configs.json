@@ -1,0 +1,32 @@
+[
+  {
+    "plcName": "Bastian",
+    "plcIpAddress": "10.63.192.32",
+    "tagConfigsFile": "Bastian_tagconfig.json",
+    "Plant": "ELP",
+    "Area": "Returns",
+    "Line": "Bastian",
+    "emissionFrequency": 4000,
+    "ControllerType": "ControlLogix"
+  },
+  {
+    "plcName": "AEC2",
+    "plcIpAddress": "10.63.192.33",
+    "tagConfigsFile": "AEC2_tagconfig.json",
+    "Plant": "ELP",
+    "Area": "Returns",
+    "Line": "Receiving",
+    "emissionFrequency": 4000,
+    "ControllerType": "ControlLogix"
+  },
+  {
+    "plcName": "AEC1",
+    "plcIpAddress": "10.63.192.35",
+    "tagConfigsFile": "AEC1_tagconfig.json",
+    "Plant": "ELP",
+    "Area": "Returns",
+    "Line": "Receiving",
+    "emissionFrequency": 4000,
+    "ControllerType": "ControlLogix"
+  }
+]

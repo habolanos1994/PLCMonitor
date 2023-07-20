@@ -1,0 +1,81 @@
+body {
+  background-color: #f5f5f5;
+  font-family: 'Open Sans', sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  background-color: #fff;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  border-radius: 4px;
+  padding: 2em;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  width: 80%;
+  margin: 0 auto;
+  margin-top: 2em;
+}
+
+h1 {
+  color: #333;
+  margin-bottom: 1em;
+}
+
+.divider {
+  border-top: 1px solid #ccc;
+  margin: 1em 0;
+}
+
+.tagGroup {
+  margin-bottom: 1em;
+}
+
+.tagGroup h2 {
+  margin-bottom: 0.5em;
+  color: #333;
+}
+
+.tagItem {
+  background-color: #fff;
+  border-radius: 4px;
+  padding: 1.5em;
+  margin-bottom: 1em;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  transition: background-color 0.3s ease;
+  text-align: center;
+}
+
+.tagItem:hover {
+  background-color: #f5f5f5;
+}
+
+.tagItem button {
+  padding: 0.5em 1em;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  background-color: #f44336;
+  color: white;
+  transition: background-color 0.3s ease;
+  font-weight: 600;
+}
+
+.tagItem button:hover {
+  background-color: #d32f2f;
+}
+
+.plcName {
+  font-size: 32px;
+  font-weight: bold;
+  text-align: center;
+  margin-top: 1em;
+  margin-bottom: 1em;
+  color: #4b4b4b;
+}

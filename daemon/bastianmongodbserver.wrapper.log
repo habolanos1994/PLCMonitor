@@ -1,0 +1,1242 @@
+2023-05-08 15:39:58 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index2.js" --scriptoptions= --log "Bastian MongoDB server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-08 15:39:58 - Started 8320
+2023-05-08 15:50:16 - Stopping bastianmongodbserver.exe
+2023-05-08 15:50:16 - ProcessKill 8320
+2023-05-08 15:50:16 - Found child process: 440 Name: conhost.exe
+2023-05-08 15:50:16 - Found child process: 11752 Name: node.exe
+2023-05-08 15:50:16 - Stopping process 440
+2023-05-08 15:50:16 - Send SIGINT 440
+2023-05-08 15:50:16 - SIGINT to 440 failed - Killing as fallback
+2023-05-08 15:50:16 - Stopping process 11752
+2023-05-08 15:50:16 - Send SIGINT 11752
+2023-05-08 15:50:16 - SIGINT to 11752 failed - Killing as fallback
+2023-05-08 15:50:16 - Stopping process 8320
+2023-05-08 15:50:16 - Send SIGINT 8320
+2023-05-08 15:50:16 - SIGINT to 8320 failed - Killing as fallback
+2023-05-08 15:50:16 - Finished bastianmongodbserver.exe
+2023-05-08 15:50:18 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index2.js" --scriptoptions= --log "Bastian MongoDB server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-08 15:50:18 - Started 12912
+2023-05-08 15:59:59 - Stopping bastianmongodbserver.exe
+2023-05-08 15:59:59 - ProcessKill 12912
+2023-05-08 15:59:59 - Found child process: 12136 Name: conhost.exe
+2023-05-08 15:59:59 - Found child process: 9296 Name: node.exe
+2023-05-08 15:59:59 - Stopping process 12136
+2023-05-08 15:59:59 - Send SIGINT 12136
+2023-05-08 15:59:59 - SIGINT to 12136 failed - Killing as fallback
+2023-05-08 15:59:59 - Stopping process 9296
+2023-05-08 15:59:59 - Send SIGINT 9296
+2023-05-08 15:59:59 - SIGINT to 9296 failed - Killing as fallback
+2023-05-08 15:59:59 - Stopping process 12912
+2023-05-08 15:59:59 - Send SIGINT 12912
+2023-05-08 15:59:59 - SIGINT to 12912 failed - Killing as fallback
+2023-05-08 15:59:59 - Finished bastianmongodbserver.exe
+2023-05-08 16:00:00 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index2.js" --scriptoptions= --log "Bastian MongoDB server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-08 16:00:00 - Started 11372
+2023-05-08 16:04:09 - Stopping bastianmongodbserver.exe
+2023-05-08 16:04:09 - ProcessKill 11372
+2023-05-08 16:04:09 - Found child process: 2360 Name: conhost.exe
+2023-05-08 16:04:09 - Found child process: 10632 Name: node.exe
+2023-05-08 16:04:09 - Stopping process 2360
+2023-05-08 16:04:09 - Send SIGINT 2360
+2023-05-08 16:04:09 - SIGINT to 2360 failed - Killing as fallback
+2023-05-08 16:04:09 - Stopping process 10632
+2023-05-08 16:04:09 - Send SIGINT 10632
+2023-05-08 16:04:09 - SIGINT to 10632 failed - Killing as fallback
+2023-05-08 16:04:09 - Stopping process 11372
+2023-05-08 16:04:09 - Send SIGINT 11372
+2023-05-08 16:04:09 - SIGINT to 11372 failed - Killing as fallback
+2023-05-08 16:04:09 - Finished bastianmongodbserver.exe
+2023-05-08 16:04:10 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index2.js" --scriptoptions= --log "Bastian MongoDB server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-08 16:04:10 - Started 11288
+2023-05-08 16:14:49 - Stopping bastianmongodbserver.exe
+2023-05-08 16:14:49 - ProcessKill 11288
+2023-05-08 16:14:49 - Found child process: 11312 Name: conhost.exe
+2023-05-08 16:14:49 - Found child process: 7604 Name: node.exe
+2023-05-08 16:14:49 - Stopping process 11312
+2023-05-08 16:14:49 - Send SIGINT 11312
+2023-05-08 16:14:49 - SIGINT to 11312 failed - Killing as fallback
+2023-05-08 16:14:49 - Stopping process 7604
+2023-05-08 16:14:49 - Send SIGINT 7604
+2023-05-08 16:14:49 - SIGINT to 7604 failed - Killing as fallback
+2023-05-08 16:14:49 - Stopping process 11288
+2023-05-08 16:14:49 - Send SIGINT 11288
+2023-05-08 16:14:49 - SIGINT to 11288 failed - Killing as fallback
+2023-05-08 16:14:49 - Finished bastianmongodbserver.exe
+2023-05-08 16:14:50 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index2.js" --scriptoptions= --log "Bastian MongoDB server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-08 16:14:50 - Started 11480
+2023-05-09 08:53:54 - Stopping bastianmongodbserver.exe
+2023-05-09 08:53:54 - ProcessKill 11480
+2023-05-09 08:53:54 - Found child process: 9068 Name: conhost.exe
+2023-05-09 08:53:54 - Found child process: 12124 Name: node.exe
+2023-05-09 08:53:54 - Stopping process 9068
+2023-05-09 08:53:54 - Send SIGINT 9068
+2023-05-09 08:53:54 - SIGINT to 9068 failed - Killing as fallback
+2023-05-09 08:53:55 - Stopping process 12124
+2023-05-09 08:53:55 - Send SIGINT 12124
+2023-05-09 08:53:55 - SIGINT to 12124 failed - Killing as fallback
+2023-05-09 08:53:55 - Stopping process 11480
+2023-05-09 08:53:55 - Send SIGINT 11480
+2023-05-09 08:53:55 - SIGINT to 11480 failed - Killing as fallback
+2023-05-09 08:53:55 - Finished bastianmongodbserver.exe
+2023-05-09 08:53:56 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index2.js" --scriptoptions= --log "Bastian MongoDB server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-09 08:53:56 - Started 9612
+2023-05-09 09:13:48 - Stopping bastianmongodbserver.exe
+2023-05-09 09:13:48 - ProcessKill 9612
+2023-05-09 09:13:48 - Found child process: 13284 Name: conhost.exe
+2023-05-09 09:13:48 - Found child process: 7620 Name: node.exe
+2023-05-09 09:13:48 - Stopping process 13284
+2023-05-09 09:13:48 - Send SIGINT 13284
+2023-05-09 09:13:48 - SIGINT to 13284 failed - Killing as fallback
+2023-05-09 09:13:48 - Stopping process 7620
+2023-05-09 09:13:48 - Send SIGINT 7620
+2023-05-09 09:13:48 - SIGINT to 7620 failed - Killing as fallback
+2023-05-09 09:13:48 - Stopping process 9612
+2023-05-09 09:13:48 - Send SIGINT 9612
+2023-05-09 09:13:48 - SIGINT to 9612 failed - Killing as fallback
+2023-05-09 09:13:48 - Finished bastianmongodbserver.exe
+2023-05-09 09:13:50 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index2.js" --scriptoptions= --log "Bastian MongoDB server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-09 09:13:50 - Started 4800
+2023-05-09 09:29:06 - Stopping bastianmongodbserver.exe
+2023-05-09 09:29:06 - ProcessKill 4800
+2023-05-09 09:29:06 - Found child process: 9248 Name: conhost.exe
+2023-05-09 09:29:06 - Found child process: 428 Name: node.exe
+2023-05-09 09:29:06 - Stopping process 9248
+2023-05-09 09:29:06 - Send SIGINT 9248
+2023-05-09 09:29:06 - SIGINT to 9248 failed - Killing as fallback
+2023-05-09 09:29:06 - Stopping process 428
+2023-05-09 09:29:06 - Send SIGINT 428
+2023-05-09 09:29:06 - SIGINT to 428 failed - Killing as fallback
+2023-05-09 09:29:06 - Stopping process 4800
+2023-05-09 09:29:06 - Send SIGINT 4800
+2023-05-09 09:29:06 - SIGINT to 4800 failed - Killing as fallback
+2023-05-09 09:29:06 - Finished bastianmongodbserver.exe
+2023-05-09 09:29:07 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index2.js" --scriptoptions= --log "Bastian MongoDB server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-09 09:29:07 - Started 11296
+2023-05-09 09:57:55 - Stopping bastianmongodbserver.exe
+2023-05-09 09:57:55 - ProcessKill 11296
+2023-05-09 09:57:55 - Found child process: 6784 Name: conhost.exe
+2023-05-09 09:57:55 - Found child process: 9956 Name: node.exe
+2023-05-09 09:57:56 - Stopping process 6784
+2023-05-09 09:57:56 - Send SIGINT 6784
+2023-05-09 09:57:56 - SIGINT to 6784 failed - Killing as fallback
+2023-05-09 09:57:56 - Stopping process 9956
+2023-05-09 09:57:56 - Send SIGINT 9956
+2023-05-09 09:57:56 - SIGINT to 9956 failed - Killing as fallback
+2023-05-09 09:57:56 - Stopping process 11296
+2023-05-09 09:57:56 - Send SIGINT 11296
+2023-05-09 09:57:56 - SIGINT to 11296 failed - Killing as fallback
+2023-05-09 09:57:56 - Finished bastianmongodbserver.exe
+2023-05-09 09:57:57 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index2.js" --scriptoptions= --log "Bastian MongoDB server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-09 09:57:57 - Started 8140
+2023-05-09 10:13:15 - Stopping bastianmongodbserver.exe
+2023-05-09 10:13:15 - ProcessKill 8140
+2023-05-09 10:13:15 - Found child process: 8224 Name: conhost.exe
+2023-05-09 10:13:15 - Found child process: 2600 Name: node.exe
+2023-05-09 10:13:15 - Stopping process 8224
+2023-05-09 10:13:15 - Send SIGINT 8224
+2023-05-09 10:13:15 - SIGINT to 8224 failed - Killing as fallback
+2023-05-09 10:13:15 - Stopping process 2600
+2023-05-09 10:13:15 - Send SIGINT 2600
+2023-05-09 10:13:15 - SIGINT to 2600 failed - Killing as fallback
+2023-05-09 10:13:15 - Stopping process 8140
+2023-05-09 10:13:15 - Send SIGINT 8140
+2023-05-09 10:13:15 - SIGINT to 8140 failed - Killing as fallback
+2023-05-09 10:13:15 - Finished bastianmongodbserver.exe
+2023-05-09 10:13:16 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index2.js" --scriptoptions= --log "Bastian MongoDB server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-09 10:13:16 - Started 12156
+2023-05-09 10:17:40 - Stopping bastianmongodbserver.exe
+2023-05-09 10:17:40 - ProcessKill 12156
+2023-05-09 10:17:40 - Found child process: 3448 Name: conhost.exe
+2023-05-09 10:17:40 - Found child process: 12120 Name: node.exe
+2023-05-09 10:17:40 - Stopping process 3448
+2023-05-09 10:17:40 - Send SIGINT 3448
+2023-05-09 10:17:40 - SIGINT to 3448 failed - Killing as fallback
+2023-05-09 10:17:40 - Stopping process 12120
+2023-05-09 10:17:40 - Send SIGINT 12120
+2023-05-09 10:17:40 - SIGINT to 12120 failed - Killing as fallback
+2023-05-09 10:17:40 - Stopping process 12156
+2023-05-09 10:17:40 - Send SIGINT 12156
+2023-05-09 10:17:40 - SIGINT to 12156 failed - Killing as fallback
+2023-05-09 10:17:40 - Finished bastianmongodbserver.exe
+2023-05-09 10:17:41 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index2.js" --scriptoptions= --log "Bastian MongoDB server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-09 10:17:42 - Started 3756
+2023-05-09 10:36:15 - Stopping bastianmongodbserver.exe
+2023-05-09 10:36:15 - ProcessKill 3756
+2023-05-09 10:36:15 - Found child process: 6292 Name: conhost.exe
+2023-05-09 10:36:15 - Found child process: 6712 Name: node.exe
+2023-05-09 10:36:15 - Stopping process 6292
+2023-05-09 10:36:15 - Send SIGINT 6292
+2023-05-09 10:36:15 - SIGINT to 6292 failed - Killing as fallback
+2023-05-09 10:36:15 - Stopping process 6712
+2023-05-09 10:36:15 - Send SIGINT 6712
+2023-05-09 10:36:15 - SIGINT to 6712 failed - Killing as fallback
+2023-05-09 10:36:15 - Stopping process 3756
+2023-05-09 10:36:15 - Send SIGINT 3756
+2023-05-09 10:36:15 - SIGINT to 3756 failed - Killing as fallback
+2023-05-09 10:36:15 - Finished bastianmongodbserver.exe
+2023-05-09 10:38:25 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index2.js" --scriptoptions= --log "Bastian MongoDB server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-09 10:38:25 - Started 8224
+2023-05-10 16:21:50 - Stopping bastianmongodbserver.exe
+2023-05-10 16:21:50 - ProcessKill 8224
+2023-05-10 16:21:51 - Found child process: 12848 Name: conhost.exe
+2023-05-10 16:21:51 - Found child process: 12740 Name: node.exe
+2023-05-10 16:21:51 - Stopping process 12848
+2023-05-10 16:21:51 - Send SIGINT 12848
+2023-05-10 16:21:51 - SIGINT to 12848 failed - Killing as fallback
+2023-05-10 16:21:51 - Stopping process 12740
+2023-05-10 16:21:51 - Send SIGINT 12740
+2023-05-10 16:21:51 - SIGINT to 12740 failed - Killing as fallback
+2023-05-10 16:21:51 - Stopping process 8224
+2023-05-10 16:21:51 - Send SIGINT 8224
+2023-05-10 16:21:51 - SIGINT to 8224 failed - Killing as fallback
+2023-05-10 16:21:51 - Finished bastianmongodbserver.exe
+2023-05-10 16:21:52 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index2.js" --scriptoptions= --log "Bastian MongoDB server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-10 16:21:52 - Started 8836
+2023-05-10 16:34:38 - Stopping bastianmongodbserver.exe
+2023-05-10 16:34:38 - ProcessKill 8836
+2023-05-10 16:34:38 - Found child process: 9116 Name: conhost.exe
+2023-05-10 16:34:38 - Found child process: 1256 Name: node.exe
+2023-05-10 16:34:38 - Stopping process 9116
+2023-05-10 16:34:38 - Send SIGINT 9116
+2023-05-10 16:34:38 - SIGINT to 9116 failed - Killing as fallback
+2023-05-10 16:34:38 - Stopping process 1256
+2023-05-10 16:34:38 - Send SIGINT 1256
+2023-05-10 16:34:38 - SIGINT to 1256 failed - Killing as fallback
+2023-05-10 16:34:38 - Stopping process 8836
+2023-05-10 16:34:38 - Send SIGINT 8836
+2023-05-10 16:34:38 - SIGINT to 8836 failed - Killing as fallback
+2023-05-10 16:34:38 - Finished bastianmongodbserver.exe
+2023-05-10 16:34:39 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index2.js" --scriptoptions= --log "Bastian MongoDB server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-10 16:34:40 - Started 6096
+2023-05-10 16:45:36 - Stopping bastianmongodbserver.exe
+2023-05-10 16:45:36 - ProcessKill 6096
+2023-05-10 16:45:36 - Found child process: 9688 Name: conhost.exe
+2023-05-10 16:45:36 - Found child process: 7940 Name: node.exe
+2023-05-10 16:45:36 - Stopping process 9688
+2023-05-10 16:45:36 - Send SIGINT 9688
+2023-05-10 16:45:36 - SIGINT to 9688 failed - Killing as fallback
+2023-05-10 16:45:36 - Stopping process 7940
+2023-05-10 16:45:36 - Send SIGINT 7940
+2023-05-10 16:45:36 - SIGINT to 7940 failed - Killing as fallback
+2023-05-10 16:45:36 - Stopping process 6096
+2023-05-10 16:45:36 - Send SIGINT 6096
+2023-05-10 16:45:36 - SIGINT to 6096 failed - Killing as fallback
+2023-05-10 16:45:36 - Finished bastianmongodbserver.exe
+2023-05-10 16:45:37 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index2.js" --scriptoptions= --log "Bastian MongoDB server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-10 16:45:38 - Started 9288
+2023-05-10 16:47:42 - Stopping bastianmongodbserver.exe
+2023-05-10 16:47:42 - ProcessKill 9288
+2023-05-10 16:47:42 - Found child process: 11296 Name: conhost.exe
+2023-05-10 16:47:42 - Found child process: 11324 Name: node.exe
+2023-05-10 16:47:42 - Stopping process 11296
+2023-05-10 16:47:42 - Send SIGINT 11296
+2023-05-10 16:47:42 - SIGINT to 11296 failed - Killing as fallback
+2023-05-10 16:47:42 - Stopping process 11324
+2023-05-10 16:47:42 - Send SIGINT 11324
+2023-05-10 16:47:42 - SIGINT to 11324 failed - Killing as fallback
+2023-05-10 16:47:42 - Stopping process 9288
+2023-05-10 16:47:42 - Send SIGINT 9288
+2023-05-10 16:47:42 - SIGINT to 9288 failed - Killing as fallback
+2023-05-10 16:47:42 - Finished bastianmongodbserver.exe
+2023-05-10 16:47:44 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index2.js" --scriptoptions= --log "Bastian MongoDB server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-10 16:47:44 - Started 3664
+2023-05-10 16:50:49 - Stopping bastianmongodbserver.exe
+2023-05-10 16:50:49 - ProcessKill 3664
+2023-05-10 16:50:49 - Found child process: 7852 Name: conhost.exe
+2023-05-10 16:50:49 - Found child process: 1764 Name: node.exe
+2023-05-10 16:50:49 - Stopping process 7852
+2023-05-10 16:50:49 - Send SIGINT 7852
+2023-05-10 16:50:49 - SIGINT to 7852 failed - Killing as fallback
+2023-05-10 16:50:49 - Stopping process 1764
+2023-05-10 16:50:49 - Send SIGINT 1764
+2023-05-10 16:50:49 - SIGINT to 1764 failed - Killing as fallback
+2023-05-10 16:50:49 - Stopping process 3664
+2023-05-10 16:50:49 - Send SIGINT 3664
+2023-05-10 16:50:49 - SIGINT to 3664 failed - Killing as fallback
+2023-05-10 16:50:49 - Finished bastianmongodbserver.exe
+2023-05-10 16:50:50 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index2.js" --scriptoptions= --log "Bastian MongoDB server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-10 16:50:50 - Started 6348
+2023-05-10 17:03:42 - Stopping bastianmongodbserver.exe
+2023-05-10 17:03:42 - ProcessKill 6348
+2023-05-10 17:03:43 - Found child process: 9756 Name: conhost.exe
+2023-05-10 17:03:43 - Found child process: 2880 Name: node.exe
+2023-05-10 17:03:43 - Stopping process 9756
+2023-05-10 17:03:43 - Send SIGINT 9756
+2023-05-10 17:03:43 - SIGINT to 9756 failed - Killing as fallback
+2023-05-10 17:03:43 - Stopping process 2880
+2023-05-10 17:03:43 - Send SIGINT 2880
+2023-05-10 17:03:43 - SIGINT to 2880 failed - Killing as fallback
+2023-05-10 17:03:43 - Stopping process 6348
+2023-05-10 17:03:43 - Send SIGINT 6348
+2023-05-10 17:03:43 - SIGINT to 6348 failed - Killing as fallback
+2023-05-10 17:03:43 - Finished bastianmongodbserver.exe
+2023-05-10 17:03:44 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index2.js" --scriptoptions= --log "Bastian MongoDB server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-10 17:03:44 - Started 7640
+2023-05-10 17:04:26 - Stopping bastianmongodbserver.exe
+2023-05-10 17:04:26 - ProcessKill 7640
+2023-05-10 17:04:26 - Found child process: 10432 Name: conhost.exe
+2023-05-10 17:04:26 - Found child process: 3720 Name: node.exe
+2023-05-10 17:04:26 - Stopping process 10432
+2023-05-10 17:04:26 - Send SIGINT 10432
+2023-05-10 17:04:26 - SIGINT to 10432 failed - Killing as fallback
+2023-05-10 17:04:26 - Stopping process 3720
+2023-05-10 17:04:26 - Send SIGINT 3720
+2023-05-10 17:04:26 - SIGINT to 3720 failed - Killing as fallback
+2023-05-10 17:04:26 - Stopping process 7640
+2023-05-10 17:04:26 - Send SIGINT 7640
+2023-05-10 17:04:26 - SIGINT to 7640 failed - Killing as fallback
+2023-05-10 17:04:26 - Finished bastianmongodbserver.exe
+2023-05-10 17:04:27 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index2.js" --scriptoptions= --log "Bastian MongoDB server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-10 17:04:28 - Started 11276
+2023-05-10 17:07:57 - Stopping bastianmongodbserver.exe
+2023-05-10 17:07:57 - ProcessKill 11276
+2023-05-10 17:07:57 - Found child process: 11476 Name: conhost.exe
+2023-05-10 17:07:57 - Found child process: 7040 Name: node.exe
+2023-05-10 17:07:57 - Stopping process 11476
+2023-05-10 17:07:57 - Send SIGINT 11476
+2023-05-10 17:07:57 - SIGINT to 11476 failed - Killing as fallback
+2023-05-10 17:07:57 - Stopping process 7040
+2023-05-10 17:07:57 - Send SIGINT 7040
+2023-05-10 17:07:57 - SIGINT to 7040 failed - Killing as fallback
+2023-05-10 17:07:57 - Stopping process 11276
+2023-05-10 17:07:57 - Send SIGINT 11276
+2023-05-10 17:07:57 - SIGINT to 11276 failed - Killing as fallback
+2023-05-10 17:07:57 - Finished bastianmongodbserver.exe
+2023-05-10 17:07:58 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index2.js" --scriptoptions= --log "Bastian MongoDB server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-10 17:07:58 - Started 1508
+2023-05-15 10:27:06 - Stopping bastianmongodbserver.exe
+2023-05-15 10:27:06 - ProcessKill 1508
+2023-05-15 10:27:06 - Found child process: 3696 Name: conhost.exe
+2023-05-15 10:27:06 - Found child process: 792 Name: node.exe
+2023-05-15 10:27:06 - Stopping process 3696
+2023-05-15 10:27:06 - Send SIGINT 3696
+2023-05-15 10:27:06 - SIGINT to 3696 failed - Killing as fallback
+2023-05-15 10:27:06 - Stopping process 792
+2023-05-15 10:27:06 - Send SIGINT 792
+2023-05-15 10:27:06 - SIGINT to 792 failed - Killing as fallback
+2023-05-15 10:27:06 - Stopping process 1508
+2023-05-15 10:27:06 - Send SIGINT 1508
+2023-05-15 10:27:06 - SIGINT to 1508 failed - Killing as fallback
+2023-05-15 10:27:06 - Finished bastianmongodbserver.exe
+2023-05-15 10:27:07 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index2.js" --scriptoptions= --log "Bastian MongoDB server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-15 10:27:08 - Started 4444
+2023-05-16 13:36:49 - Stopping bastianmongodbserver.exe
+2023-05-16 13:36:49 - ProcessKill 4444
+2023-05-16 13:36:49 - Found child process: 10868 Name: conhost.exe
+2023-05-16 13:36:49 - Found child process: 4620 Name: node.exe
+2023-05-16 13:36:49 - Stopping process 10868
+2023-05-16 13:36:49 - Send SIGINT 10868
+2023-05-16 13:36:49 - SIGINT to 10868 failed - Killing as fallback
+2023-05-16 13:36:49 - Stopping process 4620
+2023-05-16 13:36:49 - Send SIGINT 4620
+2023-05-16 13:36:49 - SIGINT to 4620 failed - Killing as fallback
+2023-05-16 13:36:49 - Stopping process 4444
+2023-05-16 13:36:49 - Send SIGINT 4444
+2023-05-16 13:36:49 - SIGINT to 4444 failed - Killing as fallback
+2023-05-16 13:36:49 - Finished bastianmongodbserver.exe
+2023-05-16 13:36:50 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index2.js" --scriptoptions= --log "Bastian MongoDB server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-16 13:36:50 - Started 12008
+2023-05-16 13:46:20 - Stopping bastianmongodbserver.exe
+2023-05-16 13:46:20 - ProcessKill 12008
+2023-05-16 13:46:20 - Found child process: 1736 Name: conhost.exe
+2023-05-16 13:46:20 - Found child process: 11272 Name: node.exe
+2023-05-16 13:46:20 - Stopping process 1736
+2023-05-16 13:46:20 - Send SIGINT 1736
+2023-05-16 13:46:20 - SIGINT to 1736 failed - Killing as fallback
+2023-05-16 13:46:20 - Stopping process 11272
+2023-05-16 13:46:20 - Send SIGINT 11272
+2023-05-16 13:46:20 - SIGINT to 11272 failed - Killing as fallback
+2023-05-16 13:46:20 - Stopping process 12008
+2023-05-16 13:46:20 - Send SIGINT 12008
+2023-05-16 13:46:20 - SIGINT to 12008 failed - Killing as fallback
+2023-05-16 13:46:20 - Finished bastianmongodbserver.exe
+2023-05-16 13:46:21 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index2.js" --scriptoptions= --log "Bastian MongoDB server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-16 13:46:21 - Started 13016
+2023-05-16 14:03:59 - Stopping bastianmongodbserver.exe
+2023-05-16 14:03:59 - ProcessKill 13016
+2023-05-16 14:03:59 - Found child process: 4252 Name: conhost.exe
+2023-05-16 14:03:59 - Found child process: 11364 Name: node.exe
+2023-05-16 14:03:59 - Stopping process 4252
+2023-05-16 14:03:59 - Send SIGINT 4252
+2023-05-16 14:03:59 - SIGINT to 4252 failed - Killing as fallback
+2023-05-16 14:03:59 - Stopping process 11364
+2023-05-16 14:03:59 - Send SIGINT 11364
+2023-05-16 14:03:59 - SIGINT to 11364 failed - Killing as fallback
+2023-05-16 14:03:59 - Stopping process 13016
+2023-05-16 14:03:59 - Send SIGINT 13016
+2023-05-16 14:03:59 - SIGINT to 13016 failed - Killing as fallback
+2023-05-16 14:03:59 - Finished bastianmongodbserver.exe
+2023-05-16 14:04:01 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index2.js" --scriptoptions= --log "Bastian MongoDB server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-16 14:04:01 - Started 7536
+2023-05-16 14:24:52 - Stopping bastianmongodbserver.exe
+2023-05-16 14:24:52 - ProcessKill 7536
+2023-05-16 14:24:52 - Found child process: 4204 Name: conhost.exe
+2023-05-16 14:24:52 - Found child process: 3448 Name: node.exe
+2023-05-16 14:24:52 - Stopping process 4204
+2023-05-16 14:24:52 - Send SIGINT 4204
+2023-05-16 14:24:52 - SIGINT to 4204 failed - Killing as fallback
+2023-05-16 14:24:52 - Stopping process 3448
+2023-05-16 14:24:52 - Send SIGINT 3448
+2023-05-16 14:24:52 - SIGINT to 3448 failed - Killing as fallback
+2023-05-16 14:24:52 - Stopping process 7536
+2023-05-16 14:24:52 - Send SIGINT 7536
+2023-05-16 14:24:52 - SIGINT to 7536 failed - Killing as fallback
+2023-05-16 14:24:52 - Finished bastianmongodbserver.exe
+2023-05-16 14:24:53 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index2.js" --scriptoptions= --log "Bastian MongoDB server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-16 14:24:54 - Started 8656
+2023-05-16 14:39:20 - Stopping bastianmongodbserver.exe
+2023-05-16 14:39:20 - ProcessKill 8656
+2023-05-16 14:39:20 - Found child process: 3504 Name: conhost.exe
+2023-05-16 14:39:20 - Found child process: 3192 Name: node.exe
+2023-05-16 14:39:20 - Stopping process 3504
+2023-05-16 14:39:20 - Send SIGINT 3504
+2023-05-16 14:39:20 - SIGINT to 3504 failed - Killing as fallback
+2023-05-16 14:39:20 - Stopping process 3192
+2023-05-16 14:39:20 - Send SIGINT 3192
+2023-05-16 14:39:20 - SIGINT to 3192 failed - Killing as fallback
+2023-05-16 14:39:20 - Stopping process 8656
+2023-05-16 14:39:20 - Send SIGINT 8656
+2023-05-16 14:39:20 - SIGINT to 8656 failed - Killing as fallback
+2023-05-16 14:39:20 - Finished bastianmongodbserver.exe
+2023-05-16 14:39:21 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index2.js" --scriptoptions= --log "Bastian MongoDB server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-16 14:39:21 - Started 10536
+2023-05-16 17:26:59 - Stopping bastianmongodbserver.exe
+2023-05-16 17:26:59 - ProcessKill 10536
+2023-05-16 17:26:59 - Found child process: 11208 Name: conhost.exe
+2023-05-16 17:26:59 - Found child process: 9316 Name: node.exe
+2023-05-16 17:26:59 - Stopping process 11208
+2023-05-16 17:26:59 - Send SIGINT 11208
+2023-05-16 17:26:59 - SIGINT to 11208 failed - Killing as fallback
+2023-05-16 17:26:59 - Stopping process 9316
+2023-05-16 17:26:59 - Send SIGINT 9316
+2023-05-16 17:26:59 - SIGINT to 9316 failed - Killing as fallback
+2023-05-16 17:26:59 - Stopping process 10536
+2023-05-16 17:26:59 - Send SIGINT 10536
+2023-05-16 17:26:59 - SIGINT to 10536 failed - Killing as fallback
+2023-05-16 17:26:59 - Finished bastianmongodbserver.exe
+2023-05-16 17:27:55 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index2.js" --scriptoptions= --log "Bastian MongoDB server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-16 17:27:56 - Started 9876
+2023-05-16 17:28:38 - Stopping bastianmongodbserver.exe
+2023-05-16 17:28:38 - ProcessKill 9876
+2023-05-16 17:28:38 - Found child process: 1276 Name: conhost.exe
+2023-05-16 17:28:38 - Found child process: 9692 Name: node.exe
+2023-05-16 17:28:38 - Stopping process 1276
+2023-05-16 17:28:38 - Send SIGINT 1276
+2023-05-16 17:28:38 - SIGINT to 1276 failed - Killing as fallback
+2023-05-16 17:28:38 - Stopping process 9692
+2023-05-16 17:28:38 - Send SIGINT 9692
+2023-05-16 17:28:38 - SIGINT to 9692 failed - Killing as fallback
+2023-05-16 17:28:38 - Stopping process 9876
+2023-05-16 17:28:38 - Send SIGINT 9876
+2023-05-16 17:28:38 - SIGINT to 9876 failed - Killing as fallback
+2023-05-16 17:28:38 - Finished bastianmongodbserver.exe
+2023-05-16 17:29:21 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index2.js" --scriptoptions= --log "Bastian MongoDB server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-16 17:29:21 - Started 12596
+2023-05-18 14:35:35 - Stopping bastianmongodbserver.exe
+2023-05-18 14:35:35 - ProcessKill 12596
+2023-05-18 14:35:35 - Found child process: 6656 Name: conhost.exe
+2023-05-18 14:35:35 - Found child process: 12300 Name: node.exe
+2023-05-18 14:35:35 - Stopping process 6656
+2023-05-18 14:35:35 - Send SIGINT 6656
+2023-05-18 14:35:35 - SIGINT to 6656 failed - Killing as fallback
+2023-05-18 14:35:35 - Stopping process 12300
+2023-05-18 14:35:35 - Send SIGINT 12300
+2023-05-18 14:35:35 - SIGINT to 12300 failed - Killing as fallback
+2023-05-18 14:35:35 - Stopping process 12596
+2023-05-18 14:35:35 - Send SIGINT 12596
+2023-05-18 14:35:35 - SIGINT to 12596 failed - Killing as fallback
+2023-05-18 14:35:35 - Finished bastianmongodbserver.exe
+2023-05-18 14:35:36 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index2.js" --scriptoptions= --log "Bastian MongoDB server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-18 14:35:37 - Started 13176
+2023-05-19 16:31:06 - Stopping bastianmongodbserver.exe
+2023-05-19 16:31:06 - ProcessKill 13176
+2023-05-19 16:31:06 - Found child process: 12108 Name: conhost.exe
+2023-05-19 16:31:06 - Found child process: 3904 Name: node.exe
+2023-05-19 16:31:06 - Stopping process 12108
+2023-05-19 16:31:06 - Send SIGINT 12108
+2023-05-19 16:31:06 - SIGINT to 12108 failed - Killing as fallback
+2023-05-19 16:31:06 - Stopping process 3904
+2023-05-19 16:31:06 - Send SIGINT 3904
+2023-05-19 16:31:06 - SIGINT to 3904 failed - Killing as fallback
+2023-05-19 16:31:06 - Stopping process 13176
+2023-05-19 16:31:06 - Send SIGINT 13176
+2023-05-19 16:31:06 - SIGINT to 13176 failed - Killing as fallback
+2023-05-19 16:31:06 - Finished bastianmongodbserver.exe
+2023-05-19 16:31:08 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index2.js" --scriptoptions= --log "Bastian MongoDB server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-19 16:31:08 - Started 7336
+2023-05-21 00:08:59 - Stopping bastianmongodbserver.exe
+2023-05-21 00:08:59 - ProcessKill 7336
+2023-05-21 00:08:59 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2023-05-21 00:09:25 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index2.js" --scriptoptions= --log "Bastian MongoDB server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-21 00:09:25 - Started 4540
+2023-05-23 07:06:37 - Stopping bastianmongodbserver.exe
+2023-05-23 07:06:37 - ProcessKill 4540
+2023-05-23 07:06:38 - Found child process: 4736 Name: conhost.exe
+2023-05-23 07:06:38 - Found child process: 6656 Name: node.exe
+2023-05-23 07:06:38 - Stopping process 4736
+2023-05-23 07:06:38 - Send SIGINT 4736
+2023-05-23 07:06:38 - SIGINT to 4736 failed - Killing as fallback
+2023-05-23 07:06:38 - Stopping process 6656
+2023-05-23 07:06:38 - Send SIGINT 6656
+2023-05-23 07:06:38 - SIGINT to 6656 failed - Killing as fallback
+2023-05-23 07:06:38 - Stopping process 4540
+2023-05-23 07:06:38 - Send SIGINT 4540
+2023-05-23 07:06:38 - SIGINT to 4540 failed - Killing as fallback
+2023-05-23 07:06:38 - Finished bastianmongodbserver.exe
+2023-05-23 07:06:39 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index2.js" --scriptoptions= --log "Bastian MongoDB server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-23 07:06:39 - Started 10120
+2023-05-23 07:08:45 - Stopping bastianmongodbserver.exe
+2023-05-23 07:08:45 - ProcessKill 10120
+2023-05-23 07:08:46 - Found child process: 8680 Name: conhost.exe
+2023-05-23 07:08:46 - Found child process: 9568 Name: node.exe
+2023-05-23 07:08:46 - Stopping process 8680
+2023-05-23 07:08:46 - Send SIGINT 8680
+2023-05-23 07:08:46 - SIGINT to 8680 failed - Killing as fallback
+2023-05-23 07:08:46 - Stopping process 9568
+2023-05-23 07:08:46 - Send SIGINT 9568
+2023-05-23 07:08:46 - SIGINT to 9568 failed - Killing as fallback
+2023-05-23 07:08:46 - Stopping process 10120
+2023-05-23 07:08:46 - Send SIGINT 10120
+2023-05-23 07:08:46 - SIGINT to 10120 failed - Killing as fallback
+2023-05-23 07:08:46 - Finished bastianmongodbserver.exe
+2023-05-23 07:13:05 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index2.js" --scriptoptions= --log "Bastian MongoDB server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-23 07:13:06 - Started 7288
+2023-05-23 07:16:28 - Stopping bastianmongodbserver.exe
+2023-05-23 07:16:28 - ProcessKill 7288
+2023-05-23 07:16:28 - Found child process: 11932 Name: conhost.exe
+2023-05-23 07:16:28 - Found child process: 7576 Name: node.exe
+2023-05-23 07:16:29 - Stopping process 11932
+2023-05-23 07:16:29 - Send SIGINT 11932
+2023-05-23 07:16:29 - SIGINT to 11932 failed - Killing as fallback
+2023-05-23 07:16:29 - Stopping process 7576
+2023-05-23 07:16:29 - Send SIGINT 7576
+2023-05-23 07:16:29 - SIGINT to 7576 failed - Killing as fallback
+2023-05-23 07:16:29 - Stopping process 7288
+2023-05-23 07:16:29 - Send SIGINT 7288
+2023-05-23 07:16:29 - SIGINT to 7288 failed - Killing as fallback
+2023-05-23 07:16:29 - Finished bastianmongodbserver.exe
+2023-05-23 07:18:27 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index2.js" --scriptoptions= --log "Bastian MongoDB server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-23 07:18:27 - Started 1280
+2023-05-23 09:42:41 - Stopping bastianmongodbserver.exe
+2023-05-23 09:42:41 - ProcessKill 1280
+2023-05-23 09:42:42 - Found child process: 6856 Name: conhost.exe
+2023-05-23 09:42:42 - Found child process: 6244 Name: node.exe
+2023-05-23 09:42:42 - Stopping process 6856
+2023-05-23 09:42:42 - Send SIGINT 6856
+2023-05-23 09:42:42 - SIGINT to 6856 failed - Killing as fallback
+2023-05-23 09:42:42 - Stopping process 6244
+2023-05-23 09:42:42 - Send SIGINT 6244
+2023-05-23 09:42:42 - SIGINT to 6244 failed - Killing as fallback
+2023-05-23 09:42:42 - Stopping process 1280
+2023-05-23 09:42:42 - Send SIGINT 1280
+2023-05-23 09:42:42 - SIGINT to 1280 failed - Killing as fallback
+2023-05-23 09:42:42 - Finished bastianmongodbserver.exe
+2023-05-23 09:42:43 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index2.js" --scriptoptions= --log "Bastian MongoDB server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-23 09:42:43 - Started 9392
+2023-05-23 09:47:09 - Stopping bastianmongodbserver.exe
+2023-05-23 09:47:09 - ProcessKill 9392
+2023-05-23 09:47:10 - Found child process: 5108 Name: conhost.exe
+2023-05-23 09:47:10 - Found child process: 12384 Name: node.exe
+2023-05-23 09:47:10 - Stopping process 5108
+2023-05-23 09:47:10 - Send SIGINT 5108
+2023-05-23 09:47:10 - SIGINT to 5108 failed - Killing as fallback
+2023-05-23 09:47:10 - Stopping process 12384
+2023-05-23 09:47:10 - Send SIGINT 12384
+2023-05-23 09:47:10 - SIGINT to 12384 failed - Killing as fallback
+2023-05-23 09:47:10 - Stopping process 9392
+2023-05-23 09:47:10 - Send SIGINT 9392
+2023-05-23 09:47:10 - SIGINT to 9392 failed - Killing as fallback
+2023-05-23 09:47:10 - Finished bastianmongodbserver.exe
+2023-05-23 10:47:05 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index2.js" --scriptoptions= --log "Bastian MongoDB server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-23 10:47:05 - Started 6928
+2023-05-23 13:07:42 - Stopping bastianmongodbserver.exe
+2023-05-23 13:07:42 - ProcessKill 6928
+2023-05-23 13:07:42 - Found child process: 8208 Name: conhost.exe
+2023-05-23 13:07:42 - Found child process: 12532 Name: node.exe
+2023-05-23 13:07:42 - Stopping process 8208
+2023-05-23 13:07:42 - Send SIGINT 8208
+2023-05-23 13:07:42 - SIGINT to 8208 failed - Killing as fallback
+2023-05-23 13:07:42 - Stopping process 12532
+2023-05-23 13:07:42 - Send SIGINT 12532
+2023-05-23 13:07:42 - SIGINT to 12532 failed - Killing as fallback
+2023-05-23 13:07:42 - Stopping process 6928
+2023-05-23 13:07:42 - Send SIGINT 6928
+2023-05-23 13:07:42 - SIGINT to 6928 failed - Killing as fallback
+2023-05-23 13:07:42 - Finished bastianmongodbserver.exe
+2023-05-23 13:07:43 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index2.js" --scriptoptions= --log "Bastian MongoDB server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-23 13:07:44 - Started 11548
+2023-05-23 14:46:52 - Stopping bastianmongodbserver.exe
+2023-05-23 14:46:52 - ProcessKill 11548
+2023-05-23 14:46:52 - Found child process: 580 Name: conhost.exe
+2023-05-23 14:46:52 - Found child process: 11584 Name: node.exe
+2023-05-23 14:46:52 - Stopping process 580
+2023-05-23 14:46:52 - Send SIGINT 580
+2023-05-23 14:46:52 - SIGINT to 580 failed - Killing as fallback
+2023-05-23 14:46:52 - Stopping process 11584
+2023-05-23 14:46:52 - Send SIGINT 11584
+2023-05-23 14:46:52 - SIGINT to 11584 failed - Killing as fallback
+2023-05-23 14:46:52 - Stopping process 11548
+2023-05-23 14:46:52 - Send SIGINT 11548
+2023-05-23 14:46:52 - SIGINT to 11548 failed - Killing as fallback
+2023-05-23 14:46:52 - Finished bastianmongodbserver.exe
+2023-05-23 14:46:53 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index2.js" --scriptoptions= --log "Bastian MongoDB server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-23 14:46:53 - Started 7372
+2023-05-23 14:48:11 - Stopping bastianmongodbserver.exe
+2023-05-23 14:48:11 - ProcessKill 7372
+2023-05-23 14:48:11 - Found child process: 7292 Name: conhost.exe
+2023-05-23 14:48:11 - Found child process: 12972 Name: node.exe
+2023-05-23 14:48:11 - Stopping process 7292
+2023-05-23 14:48:11 - Send SIGINT 7292
+2023-05-23 14:48:11 - SIGINT to 7292 failed - Killing as fallback
+2023-05-23 14:48:12 - Stopping process 12972
+2023-05-23 14:48:12 - Send SIGINT 12972
+2023-05-23 14:48:12 - SIGINT to 12972 failed - Killing as fallback
+2023-05-23 14:48:12 - Stopping process 7372
+2023-05-23 14:48:12 - Send SIGINT 7372
+2023-05-23 14:48:12 - SIGINT to 7372 failed - Killing as fallback
+2023-05-23 14:48:12 - Finished bastianmongodbserver.exe
+2023-05-23 14:48:13 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index2.js" --scriptoptions= --log "Bastian MongoDB server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-23 14:48:13 - Started 4112
+2023-05-23 15:15:43 - Stopping bastianmongodbserver.exe
+2023-05-23 15:15:43 - ProcessKill 4112
+2023-05-23 15:15:43 - Found child process: 11408 Name: conhost.exe
+2023-05-23 15:15:43 - Found child process: 6924 Name: node.exe
+2023-05-23 15:15:43 - Stopping process 11408
+2023-05-23 15:15:43 - Send SIGINT 11408
+2023-05-23 15:15:43 - SIGINT to 11408 failed - Killing as fallback
+2023-05-23 15:15:43 - Stopping process 6924
+2023-05-23 15:15:43 - Send SIGINT 6924
+2023-05-23 15:15:43 - SIGINT to 6924 failed - Killing as fallback
+2023-05-23 15:15:43 - Stopping process 4112
+2023-05-23 15:15:43 - Send SIGINT 4112
+2023-05-23 15:15:43 - SIGINT to 4112 failed - Killing as fallback
+2023-05-23 15:15:43 - Finished bastianmongodbserver.exe
+2023-05-23 15:15:44 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index2.js" --scriptoptions= --log "Bastian MongoDB server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-23 15:15:45 - Started 12792
+2023-05-23 15:30:22 - Stopping bastianmongodbserver.exe
+2023-05-23 15:30:22 - ProcessKill 12792
+2023-05-23 15:30:22 - Found child process: 6656 Name: conhost.exe
+2023-05-23 15:30:22 - Found child process: 12280 Name: node.exe
+2023-05-23 15:30:22 - Stopping process 6656
+2023-05-23 15:30:22 - Send SIGINT 6656
+2023-05-23 15:30:22 - SIGINT to 6656 failed - Killing as fallback
+2023-05-23 15:30:22 - Stopping process 12280
+2023-05-23 15:30:22 - Send SIGINT 12280
+2023-05-23 15:30:22 - SIGINT to 12280 failed - Killing as fallback
+2023-05-23 15:30:22 - Stopping process 12792
+2023-05-23 15:30:22 - Send SIGINT 12792
+2023-05-23 15:30:22 - SIGINT to 12792 failed - Killing as fallback
+2023-05-23 15:30:22 - Finished bastianmongodbserver.exe
+2023-05-23 15:30:23 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index2.js" --scriptoptions= --log "Bastian MongoDB server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-23 15:30:23 - Started 1080
+2023-05-23 15:32:08 - Stopping bastianmongodbserver.exe
+2023-05-23 15:32:08 - ProcessKill 1080
+2023-05-23 15:32:08 - Found child process: 12148 Name: conhost.exe
+2023-05-23 15:32:08 - Found child process: 10248 Name: node.exe
+2023-05-23 15:32:08 - Stopping process 12148
+2023-05-23 15:32:08 - Send SIGINT 12148
+2023-05-23 15:32:08 - SIGINT to 12148 failed - Killing as fallback
+2023-05-23 15:32:08 - Stopping process 10248
+2023-05-23 15:32:08 - Send SIGINT 10248
+2023-05-23 15:32:08 - SIGINT to 10248 failed - Killing as fallback
+2023-05-23 15:32:08 - Stopping process 1080
+2023-05-23 15:32:08 - Send SIGINT 1080
+2023-05-23 15:32:08 - SIGINT to 1080 failed - Killing as fallback
+2023-05-23 15:32:08 - Finished bastianmongodbserver.exe
+2023-05-23 15:32:09 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index2.js" --scriptoptions= --log "Bastian MongoDB server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-23 15:32:10 - Started 11868
+2023-05-25 08:27:41 - Stopping bastianmongodbserver.exe
+2023-05-25 08:27:41 - ProcessKill 11868
+2023-05-25 08:27:41 - Found child process: 13304 Name: conhost.exe
+2023-05-25 08:27:41 - Found child process: 11388 Name: node.exe
+2023-05-25 08:27:41 - Stopping process 13304
+2023-05-25 08:27:41 - Send SIGINT 13304
+2023-05-25 08:27:41 - SIGINT to 13304 failed - Killing as fallback
+2023-05-25 08:27:41 - Stopping process 11388
+2023-05-25 08:27:41 - Send SIGINT 11388
+2023-05-25 08:27:41 - SIGINT to 11388 failed - Killing as fallback
+2023-05-25 08:27:41 - Stopping process 11868
+2023-05-25 08:27:41 - Send SIGINT 11868
+2023-05-25 08:27:41 - SIGINT to 11868 failed - Killing as fallback
+2023-05-25 08:27:41 - Finished bastianmongodbserver.exe
+2023-05-25 08:27:43 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index2.js" --scriptoptions= --log "Bastian MongoDB server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-25 08:27:43 - Started 11192
+2023-05-25 08:28:32 - Stopping bastianmongodbserver.exe
+2023-05-25 08:28:32 - ProcessKill 11192
+2023-05-25 08:28:32 - Found child process: 7932 Name: conhost.exe
+2023-05-25 08:28:32 - Found child process: 10808 Name: node.exe
+2023-05-25 08:28:32 - Stopping process 7932
+2023-05-25 08:28:32 - Send SIGINT 7932
+2023-05-25 08:28:32 - SIGINT to 7932 failed - Killing as fallback
+2023-05-25 08:28:32 - Stopping process 10808
+2023-05-25 08:28:32 - Send SIGINT 10808
+2023-05-25 08:28:32 - SIGINT to 10808 failed - Killing as fallback
+2023-05-25 08:28:32 - Stopping process 11192
+2023-05-25 08:28:32 - Send SIGINT 11192
+2023-05-25 08:28:32 - SIGINT to 11192 failed - Killing as fallback
+2023-05-25 08:28:32 - Finished bastianmongodbserver.exe
+2023-05-25 08:41:50 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index2.js" --scriptoptions= --log "Bastian MongoDB server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-25 08:41:51 - Started 4844
+2023-05-25 08:49:11 - Stopping bastianmongodbserver.exe
+2023-05-25 08:49:11 - ProcessKill 4844
+2023-05-25 08:49:11 - Found child process: 3528 Name: conhost.exe
+2023-05-25 08:49:11 - Found child process: 1768 Name: node.exe
+2023-05-25 08:49:11 - Stopping process 3528
+2023-05-25 08:49:11 - Send SIGINT 3528
+2023-05-25 08:49:11 - SIGINT to 3528 failed - Killing as fallback
+2023-05-25 08:49:11 - Stopping process 1768
+2023-05-25 08:49:11 - Send SIGINT 1768
+2023-05-25 08:49:11 - SIGINT to 1768 failed - Killing as fallback
+2023-05-25 08:49:11 - Stopping process 4844
+2023-05-25 08:49:11 - Send SIGINT 4844
+2023-05-25 08:49:11 - SIGINT to 4844 failed - Killing as fallback
+2023-05-25 08:49:11 - Finished bastianmongodbserver.exe
+2023-05-25 10:31:30 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index2.js" --scriptoptions= --log "Bastian MongoDB server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-25 10:31:30 - Started 12896
+2023-05-25 10:42:22 - Stopping bastianmongodbserver.exe
+2023-05-25 10:42:22 - ProcessKill 12896
+2023-05-25 10:42:22 - Found child process: 6624 Name: conhost.exe
+2023-05-25 10:42:22 - Found child process: 6912 Name: node.exe
+2023-05-25 10:42:22 - Stopping process 6624
+2023-05-25 10:42:22 - Send SIGINT 6624
+2023-05-25 10:42:22 - SIGINT to 6624 failed - Killing as fallback
+2023-05-25 10:42:22 - Stopping process 6912
+2023-05-25 10:42:22 - Send SIGINT 6912
+2023-05-25 10:42:22 - SIGINT to 6912 failed - Killing as fallback
+2023-05-25 10:42:22 - Stopping process 12896
+2023-05-25 10:42:22 - Send SIGINT 12896
+2023-05-25 10:42:22 - SIGINT to 12896 failed - Killing as fallback
+2023-05-25 10:42:22 - Finished bastianmongodbserver.exe
+2023-05-25 10:42:23 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index2.js" --scriptoptions= --log "Bastian MongoDB server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-25 10:42:24 - Started 7436
+2023-05-30 08:50:27 - Stopping bastianmongodbserver.exe
+2023-05-30 08:50:27 - ProcessKill 7436
+2023-05-30 08:50:27 - Found child process: 2188 Name: conhost.exe
+2023-05-30 08:50:27 - Found child process: 892 Name: node.exe
+2023-05-30 08:50:27 - Stopping process 2188
+2023-05-30 08:50:27 - Send SIGINT 2188
+2023-05-30 08:50:27 - SIGINT to 2188 failed - Killing as fallback
+2023-05-30 08:50:27 - Stopping process 892
+2023-05-30 08:50:27 - Send SIGINT 892
+2023-05-30 08:50:27 - SIGINT to 892 failed - Killing as fallback
+2023-05-30 08:50:27 - Stopping process 7436
+2023-05-30 08:50:27 - Send SIGINT 7436
+2023-05-30 08:50:27 - SIGINT to 7436 failed - Killing as fallback
+2023-05-30 08:50:27 - Finished bastianmongodbserver.exe
+2023-05-30 08:50:28 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index2.js" --scriptoptions= --log "Bastian MongoDB server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-30 08:50:28 - Started 12108
+2023-05-30 11:58:48 - Stopping bastianmongodbserver.exe
+2023-05-30 11:58:48 - ProcessKill 12108
+2023-05-30 11:58:48 - Found child process: 5144 Name: conhost.exe
+2023-05-30 11:58:48 - Found child process: 8524 Name: node.exe
+2023-05-30 11:58:48 - Stopping process 5144
+2023-05-30 11:58:48 - Send SIGINT 5144
+2023-05-30 11:58:48 - SIGINT to 5144 failed - Killing as fallback
+2023-05-30 11:58:48 - Stopping process 8524
+2023-05-30 11:58:48 - Send SIGINT 8524
+2023-05-30 11:58:48 - SIGINT to 8524 failed - Killing as fallback
+2023-05-30 11:58:48 - Stopping process 12108
+2023-05-30 11:58:48 - Send SIGINT 12108
+2023-05-30 11:58:48 - SIGINT to 12108 failed - Killing as fallback
+2023-05-30 11:58:48 - Finished bastianmongodbserver.exe
+2023-05-30 11:58:50 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index2.js" --scriptoptions= --log "Bastian MongoDB server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-30 11:58:50 - Started 1808
+2023-05-30 13:00:35 - Stopping bastianmongodbserver.exe
+2023-05-30 13:00:35 - ProcessKill 1808
+2023-05-30 13:00:35 - Found child process: 5152 Name: conhost.exe
+2023-05-30 13:00:35 - Found child process: 11156 Name: node.exe
+2023-05-30 13:00:35 - Stopping process 5152
+2023-05-30 13:00:36 - Send SIGINT 5152
+2023-05-30 13:00:36 - SIGINT to 5152 failed - Killing as fallback
+2023-05-30 13:00:36 - Stopping process 11156
+2023-05-30 13:00:36 - Send SIGINT 11156
+2023-05-30 13:00:36 - SIGINT to 11156 failed - Killing as fallback
+2023-05-30 13:00:36 - Stopping process 1808
+2023-05-30 13:00:36 - Send SIGINT 1808
+2023-05-30 13:00:36 - SIGINT to 1808 failed - Killing as fallback
+2023-05-30 13:00:36 - Finished bastianmongodbserver.exe
+2023-05-30 13:00:37 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index2.js" --scriptoptions= --log "Bastian MongoDB server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-30 13:00:37 - Started 5344
+2023-05-30 13:01:14 - Stopping bastianmongodbserver.exe
+2023-05-30 13:01:14 - ProcessKill 5344
+2023-05-30 13:01:14 - Found child process: 9124 Name: conhost.exe
+2023-05-30 13:01:14 - Found child process: 11068 Name: node.exe
+2023-05-30 13:01:14 - Stopping process 9124
+2023-05-30 13:01:14 - Send SIGINT 9124
+2023-05-30 13:01:14 - SIGINT to 9124 failed - Killing as fallback
+2023-05-30 13:01:14 - Stopping process 11068
+2023-05-30 13:01:14 - Send SIGINT 11068
+2023-05-30 13:01:14 - SIGINT to 11068 failed - Killing as fallback
+2023-05-30 13:01:14 - Stopping process 5344
+2023-05-30 13:01:14 - Send SIGINT 5344
+2023-05-30 13:01:14 - SIGINT to 5344 failed - Killing as fallback
+2023-05-30 13:01:14 - Finished bastianmongodbserver.exe
+2023-05-30 13:01:32 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index2.js" --scriptoptions= --log "Bastian MongoDB server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-30 13:01:33 - Started 11288
+2023-05-30 13:02:10 - Stopping bastianmongodbserver.exe
+2023-05-30 13:02:10 - ProcessKill 11288
+2023-05-30 13:02:10 - Found child process: 13108 Name: conhost.exe
+2023-05-30 13:02:10 - Found child process: 148 Name: node.exe
+2023-05-30 13:02:10 - Stopping process 13108
+2023-05-30 13:02:10 - Send SIGINT 13108
+2023-05-30 13:02:10 - SIGINT to 13108 failed - Killing as fallback
+2023-05-30 13:02:10 - Stopping process 148
+2023-05-30 13:02:10 - Send SIGINT 148
+2023-05-30 13:02:10 - SIGINT to 148 failed - Killing as fallback
+2023-05-30 13:02:10 - Stopping process 11288
+2023-05-30 13:02:10 - Send SIGINT 11288
+2023-05-30 13:02:10 - SIGINT to 11288 failed - Killing as fallback
+2023-05-30 13:02:10 - Finished bastianmongodbserver.exe
+2023-05-30 13:02:11 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index2.js" --scriptoptions= --log "Bastian MongoDB server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-30 13:02:11 - Started 6312
+2023-05-31 08:55:15 - Stopping bastianmongodbserver.exe
+2023-05-31 08:55:15 - ProcessKill 6312
+2023-05-31 08:55:15 - Found child process: 4340 Name: conhost.exe
+2023-05-31 08:55:15 - Found child process: 10008 Name: node.exe
+2023-05-31 08:55:15 - Stopping process 4340
+2023-05-31 08:55:15 - Send SIGINT 4340
+2023-05-31 08:55:15 - SIGINT to 4340 failed - Killing as fallback
+2023-05-31 08:55:15 - Stopping process 10008
+2023-05-31 08:55:15 - Send SIGINT 10008
+2023-05-31 08:55:15 - SIGINT to 10008 failed - Killing as fallback
+2023-05-31 08:55:15 - Stopping process 6312
+2023-05-31 08:55:15 - Send SIGINT 6312
+2023-05-31 08:55:15 - SIGINT to 6312 failed - Killing as fallback
+2023-05-31 08:55:15 - Finished bastianmongodbserver.exe
+2023-05-31 08:55:17 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index2.js" --scriptoptions= --log "Bastian MongoDB server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-31 08:55:17 - Started 10644
+2023-05-31 16:52:40 - Stopping bastianmongodbserver.exe
+2023-05-31 16:52:40 - ProcessKill 10644
+2023-05-31 16:52:40 - Found child process: 8944 Name: conhost.exe
+2023-05-31 16:52:40 - Found child process: 13140 Name: node.exe
+2023-05-31 16:52:40 - Stopping process 8944
+2023-05-31 16:52:40 - Send SIGINT 8944
+2023-05-31 16:52:40 - SIGINT to 8944 failed - Killing as fallback
+2023-05-31 16:52:40 - Stopping process 13140
+2023-05-31 16:52:40 - Send SIGINT 13140
+2023-05-31 16:52:40 - SIGINT to 13140 failed - Killing as fallback
+2023-05-31 16:52:40 - Stopping process 10644
+2023-05-31 16:52:40 - Send SIGINT 10644
+2023-05-31 16:52:40 - SIGINT to 10644 failed - Killing as fallback
+2023-05-31 16:52:40 - Finished bastianmongodbserver.exe
+2023-05-31 16:52:41 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index2.js" --scriptoptions= --log "Bastian MongoDB server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-31 16:52:41 - Started 8520
+2023-06-01 09:44:42 - Stopping bastianmongodbserver.exe
+2023-06-01 09:44:42 - ProcessKill 8520
+2023-06-01 09:44:42 - Found child process: 11572 Name: conhost.exe
+2023-06-01 09:44:42 - Found child process: 11060 Name: node.exe
+2023-06-01 09:44:42 - Stopping process 11572
+2023-06-01 09:44:42 - Send SIGINT 11572
+2023-06-01 09:44:42 - SIGINT to 11572 failed - Killing as fallback
+2023-06-01 09:44:43 - Stopping process 11060
+2023-06-01 09:44:43 - Send SIGINT 11060
+2023-06-01 09:44:43 - SIGINT to 11060 failed - Killing as fallback
+2023-06-01 09:44:43 - Stopping process 8520
+2023-06-01 09:44:43 - Send SIGINT 8520
+2023-06-01 09:44:43 - SIGINT to 8520 failed - Killing as fallback
+2023-06-01 09:44:43 - Finished bastianmongodbserver.exe
+2023-06-01 09:44:44 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index2.js" --scriptoptions= --log "Bastian MongoDB server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-06-01 09:44:44 - Started 4280
+2023-06-01 10:19:54 - Stopping bastianmongodbserver.exe
+2023-06-01 10:19:54 - ProcessKill 4280
+2023-06-01 10:19:54 - Found child process: 9508 Name: conhost.exe
+2023-06-01 10:19:54 - Found child process: 9304 Name: node.exe
+2023-06-01 10:19:54 - Stopping process 9508
+2023-06-01 10:19:54 - Send SIGINT 9508
+2023-06-01 10:19:54 - SIGINT to 9508 failed - Killing as fallback
+2023-06-01 10:19:55 - Stopping process 9304
+2023-06-01 10:19:55 - Send SIGINT 9304
+2023-06-01 10:19:55 - SIGINT to 9304 failed - Killing as fallback
+2023-06-01 10:19:55 - Stopping process 4280
+2023-06-01 10:19:55 - Send SIGINT 4280
+2023-06-01 10:19:55 - SIGINT to 4280 failed - Killing as fallback
+2023-06-01 10:19:55 - Finished bastianmongodbserver.exe
+2023-06-01 10:19:55 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index2.js" --scriptoptions= --log "Bastian MongoDB server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-06-01 10:19:56 - Started 2124
+2023-06-01 11:27:28 - Stopping bastianmongodbserver.exe
+2023-06-01 11:27:28 - ProcessKill 2124
+2023-06-01 11:27:28 - Found child process: 5076 Name: conhost.exe
+2023-06-01 11:27:29 - Found child process: 6956 Name: node.exe
+2023-06-01 11:27:29 - Stopping process 5076
+2023-06-01 11:27:29 - Send SIGINT 5076
+2023-06-01 11:27:29 - SIGINT to 5076 failed - Killing as fallback
+2023-06-01 11:27:29 - Stopping process 6956
+2023-06-01 11:27:29 - Send SIGINT 6956
+2023-06-01 11:27:29 - SIGINT to 6956 failed - Killing as fallback
+2023-06-01 11:27:29 - Stopping process 2124
+2023-06-01 11:27:29 - Send SIGINT 2124
+2023-06-01 11:27:29 - SIGINT to 2124 failed - Killing as fallback
+2023-06-01 11:27:29 - Finished bastianmongodbserver.exe
+2023-06-01 11:27:30 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index2.js" --scriptoptions= --log "Bastian MongoDB server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-06-01 11:27:30 - Started 5448
+2023-06-01 11:30:10 - Stopping bastianmongodbserver.exe
+2023-06-01 11:30:10 - ProcessKill 5448
+2023-06-01 11:30:10 - Found child process: 13284 Name: conhost.exe
+2023-06-01 11:30:10 - Found child process: 12312 Name: node.exe
+2023-06-01 11:30:10 - Stopping process 13284
+2023-06-01 11:30:10 - Send SIGINT 13284
+2023-06-01 11:30:10 - SIGINT to 13284 failed - Killing as fallback
+2023-06-01 11:30:10 - Stopping process 12312
+2023-06-01 11:30:10 - Send SIGINT 12312
+2023-06-01 11:30:10 - SIGINT to 12312 failed - Killing as fallback
+2023-06-01 11:30:10 - Stopping process 5448
+2023-06-01 11:30:10 - Send SIGINT 5448
+2023-06-01 11:30:10 - SIGINT to 5448 failed - Killing as fallback
+2023-06-01 11:30:10 - Finished bastianmongodbserver.exe
+2023-06-01 11:30:11 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index2.js" --scriptoptions= --log "Bastian MongoDB server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-06-01 11:30:11 - Started 5088
+2023-06-01 12:23:49 - Stopping bastianmongodbserver.exe
+2023-06-01 12:23:49 - ProcessKill 5088
+2023-06-01 12:23:49 - Found child process: 3800 Name: conhost.exe
+2023-06-01 12:23:49 - Found child process: 11988 Name: node.exe
+2023-06-01 12:23:49 - Stopping process 3800
+2023-06-01 12:23:49 - Send SIGINT 3800
+2023-06-01 12:23:49 - SIGINT to 3800 failed - Killing as fallback
+2023-06-01 12:23:49 - Stopping process 11988
+2023-06-01 12:23:49 - Send SIGINT 11988
+2023-06-01 12:23:49 - SIGINT to 11988 failed - Killing as fallback
+2023-06-01 12:23:49 - Stopping process 5088
+2023-06-01 12:23:49 - Send SIGINT 5088
+2023-06-01 12:23:49 - SIGINT to 5088 failed - Killing as fallback
+2023-06-01 12:23:49 - Finished bastianmongodbserver.exe
+2023-06-01 12:23:50 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index2.js" --scriptoptions= --log "Bastian MongoDB server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-06-01 12:23:50 - Started 12224
+2023-06-01 12:42:21 - Stopping bastianmongodbserver.exe
+2023-06-01 12:42:21 - ProcessKill 12224
+2023-06-01 12:42:22 - Found child process: 12356 Name: conhost.exe
+2023-06-01 12:42:22 - Found child process: 2420 Name: node.exe
+2023-06-01 12:42:22 - Stopping process 12356
+2023-06-01 12:42:22 - Send SIGINT 12356
+2023-06-01 12:42:22 - SIGINT to 12356 failed - Killing as fallback
+2023-06-01 12:42:22 - Stopping process 2420
+2023-06-01 12:42:22 - Send SIGINT 2420
+2023-06-01 12:42:22 - SIGINT to 2420 failed - Killing as fallback
+2023-06-01 12:42:22 - Stopping process 12224
+2023-06-01 12:42:22 - Send SIGINT 12224
+2023-06-01 12:42:22 - SIGINT to 12224 failed - Killing as fallback
+2023-06-01 12:42:22 - Finished bastianmongodbserver.exe
+2023-06-01 12:42:23 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index2.js" --scriptoptions= --log "Bastian MongoDB server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-06-01 12:42:23 - Started 13236
+2023-06-01 13:12:00 - Stopping bastianmongodbserver.exe
+2023-06-01 13:12:00 - ProcessKill 13236
+2023-06-01 13:12:00 - Found child process: 12892 Name: conhost.exe
+2023-06-01 13:12:00 - Found child process: 4276 Name: node.exe
+2023-06-01 13:12:00 - Stopping process 12892
+2023-06-01 13:12:00 - Send SIGINT 12892
+2023-06-01 13:12:00 - SIGINT to 12892 failed - Killing as fallback
+2023-06-01 13:12:00 - Stopping process 4276
+2023-06-01 13:12:00 - Send SIGINT 4276
+2023-06-01 13:12:00 - SIGINT to 4276 failed - Killing as fallback
+2023-06-01 13:12:00 - Stopping process 13236
+2023-06-01 13:12:00 - Send SIGINT 13236
+2023-06-01 13:12:00 - SIGINT to 13236 failed - Killing as fallback
+2023-06-01 13:12:00 - Finished bastianmongodbserver.exe
+2023-06-01 13:12:02 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index2.js" --scriptoptions= --log "Bastian MongoDB server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-06-01 13:12:02 - Started 11712
+2023-06-02 11:21:09 - Stopping bastianmongodbserver.exe
+2023-06-02 11:21:09 - ProcessKill 11712
+2023-06-02 11:21:09 - Found child process: 10404 Name: conhost.exe
+2023-06-02 11:21:09 - Found child process: 11748 Name: node.exe
+2023-06-02 11:21:09 - Stopping process 10404
+2023-06-02 11:21:09 - Send SIGINT 10404
+2023-06-02 11:21:09 - SIGINT to 10404 failed - Killing as fallback
+2023-06-02 11:21:09 - Stopping process 11748
+2023-06-02 11:21:09 - Send SIGINT 11748
+2023-06-02 11:21:09 - SIGINT to 11748 failed - Killing as fallback
+2023-06-02 11:21:09 - Stopping process 11712
+2023-06-02 11:21:09 - Send SIGINT 11712
+2023-06-02 11:21:09 - SIGINT to 11712 failed - Killing as fallback
+2023-06-02 11:21:09 - Finished bastianmongodbserver.exe
+2023-06-02 11:21:10 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index2.js" --scriptoptions= --log "Bastian MongoDB server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-06-02 11:21:10 - Started 8088
+2023-06-02 14:06:00 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index2.js" --scriptoptions= --log "Bastian MongoDB server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-06-02 14:06:00 - Started 12412
+2023-06-02 14:07:03 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index2.js" --scriptoptions= --log "Bastian MongoDB server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-06-02 14:07:03 - Started 11372
+2023-06-02 14:08:07 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index2.js" --scriptoptions= --log "Bastian MongoDB server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-06-02 14:08:07 - Started 6240
+2023-06-02 14:09:11 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index2.js" --scriptoptions= --log "Bastian MongoDB server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-06-02 14:09:11 - Started 4232
+2023-06-02 14:10:15 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index2.js" --scriptoptions= --log "Bastian MongoDB server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-06-02 14:10:15 - Started 10928
+2023-06-02 15:06:51 - Stopping bastianmongodbserver.exe
+2023-06-02 15:06:51 - ProcessKill 10928
+2023-06-02 15:06:52 - Found child process: 12864 Name: conhost.exe
+2023-06-02 15:06:52 - Found child process: 1172 Name: node.exe
+2023-06-02 15:06:52 - Stopping process 12864
+2023-06-02 15:06:52 - Send SIGINT 12864
+2023-06-02 15:06:52 - SIGINT to 12864 failed - Killing as fallback
+2023-06-02 15:06:52 - Stopping process 1172
+2023-06-02 15:06:52 - Send SIGINT 1172
+2023-06-02 15:06:52 - SIGINT to 1172 failed - Killing as fallback
+2023-06-02 15:06:52 - Stopping process 10928
+2023-06-02 15:06:52 - Send SIGINT 10928
+2023-06-02 15:06:52 - SIGINT to 10928 failed - Killing as fallback
+2023-06-02 15:06:52 - Finished bastianmongodbserver.exe
+2023-06-02 15:06:53 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index2.js" --scriptoptions= --log "Bastian MongoDB server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-06-02 15:06:53 - Started 8036
+2023-06-02 15:10:45 - Stopping bastianmongodbserver.exe
+2023-06-02 15:10:45 - ProcessKill 8036
+2023-06-02 15:10:45 - Found child process: 6964 Name: conhost.exe
+2023-06-02 15:10:45 - Found child process: 2440 Name: node.exe
+2023-06-02 15:10:45 - Stopping process 6964
+2023-06-02 15:10:45 - Send SIGINT 6964
+2023-06-02 15:10:45 - SIGINT to 6964 failed - Killing as fallback
+2023-06-02 15:10:45 - Stopping process 2440
+2023-06-02 15:10:46 - Send SIGINT 2440
+2023-06-02 15:10:46 - SIGINT to 2440 failed - Killing as fallback
+2023-06-02 15:10:46 - Stopping process 8036
+2023-06-02 15:10:46 - Send SIGINT 8036
+2023-06-02 15:10:46 - SIGINT to 8036 failed - Killing as fallback
+2023-06-02 15:10:46 - Finished bastianmongodbserver.exe
+2023-06-02 15:12:35 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index2.js" --scriptoptions= --log "Bastian MongoDB server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-06-02 15:12:35 - Started 11404
+2023-06-02 15:20:36 - Stopping bastianmongodbserver.exe
+2023-06-02 15:20:36 - ProcessKill 11404
+2023-06-02 15:20:36 - Found child process: 12736 Name: conhost.exe
+2023-06-02 15:20:36 - Found child process: 13152 Name: node.exe
+2023-06-02 15:20:36 - Stopping process 12736
+2023-06-02 15:20:36 - Send SIGINT 12736
+2023-06-02 15:20:36 - SIGINT to 12736 failed - Killing as fallback
+2023-06-02 15:20:36 - Stopping process 13152
+2023-06-02 15:20:36 - Send SIGINT 13152
+2023-06-02 15:20:36 - SIGINT to 13152 failed - Killing as fallback
+2023-06-02 15:20:36 - Stopping process 11404
+2023-06-02 15:20:36 - Send SIGINT 11404
+2023-06-02 15:20:36 - SIGINT to 11404 failed - Killing as fallback
+2023-06-02 15:20:36 - Finished bastianmongodbserver.exe
+2023-06-02 15:20:37 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index2.js" --scriptoptions= --log "Bastian MongoDB server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-06-02 15:20:37 - Started 12564
+2023-06-05 08:37:21 - Stopping bastianmongodbserver.exe
+2023-06-05 08:37:21 - ProcessKill 12564
+2023-06-05 08:37:21 - Found child process: 5776 Name: conhost.exe
+2023-06-05 08:37:21 - Stopping process 5776
+2023-06-05 08:37:22 - Send SIGINT 5776
+2023-06-05 08:37:22 - SIGINT to 5776 failed - Killing as fallback
+2023-06-05 08:37:22 - Stopping process 12564
+2023-06-05 08:37:22 - Send SIGINT 12564
+2023-06-05 08:37:22 - SIGINT to 12564 failed - Killing as fallback
+2023-06-05 08:37:22 - Finished bastianmongodbserver.exe
+2023-06-05 08:37:23 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index2.js" --scriptoptions= --log "Bastian MongoDB server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-06-05 08:37:23 - Started 12884
+2023-06-05 09:17:00 - Stopping bastianmongodbserver.exe
+2023-06-05 09:17:00 - ProcessKill 12884
+2023-06-05 09:17:00 - Found child process: 8552 Name: conhost.exe
+2023-06-05 09:17:00 - Found child process: 8480 Name: node.exe
+2023-06-05 09:17:00 - Stopping process 8552
+2023-06-05 09:17:00 - Send SIGINT 8552
+2023-06-05 09:17:00 - SIGINT to 8552 failed - Killing as fallback
+2023-06-05 09:17:00 - Stopping process 8480
+2023-06-05 09:17:00 - Send SIGINT 8480
+2023-06-05 09:17:00 - SIGINT to 8480 failed - Killing as fallback
+2023-06-05 09:17:00 - Stopping process 12884
+2023-06-05 09:17:00 - Send SIGINT 12884
+2023-06-05 09:17:00 - SIGINT to 12884 failed - Killing as fallback
+2023-06-05 09:17:00 - Finished bastianmongodbserver.exe
+2023-06-05 09:17:01 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index2.js" --scriptoptions= --log "Bastian MongoDB server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-06-05 09:17:02 - Started 11768
+2023-06-05 09:22:39 - Stopping bastianmongodbserver.exe
+2023-06-05 09:22:39 - ProcessKill 11768
+2023-06-05 09:22:39 - Found child process: 12072 Name: conhost.exe
+2023-06-05 09:22:39 - Found child process: 11644 Name: node.exe
+2023-06-05 09:22:39 - Stopping process 12072
+2023-06-05 09:22:39 - Send SIGINT 12072
+2023-06-05 09:22:39 - SIGINT to 12072 failed - Killing as fallback
+2023-06-05 09:22:39 - Stopping process 11644
+2023-06-05 09:22:39 - Send SIGINT 11644
+2023-06-05 09:22:39 - SIGINT to 11644 failed - Killing as fallback
+2023-06-05 09:22:39 - Stopping process 11768
+2023-06-05 09:22:39 - Send SIGINT 11768
+2023-06-05 09:22:39 - SIGINT to 11768 failed - Killing as fallback
+2023-06-05 09:22:39 - Finished bastianmongodbserver.exe
+2023-06-05 09:22:40 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index2.js" --scriptoptions= --log "Bastian MongoDB server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-06-05 09:22:40 - Started 7832
+2023-06-05 09:23:25 - Stopping bastianmongodbserver.exe
+2023-06-05 09:23:25 - ProcessKill 7832
+2023-06-05 09:23:26 - Found child process: 11164 Name: conhost.exe
+2023-06-05 09:23:26 - Found child process: 5496 Name: node.exe
+2023-06-05 09:23:26 - Stopping process 11164
+2023-06-05 09:23:26 - Send SIGINT 11164
+2023-06-05 09:23:26 - SIGINT to 11164 failed - Killing as fallback
+2023-06-05 09:23:26 - Stopping process 5496
+2023-06-05 09:23:26 - Send SIGINT 5496
+2023-06-05 09:23:26 - SIGINT to 5496 failed - Killing as fallback
+2023-06-05 09:23:26 - Stopping process 7832
+2023-06-05 09:23:26 - Send SIGINT 7832
+2023-06-05 09:23:26 - SIGINT to 7832 failed - Killing as fallback
+2023-06-05 09:23:26 - Finished bastianmongodbserver.exe
+2023-06-05 09:23:27 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index2.js" --scriptoptions= --log "Bastian MongoDB server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-06-05 09:23:27 - Started 8624
+2023-06-05 09:36:15 - Stopping bastianmongodbserver.exe
+2023-06-05 09:36:15 - ProcessKill 8624
+2023-06-05 09:36:15 - Found child process: 10908 Name: conhost.exe
+2023-06-05 09:36:15 - Found child process: 11664 Name: node.exe
+2023-06-05 09:36:15 - Stopping process 10908
+2023-06-05 09:36:15 - Send SIGINT 10908
+2023-06-05 09:36:15 - SIGINT to 10908 failed - Killing as fallback
+2023-06-05 09:36:15 - Stopping process 11664
+2023-06-05 09:36:15 - Send SIGINT 11664
+2023-06-05 09:36:15 - SIGINT to 11664 failed - Killing as fallback
+2023-06-05 09:36:15 - Stopping process 8624
+2023-06-05 09:36:15 - Send SIGINT 8624
+2023-06-05 09:36:15 - SIGINT to 8624 failed - Killing as fallback
+2023-06-05 09:36:15 - Finished bastianmongodbserver.exe
+2023-06-05 09:36:16 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index2.js" --scriptoptions= --log "Bastian MongoDB server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-06-05 09:36:17 - Started 12396
+2023-06-05 09:40:47 - Stopping bastianmongodbserver.exe
+2023-06-05 09:40:47 - ProcessKill 12396
+2023-06-05 09:40:48 - Found child process: 5704 Name: conhost.exe
+2023-06-05 09:40:48 - Found child process: 10144 Name: node.exe
+2023-06-05 09:40:48 - Stopping process 5704
+2023-06-05 09:40:48 - Send SIGINT 5704
+2023-06-05 09:40:48 - SIGINT to 5704 failed - Killing as fallback
+2023-06-05 09:40:48 - Stopping process 10144
+2023-06-05 09:40:48 - Send SIGINT 10144
+2023-06-05 09:40:48 - SIGINT to 10144 failed - Killing as fallback
+2023-06-05 09:40:48 - Stopping process 12396
+2023-06-05 09:40:48 - Send SIGINT 12396
+2023-06-05 09:40:48 - SIGINT to 12396 failed - Killing as fallback
+2023-06-05 09:40:48 - Finished bastianmongodbserver.exe
+2023-06-05 09:40:49 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index2.js" --scriptoptions= --log "Bastian MongoDB server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-06-05 09:40:49 - Started 7720
+2023-06-05 09:41:00 - Stopping bastianmongodbserver.exe
+2023-06-05 09:41:00 - ProcessKill 7720
+2023-06-05 09:41:00 - Found child process: 12432 Name: conhost.exe
+2023-06-05 09:41:00 - Found child process: 11752 Name: node.exe
+2023-06-05 09:41:00 - Stopping process 12432
+2023-06-05 09:41:00 - Send SIGINT 12432
+2023-06-05 09:41:00 - SIGINT to 12432 failed - Killing as fallback
+2023-06-05 09:41:00 - Stopping process 11752
+2023-06-05 09:41:00 - Send SIGINT 11752
+2023-06-05 09:41:00 - SIGINT to 11752 failed - Killing as fallback
+2023-06-05 09:41:00 - Stopping process 7720
+2023-06-05 09:41:00 - Send SIGINT 7720
+2023-06-05 09:41:00 - SIGINT to 7720 failed - Killing as fallback
+2023-06-05 09:41:00 - Finished bastianmongodbserver.exe
+2023-06-05 10:11:59 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index2.js" --scriptoptions= --log "Bastian MongoDB server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-06-05 10:11:59 - Started 9852
+2023-06-05 11:54:06 - Stopping bastianmongodbserver.exe
+2023-06-05 11:54:06 - ProcessKill 9852
+2023-06-05 11:54:06 - Found child process: 9324 Name: conhost.exe
+2023-06-05 11:54:06 - Found child process: 9424 Name: node.exe
+2023-06-05 11:54:06 - Stopping process 9324
+2023-06-05 11:54:06 - Send SIGINT 9324
+2023-06-05 11:54:06 - SIGINT to 9324 failed - Killing as fallback
+2023-06-05 11:54:06 - Stopping process 9424
+2023-06-05 11:54:06 - Send SIGINT 9424
+2023-06-05 11:54:06 - SIGINT to 9424 failed - Killing as fallback
+2023-06-05 11:54:06 - Stopping process 9852
+2023-06-05 11:54:06 - Send SIGINT 9852
+2023-06-05 11:54:06 - SIGINT to 9852 failed - Killing as fallback
+2023-06-05 11:54:06 - Finished bastianmongodbserver.exe
+2023-06-05 11:54:07 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index2.js" --scriptoptions= --log "Bastian MongoDB server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-06-05 11:54:08 - Started 1940
+2023-06-05 17:14:00 - Stopping bastianmongodbserver.exe
+2023-06-05 17:14:00 - ProcessKill 1940
+2023-06-05 17:14:00 - Found child process: 12136 Name: conhost.exe
+2023-06-05 17:14:00 - Found child process: 6772 Name: node.exe
+2023-06-05 17:14:00 - Stopping process 12136
+2023-06-05 17:14:00 - Send SIGINT 12136
+2023-06-05 17:14:00 - SIGINT to 12136 failed - Killing as fallback
+2023-06-05 17:14:00 - Stopping process 6772
+2023-06-05 17:14:00 - Send SIGINT 6772
+2023-06-05 17:14:00 - SIGINT to 6772 failed - Killing as fallback
+2023-06-05 17:14:00 - Stopping process 1940
+2023-06-05 17:14:00 - Send SIGINT 1940
+2023-06-05 17:14:00 - SIGINT to 1940 failed - Killing as fallback
+2023-06-05 17:14:00 - Finished bastianmongodbserver.exe
+2023-06-05 17:14:01 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index2.js" --scriptoptions= --log "Bastian MongoDB server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-06-05 17:14:01 - Started 5876
+2023-06-05 17:16:03 - Stopping bastianmongodbserver.exe
+2023-06-05 17:16:03 - ProcessKill 5876
+2023-06-05 17:16:04 - Found child process: 7148 Name: conhost.exe
+2023-06-05 17:16:04 - Found child process: 11560 Name: node.exe
+2023-06-05 17:16:04 - Stopping process 7148
+2023-06-05 17:16:04 - Send SIGINT 7148
+2023-06-05 17:16:04 - SIGINT to 7148 failed - Killing as fallback
+2023-06-05 17:16:04 - Stopping process 11560
+2023-06-05 17:16:04 - Send SIGINT 11560
+2023-06-05 17:16:04 - SIGINT to 11560 failed - Killing as fallback
+2023-06-05 17:16:04 - Stopping process 5876
+2023-06-05 17:16:04 - Send SIGINT 5876
+2023-06-05 17:16:04 - SIGINT to 5876 failed - Killing as fallback
+2023-06-05 17:16:04 - Finished bastianmongodbserver.exe
+2023-06-05 17:16:05 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index2.js" --scriptoptions= --log "Bastian MongoDB server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-06-05 17:16:05 - Started 5696
+2023-06-07 08:58:55 - Stopping bastianmongodbserver.exe
+2023-06-07 08:58:55 - ProcessKill 5696
+2023-06-07 08:58:56 - Found child process: 11572 Name: conhost.exe
+2023-06-07 08:58:56 - Found child process: 6524 Name: node.exe
+2023-06-07 08:58:56 - Stopping process 11572
+2023-06-07 08:58:56 - Send SIGINT 11572
+2023-06-07 08:58:56 - SIGINT to 11572 failed - Killing as fallback
+2023-06-07 08:58:56 - Stopping process 6524
+2023-06-07 08:58:56 - Send SIGINT 6524
+2023-06-07 08:58:56 - SIGINT to 6524 failed - Killing as fallback
+2023-06-07 08:58:56 - Stopping process 5696
+2023-06-07 08:58:56 - Send SIGINT 5696
+2023-06-07 08:58:56 - SIGINT to 5696 failed - Killing as fallback
+2023-06-07 08:58:56 - Finished bastianmongodbserver.exe
+2023-06-07 08:58:57 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index2.js" --scriptoptions= --log "Bastian MongoDB server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-06-07 08:58:57 - Started 6712
+2023-06-15 17:33:58 - Stopping bastianmongodbserver.exe
+2023-06-15 17:33:58 - ProcessKill 6712
+2023-06-15 17:33:58 - Found child process: 4392 Name: conhost.exe
+2023-06-15 17:33:58 - Found child process: 8476 Name: node.exe
+2023-06-15 17:33:58 - Stopping process 4392
+2023-06-15 17:33:58 - Send SIGINT 4392
+2023-06-15 17:33:58 - SIGINT to 4392 failed - Killing as fallback
+2023-06-15 17:33:58 - Stopping process 8476
+2023-06-15 17:33:58 - Send SIGINT 8476
+2023-06-15 17:33:58 - SIGINT to 8476 failed - Killing as fallback
+2023-06-15 17:33:58 - Stopping process 6712
+2023-06-15 17:33:58 - Send SIGINT 6712
+2023-06-15 17:33:58 - SIGINT to 6712 failed - Killing as fallback
+2023-06-15 17:33:58 - Finished bastianmongodbserver.exe
+2023-06-15 17:33:59 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index2.js" --scriptoptions= --log "Bastian MongoDB server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-06-15 17:34:00 - Started 7864
+2023-06-19 07:59:37 - Stopping bastianmongodbserver.exe
+2023-06-19 07:59:37 - ProcessKill 7864
+2023-06-19 07:59:37 - Found child process: 9396 Name: conhost.exe
+2023-06-19 07:59:37 - Found child process: 9888 Name: node.exe
+2023-06-19 07:59:37 - Stopping process 9396
+2023-06-19 07:59:38 - Send SIGINT 9396
+2023-06-19 07:59:38 - SIGINT to 9396 failed - Killing as fallback
+2023-06-19 07:59:38 - Stopping process 9888
+2023-06-19 07:59:38 - Send SIGINT 9888
+2023-06-19 07:59:38 - SIGINT to 9888 failed - Killing as fallback
+2023-06-19 07:59:38 - Stopping process 7864
+2023-06-19 07:59:38 - Send SIGINT 7864
+2023-06-19 07:59:38 - SIGINT to 7864 failed - Killing as fallback
+2023-06-19 07:59:38 - Finished bastianmongodbserver.exe
+2023-06-19 07:59:38 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index2.js" --scriptoptions= --log "Bastian MongoDB server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-06-19 07:59:39 - Started 12792
+2023-06-19 08:01:45 - Stopping bastianmongodbserver.exe
+2023-06-19 08:01:45 - ProcessKill 12792
+2023-06-19 08:01:45 - Found child process: 11712 Name: conhost.exe
+2023-06-19 08:01:45 - Found child process: 7360 Name: node.exe
+2023-06-19 08:01:45 - Stopping process 11712
+2023-06-19 08:01:45 - Send SIGINT 11712
+2023-06-19 08:01:45 - SIGINT to 11712 failed - Killing as fallback
+2023-06-19 08:01:45 - Stopping process 7360
+2023-06-19 08:01:45 - Send SIGINT 7360
+2023-06-19 08:01:45 - SIGINT to 7360 failed - Killing as fallback
+2023-06-19 08:01:45 - Stopping process 12792
+2023-06-19 08:01:45 - Send SIGINT 12792
+2023-06-19 08:01:45 - SIGINT to 12792 failed - Killing as fallback
+2023-06-19 08:01:45 - Finished bastianmongodbserver.exe
+2023-06-19 08:01:47 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index2.js" --scriptoptions= --log "Bastian MongoDB server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-06-19 08:01:47 - Started 8036
+2023-06-20 09:49:23 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index2.js" --scriptoptions= --log "Bastian MongoDB server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-06-20 09:49:23 - Started 12660

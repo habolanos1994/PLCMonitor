@@ -1,0 +1,233 @@
+node:internal/process/promises:288
+            triggerUncaughtException(err, true /* fromPromise */);
+            ^
+
+[Error: EPERM: operation not permitted, rename 'C:\inetpub\wwwroot\returns plc\TotalUnits.json.76820220' -> 'C:\inetpub\wwwroot\returns plc\TotalUnits.json'] {
+  errno: -4048,
+  code: 'EPERM',
+  syscall: 'rename',
+  path: 'C:\\inetpub\\wwwroot\\returns plc\\TotalUnits.json.76820220',
+  dest: 'C:\\inetpub\\wwwroot\\returns plc\\TotalUnits.json'
+}
+
+Node.js v18.16.0
+node:internal/process/promises:288
+            triggerUncaughtException(err, true /* fromPromise */);
+            ^
+
+[Error: EPERM: operation not permitted, rename 'C:\inetpub\wwwroot\returns plc\TotalUnits.json.3176269309' -> 'C:\inetpub\wwwroot\returns plc\TotalUnits.json'] {
+  errno: -4048,
+  code: 'EPERM',
+  syscall: 'rename',
+  path: 'C:\\inetpub\\wwwroot\\returns plc\\TotalUnits.json.3176269309',
+  dest: 'C:\\inetpub\\wwwroot\\returns plc\\TotalUnits.json'
+}
+
+Node.js v18.16.0
+node:internal/process/promises:288
+            triggerUncaughtException(err, true /* fromPromise */);
+            ^
+
+[Error: EPERM: operation not permitted, rename 'C:\inetpub\wwwroot\returns plc\TotalUnits.json.86282316' -> 'C:\inetpub\wwwroot\returns plc\TotalUnits.json'] {
+  errno: -4048,
+  code: 'EPERM',
+  syscall: 'rename',
+  path: 'C:\\inetpub\\wwwroot\\returns plc\\TotalUnits.json.86282316',
+  dest: 'C:\\inetpub\\wwwroot\\returns plc\\TotalUnits.json'
+}
+
+Node.js v18.16.0
+node:internal/process/promises:288
+            triggerUncaughtException(err, true /* fromPromise */);
+            ^
+
+[Error: EPERM: operation not permitted, rename 'C:\inetpub\wwwroot\returns plc\TotalUnits.json.1805090605' -> 'C:\inetpub\wwwroot\returns plc\TotalUnits.json'] {
+  errno: -4048,
+  code: 'EPERM',
+  syscall: 'rename',
+  path: 'C:\\inetpub\\wwwroot\\returns plc\\TotalUnits.json.1805090605',
+  dest: 'C:\\inetpub\\wwwroot\\returns plc\\TotalUnits.json'
+}
+
+Node.js v18.16.0
+node:internal/process/promises:288
+            triggerUncaughtException(err, true /* fromPromise */);
+            ^
+
+[Error: EPERM: operation not permitted, rename 'C:\inetpub\wwwroot\returns plc\TotalUnits.json.2762702710' -> 'C:\inetpub\wwwroot\returns plc\TotalUnits.json'] {
+  errno: -4048,
+  code: 'EPERM',
+  syscall: 'rename',
+  path: 'C:\\inetpub\\wwwroot\\returns plc\\TotalUnits.json.2762702710',
+  dest: 'C:\\inetpub\\wwwroot\\returns plc\\TotalUnits.json'
+}
+
+Node.js v18.16.0
+node:internal/process/promises:288
+            triggerUncaughtException(err, true /* fromPromise */);
+            ^
+
+[Error: EPERM: operation not permitted, rename 'C:\inetpub\wwwroot\returns plc\TotalUnits.json.3552082591' -> 'C:\inetpub\wwwroot\returns plc\TotalUnits.json'] {
+  errno: -4048,
+  code: 'EPERM',
+  syscall: 'rename',
+  path: 'C:\\inetpub\\wwwroot\\returns plc\\TotalUnits.json.3552082591',
+  dest: 'C:\\inetpub\\wwwroot\\returns plc\\TotalUnits.json'
+}
+
+Node.js v18.16.0
+node:internal/process/promises:288
+            triggerUncaughtException(err, true /* fromPromise */);
+            ^
+
+[Error: EPERM: operation not permitted, rename 'C:\inetpub\wwwroot\returns plc\TotalUnits.json.254587029' -> 'C:\inetpub\wwwroot\returns plc\TotalUnits.json'] {
+  errno: -4048,
+  code: 'EPERM',
+  syscall: 'rename',
+  path: 'C:\\inetpub\\wwwroot\\returns plc\\TotalUnits.json.254587029',
+  dest: 'C:\\inetpub\\wwwroot\\returns plc\\TotalUnits.json'
+}
+
+Node.js v18.16.0
+node:internal/process/promises:288
+            triggerUncaughtException(err, true /* fromPromise */);
+            ^
+
+[Error: EPERM: operation not permitted, rename 'C:\inetpub\wwwroot\returns plc\TotalUnits.json.965291550' -> 'C:\inetpub\wwwroot\returns plc\TotalUnits.json'] {
+  errno: -4048,
+  code: 'EPERM',
+  syscall: 'rename',
+  path: 'C:\\inetpub\\wwwroot\\returns plc\\TotalUnits.json.965291550',
+  dest: 'C:\\inetpub\\wwwroot\\returns plc\\TotalUnits.json'
+}
+
+Node.js v18.16.0
+Error writing file C:\inetpub\wwwroot\returns plc\TotalUnits.json: [Error: EPERM: operation not permitted, rename 'C:\inetpub\wwwroot\returns plc\TotalUnits.json.2332467467' -> 'C:\inetpub\wwwroot\returns plc\TotalUnits.json'] {
+  errno: -4048,
+  code: 'EPERM',
+  syscall: 'rename',
+  path: 'C:\\inetpub\\wwwroot\\returns plc\\TotalUnits.json.2332467467',
+  dest: 'C:\\inetpub\\wwwroot\\returns plc\\TotalUnits.json'
+}
+Error writing file C:\inetpub\wwwroot\returns plc\TotalUnits.json: [Error: EPERM: operation not permitted, rename 'C:\inetpub\wwwroot\returns plc\TotalUnits.json.2111267624' -> 'C:\inetpub\wwwroot\returns plc\TotalUnits.json'] {
+  errno: -4048,
+  code: 'EPERM',
+  syscall: 'rename',
+  path: 'C:\\inetpub\\wwwroot\\returns plc\\TotalUnits.json.2111267624',
+  dest: 'C:\\inetpub\\wwwroot\\returns plc\\TotalUnits.json'
+}
+Error writing file C:\inetpub\wwwroot\returns plc\TotalUnits.json: [Error: EPERM: operation not permitted, rename 'C:\inetpub\wwwroot\returns plc\TotalUnits.json.111931097' -> 'C:\inetpub\wwwroot\returns plc\TotalUnits.json'] {
+  errno: -4048,
+  code: 'EPERM',
+  syscall: 'rename',
+  path: 'C:\\inetpub\\wwwroot\\returns plc\\TotalUnits.json.111931097',
+  dest: 'C:\\inetpub\\wwwroot\\returns plc\\TotalUnits.json'
+}
+Error writing file C:\inetpub\wwwroot\returns plc\TotalUnits.json: [Error: EPERM: operation not permitted, rename 'C:\inetpub\wwwroot\returns plc\TotalUnits.json.978364927' -> 'C:\inetpub\wwwroot\returns plc\TotalUnits.json'] {
+  errno: -4048,
+  code: 'EPERM',
+  syscall: 'rename',
+  path: 'C:\\inetpub\\wwwroot\\returns plc\\TotalUnits.json.978364927',
+  dest: 'C:\\inetpub\\wwwroot\\returns plc\\TotalUnits.json'
+}
+Error writing file C:\inetpub\wwwroot\returns plc\TotalUnits.json: [Error: EPERM: operation not permitted, rename 'C:\inetpub\wwwroot\returns plc\TotalUnits.json.3797146556' -> 'C:\inetpub\wwwroot\returns plc\TotalUnits.json'] {
+  errno: -4048,
+  code: 'EPERM',
+  syscall: 'rename',
+  path: 'C:\\inetpub\\wwwroot\\returns plc\\TotalUnits.json.3797146556',
+  dest: 'C:\\inetpub\\wwwroot\\returns plc\\TotalUnits.json'
+}
+Error writing file C:\inetpub\wwwroot\returns plc\TotalUnits.json: [Error: EPERM: operation not permitted, rename 'C:\inetpub\wwwroot\returns plc\TotalUnits.json.1238517542' -> 'C:\inetpub\wwwroot\returns plc\TotalUnits.json'] {
+  errno: -4048,
+  code: 'EPERM',
+  syscall: 'rename',
+  path: 'C:\\inetpub\\wwwroot\\returns plc\\TotalUnits.json.1238517542',
+  dest: 'C:\\inetpub\\wwwroot\\returns plc\\TotalUnits.json'
+}
+Error writing file C:\inetpub\wwwroot\returns plc\TotalUnits.json: [Error: EPERM: operation not permitted, rename 'C:\inetpub\wwwroot\returns plc\TotalUnits.json.1814140254' -> 'C:\inetpub\wwwroot\returns plc\TotalUnits.json'] {
+  errno: -4048,
+  code: 'EPERM',
+  syscall: 'rename',
+  path: 'C:\\inetpub\\wwwroot\\returns plc\\TotalUnits.json.1814140254',
+  dest: 'C:\\inetpub\\wwwroot\\returns plc\\TotalUnits.json'
+}
+Error writing file C:\inetpub\wwwroot\returns plc\TotalUnits.json: [Error: EPERM: operation not permitted, rename 'C:\inetpub\wwwroot\returns plc\TotalUnits.json.3860826045' -> 'C:\inetpub\wwwroot\returns plc\TotalUnits.json'] {
+  errno: -4048,
+  code: 'EPERM',
+  syscall: 'rename',
+  path: 'C:\\inetpub\\wwwroot\\returns plc\\TotalUnits.json.3860826045',
+  dest: 'C:\\inetpub\\wwwroot\\returns plc\\TotalUnits.json'
+}
+Error writing file C:\inetpub\wwwroot\returns plc\TotalUnits.json: [Error: EPERM: operation not permitted, rename 'C:\inetpub\wwwroot\returns plc\TotalUnits.json.1247695169' -> 'C:\inetpub\wwwroot\returns plc\TotalUnits.json'] {
+  errno: -4048,
+  code: 'EPERM',
+  syscall: 'rename',
+  path: 'C:\\inetpub\\wwwroot\\returns plc\\TotalUnits.json.1247695169',
+  dest: 'C:\\inetpub\\wwwroot\\returns plc\\TotalUnits.json'
+}
+Error writing file C:\inetpub\wwwroot\returns plc\TotalUnits.json: [Error: EPERM: operation not permitted, rename 'C:\inetpub\wwwroot\returns plc\TotalUnits.json.1675503742' -> 'C:\inetpub\wwwroot\returns plc\TotalUnits.json'] {
+  errno: -4048,
+  code: 'EPERM',
+  syscall: 'rename',
+  path: 'C:\\inetpub\\wwwroot\\returns plc\\TotalUnits.json.1675503742',
+  dest: 'C:\\inetpub\\wwwroot\\returns plc\\TotalUnits.json'
+}
+Error writing file C:\inetpub\wwwroot\returns plc\TotalUnits.json: [Error: EPERM: operation not permitted, rename 'C:\inetpub\wwwroot\returns plc\TotalUnits.json.2502390341' -> 'C:\inetpub\wwwroot\returns plc\TotalUnits.json'] {
+  errno: -4048,
+  code: 'EPERM',
+  syscall: 'rename',
+  path: 'C:\\inetpub\\wwwroot\\returns plc\\TotalUnits.json.2502390341',
+  dest: 'C:\\inetpub\\wwwroot\\returns plc\\TotalUnits.json'
+}
+Error writing file C:\inetpub\wwwroot\returns plc\TotalUnits.json: [Error: EPERM: operation not permitted, rename 'C:\inetpub\wwwroot\returns plc\TotalUnits.json.3896651828' -> 'C:\inetpub\wwwroot\returns plc\TotalUnits.json'] {
+  errno: -4048,
+  code: 'EPERM',
+  syscall: 'rename',
+  path: 'C:\\inetpub\\wwwroot\\returns plc\\TotalUnits.json.3896651828',
+  dest: 'C:\\inetpub\\wwwroot\\returns plc\\TotalUnits.json'
+}
+undefined:1
+
+
+SyntaxError: Unexpected end of JSON input
+    at JSON.parse (<anonymous>)
+    at initializeCounters (C:\inetpub\wwwroot\returns plc\index4.js:105:29)
+    at Object.<anonymous> (C:\inetpub\wwwroot\returns plc\index4.js:92:1)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:23:47
+
+Node.js v18.16.0
+undefined:1
+
+
+SyntaxError: Unexpected end of JSON input
+    at JSON.parse (<anonymous>)
+    at initializeCounters (C:\inetpub\wwwroot\returns plc\index4.js:105:29)
+    at Object.<anonymous> (C:\inetpub\wwwroot\returns plc\index4.js:92:1)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:23:47
+
+Node.js v18.16.0
+undefined:1
+
+
+SyntaxError: Unexpected end of JSON input
+    at JSON.parse (<anonymous>)
+    at initializeCounters (C:\inetpub\wwwroot\returns plc\index4.js:105:29)
+    at Object.<anonymous> (C:\inetpub\wwwroot\returns plc\index4.js:92:1)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:23:47
+
+Node.js v18.16.0
