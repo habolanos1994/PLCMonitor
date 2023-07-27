@@ -1,0 +1,1274 @@
+2023-05-01 12:35:52 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index.js" --scriptoptions= --log "Bastian Mqtt server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-01 12:35:52 - Started 9080
+2023-05-01 12:37:36 - Stopping bastianmqttserver.exe
+2023-05-01 12:37:36 - ProcessKill 9080
+2023-05-01 12:37:37 - Found child process: 11896 Name: conhost.exe
+2023-05-01 12:37:37 - Found child process: 7816 Name: node.exe
+2023-05-01 12:37:37 - Stopping process 11896
+2023-05-01 12:37:37 - Send SIGINT 11896
+2023-05-01 12:37:37 - SIGINT to 11896 failed - Killing as fallback
+2023-05-01 12:37:37 - Stopping process 7816
+2023-05-01 12:37:37 - Send SIGINT 7816
+2023-05-01 12:37:37 - SIGINT to 7816 failed - Killing as fallback
+2023-05-01 12:37:37 - Stopping process 9080
+2023-05-01 12:37:37 - Send SIGINT 9080
+2023-05-01 12:37:37 - SIGINT to 9080 failed - Killing as fallback
+2023-05-01 12:37:37 - Finished bastianmqttserver.exe
+2023-05-01 12:39:56 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index.js" --scriptoptions= --log "Bastian Mqtt server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-01 12:39:56 - Started 2540
+2023-05-01 13:45:21 - Stopping bastianmqttserver.exe
+2023-05-01 13:45:21 - ProcessKill 2540
+2023-05-01 13:45:21 - Found child process: 6152 Name: conhost.exe
+2023-05-01 13:45:21 - Found child process: 1980 Name: node.exe
+2023-05-01 13:45:21 - Stopping process 6152
+2023-05-01 13:45:21 - Send SIGINT 6152
+2023-05-01 13:45:21 - SIGINT to 6152 failed - Killing as fallback
+2023-05-01 13:45:21 - Stopping process 1980
+2023-05-01 13:45:21 - Send SIGINT 1980
+2023-05-01 13:45:21 - SIGINT to 1980 failed - Killing as fallback
+2023-05-01 13:45:21 - Stopping process 2540
+2023-05-01 13:45:21 - Send SIGINT 2540
+2023-05-01 13:45:21 - SIGINT to 2540 failed - Killing as fallback
+2023-05-01 13:45:21 - Finished bastianmqttserver.exe
+2023-05-01 13:45:22 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index.js" --scriptoptions= --log "Bastian Mqtt server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-01 13:45:22 - Started 11460
+2023-05-02 08:39:26 - Stopping bastianmqttserver.exe
+2023-05-02 08:39:26 - ProcessKill 11460
+2023-05-02 08:39:26 - Found child process: 9868 Name: conhost.exe
+2023-05-02 08:39:26 - Found child process: 10964 Name: node.exe
+2023-05-02 08:39:27 - Stopping process 9868
+2023-05-02 08:39:27 - Send SIGINT 9868
+2023-05-02 08:39:27 - SIGINT to 9868 failed - Killing as fallback
+2023-05-02 08:39:27 - Stopping process 10964
+2023-05-02 08:39:27 - Send SIGINT 10964
+2023-05-02 08:39:27 - SIGINT to 10964 failed - Killing as fallback
+2023-05-02 08:39:27 - Stopping process 11460
+2023-05-02 08:39:27 - Send SIGINT 11460
+2023-05-02 08:39:27 - SIGINT to 11460 failed - Killing as fallback
+2023-05-02 08:39:27 - Finished bastianmqttserver.exe
+2023-05-02 08:39:28 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index.js" --scriptoptions= --log "Bastian Mqtt server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-02 08:39:28 - Started 744
+2023-05-02 08:40:42 - Stopping bastianmqttserver.exe
+2023-05-02 08:40:42 - ProcessKill 744
+2023-05-02 08:40:42 - Found child process: 10172 Name: conhost.exe
+2023-05-02 08:40:42 - Found child process: 2504 Name: node.exe
+2023-05-02 08:40:42 - Stopping process 10172
+2023-05-02 08:40:42 - Send SIGINT 10172
+2023-05-02 08:40:42 - SIGINT to 10172 failed - Killing as fallback
+2023-05-02 08:40:43 - Stopping process 2504
+2023-05-02 08:40:43 - Send SIGINT 2504
+2023-05-02 08:40:43 - SIGINT to 2504 failed - Killing as fallback
+2023-05-02 08:40:43 - Stopping process 744
+2023-05-02 08:40:43 - Send SIGINT 744
+2023-05-02 08:40:43 - SIGINT to 744 failed - Killing as fallback
+2023-05-02 08:40:43 - Finished bastianmqttserver.exe
+2023-05-02 08:44:56 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index.js" --scriptoptions= --log "Bastian Mqtt server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-02 08:44:56 - Started 11312
+2023-05-03 14:05:02 - Stopping bastianmqttserver.exe
+2023-05-03 14:05:02 - ProcessKill 11312
+2023-05-03 14:05:03 - Found child process: 8520 Name: conhost.exe
+2023-05-03 14:05:03 - Found child process: 10760 Name: node.exe
+2023-05-03 14:05:03 - Stopping process 8520
+2023-05-03 14:05:03 - Send SIGINT 8520
+2023-05-03 14:05:03 - SIGINT to 8520 failed - Killing as fallback
+2023-05-03 14:05:03 - Stopping process 10760
+2023-05-03 14:05:03 - Send SIGINT 10760
+2023-05-03 14:05:03 - SIGINT to 10760 failed - Killing as fallback
+2023-05-03 14:05:03 - Stopping process 11312
+2023-05-03 14:05:03 - Send SIGINT 11312
+2023-05-03 14:05:03 - SIGINT to 11312 failed - Killing as fallback
+2023-05-03 14:05:03 - Finished bastianmqttserver.exe
+2023-05-03 14:05:04 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index.js" --scriptoptions= --log "Bastian Mqtt server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-03 14:05:04 - Started 8432
+2023-05-05 10:41:40 - Stopping bastianmqttserver.exe
+2023-05-05 10:41:40 - ProcessKill 8432
+2023-05-05 10:41:40 - Found child process: 13264 Name: conhost.exe
+2023-05-05 10:41:40 - Found child process: 10096 Name: node.exe
+2023-05-05 10:41:40 - Stopping process 13264
+2023-05-05 10:41:40 - Send SIGINT 13264
+2023-05-05 10:41:40 - SIGINT to 13264 failed - Killing as fallback
+2023-05-05 10:41:40 - Stopping process 10096
+2023-05-05 10:41:40 - Send SIGINT 10096
+2023-05-05 10:41:40 - SIGINT to 10096 failed - Killing as fallback
+2023-05-05 10:41:40 - Stopping process 8432
+2023-05-05 10:41:40 - Send SIGINT 8432
+2023-05-05 10:41:40 - SIGINT to 8432 failed - Killing as fallback
+2023-05-05 10:41:40 - Finished bastianmqttserver.exe
+2023-05-08 15:11:58 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index.js" --scriptoptions= --log "Bastian Mqtt server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-08 15:11:58 - Started 9328
+2023-05-08 15:12:01 - Stopping bastianmqttserver.exe
+2023-05-08 15:12:01 - ProcessKill 9328
+2023-05-08 15:12:02 - Found child process: 13304 Name: conhost.exe
+2023-05-08 15:12:02 - Found child process: 1508 Name: node.exe
+2023-05-08 15:12:02 - Stopping process 13304
+2023-05-08 15:12:02 - Send SIGINT 13304
+2023-05-08 15:12:02 - SIGINT to 13304 failed - Killing as fallback
+2023-05-08 15:12:02 - Found child process: 12236 Name: MongoDBCompass.exe
+2023-05-08 15:12:02 - Found child process: 11880 Name: MongoDBCompass.exe
+2023-05-08 15:12:02 - Found child process: 9380 Name: MongoDBCompass.exe
+2023-05-08 15:12:02 - Found child process: 12984 Name: MongoDBCompass.exe
+2023-05-08 15:12:02 - Stopping process 11880
+2023-05-08 15:12:02 - Send SIGINT 11880
+2023-05-08 15:12:02 - SIGINT to 11880 failed - Killing as fallback
+2023-05-08 15:12:02 - Stopping process 9380
+2023-05-08 15:12:02 - Send SIGINT 9380
+2023-05-08 15:12:02 - SIGINT to 9380 failed - Killing as fallback
+2023-05-08 15:12:02 - Found child process: 13144 Name: MongoDBCompass.exe
+2023-05-08 15:12:02 - Stopping process 13144
+2023-05-08 15:12:02 - Send SIGINT 13144
+2023-05-08 15:12:02 - SIGINT to 13144 failed - Killing as fallback
+2023-05-08 15:12:02 - Stopping process 12984
+2023-05-08 15:12:02 - Send SIGINT 12984
+2023-05-08 15:12:02 - SIGINT to 12984 failed - Killing as fallback
+2023-05-08 15:12:02 - Stopping process 12236
+2023-05-08 15:12:02 - Send SIGINT 12236
+2023-05-08 15:12:02 - SIGINT to 12236 failed - Killing as fallback
+2023-05-08 15:12:02 - Stopping process 1508
+2023-05-08 15:12:02 - Send SIGINT 1508
+2023-05-08 15:12:02 - SIGINT to 1508 failed - Killing as fallback
+2023-05-08 15:12:02 - Stopping process 9328
+2023-05-08 15:12:02 - Send SIGINT 9328
+2023-05-08 15:12:02 - SIGINT to 9328 failed - Killing as fallback
+2023-05-08 15:12:02 - Finished bastianmqttserver.exe
+2023-05-08 15:41:34 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index.js" --scriptoptions= --log "Bastian Mqtt server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-08 15:41:34 - Started 12212
+2023-05-08 16:00:03 - Stopping bastianmqttserver.exe
+2023-05-08 16:00:03 - ProcessKill 12212
+2023-05-08 16:00:04 - Found child process: 4716 Name: conhost.exe
+2023-05-08 16:00:04 - Found child process: 3844 Name: node.exe
+2023-05-08 16:00:04 - Stopping process 4716
+2023-05-08 16:00:04 - Send SIGINT 4716
+2023-05-08 16:00:04 - SIGINT to 4716 failed - Killing as fallback
+2023-05-08 16:00:04 - Stopping process 3844
+2023-05-08 16:00:04 - Send SIGINT 3844
+2023-05-08 16:00:04 - SIGINT to 3844 failed - Killing as fallback
+2023-05-08 16:00:04 - Stopping process 12212
+2023-05-08 16:00:04 - Send SIGINT 12212
+2023-05-08 16:00:04 - SIGINT to 12212 failed - Killing as fallback
+2023-05-08 16:00:04 - Finished bastianmqttserver.exe
+2023-05-08 16:00:05 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index.js" --scriptoptions= --log "Bastian Mqtt server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-08 16:00:05 - Started 6876
+2023-05-08 16:04:04 - Stopping bastianmqttserver.exe
+2023-05-08 16:04:04 - ProcessKill 6876
+2023-05-08 16:04:04 - Found child process: 9636 Name: conhost.exe
+2023-05-08 16:04:04 - Found child process: 12392 Name: node.exe
+2023-05-08 16:04:04 - Stopping process 9636
+2023-05-08 16:04:04 - Send SIGINT 9636
+2023-05-08 16:04:04 - SIGINT to 9636 failed - Killing as fallback
+2023-05-08 16:04:04 - Stopping process 12392
+2023-05-08 16:04:04 - Send SIGINT 12392
+2023-05-08 16:04:04 - SIGINT to 12392 failed - Killing as fallback
+2023-05-08 16:04:04 - Stopping process 6876
+2023-05-08 16:04:04 - Send SIGINT 6876
+2023-05-08 16:04:04 - SIGINT to 6876 failed - Killing as fallback
+2023-05-08 16:04:04 - Finished bastianmqttserver.exe
+2023-05-08 16:04:06 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index.js" --scriptoptions= --log "Bastian Mqtt server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-08 16:04:06 - Started 8744
+2023-05-09 08:41:32 - Stopping bastianmqttserver.exe
+2023-05-09 08:41:32 - ProcessKill 8744
+2023-05-09 08:41:33 - Found child process: 6480 Name: conhost.exe
+2023-05-09 08:41:33 - Found child process: 6868 Name: node.exe
+2023-05-09 08:41:33 - Stopping process 6480
+2023-05-09 08:41:33 - Send SIGINT 6480
+2023-05-09 08:41:33 - SIGINT to 6480 failed - Killing as fallback
+2023-05-09 08:41:33 - Stopping process 6868
+2023-05-09 08:41:33 - Send SIGINT 6868
+2023-05-09 08:41:33 - SIGINT to 6868 failed - Killing as fallback
+2023-05-09 08:41:33 - Stopping process 8744
+2023-05-09 08:41:33 - Send SIGINT 8744
+2023-05-09 08:41:33 - SIGINT to 8744 failed - Killing as fallback
+2023-05-09 08:41:33 - Finished bastianmqttserver.exe
+2023-05-09 08:41:34 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index.js" --scriptoptions= --log "Bastian Mqtt server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-09 08:41:34 - Started 6896
+2023-05-09 08:47:23 - Stopping bastianmqttserver.exe
+2023-05-09 08:47:23 - ProcessKill 6896
+2023-05-09 08:47:23 - Found child process: 5216 Name: conhost.exe
+2023-05-09 08:47:23 - Found child process: 9156 Name: node.exe
+2023-05-09 08:47:23 - Stopping process 5216
+2023-05-09 08:47:23 - Send SIGINT 5216
+2023-05-09 08:47:23 - SIGINT to 5216 failed - Killing as fallback
+2023-05-09 08:47:23 - Stopping process 9156
+2023-05-09 08:47:23 - Send SIGINT 9156
+2023-05-09 08:47:23 - SIGINT to 9156 failed - Killing as fallback
+2023-05-09 08:47:23 - Stopping process 6896
+2023-05-09 08:47:23 - Send SIGINT 6896
+2023-05-09 08:47:23 - SIGINT to 6896 failed - Killing as fallback
+2023-05-09 08:47:23 - Finished bastianmqttserver.exe
+2023-05-09 08:47:25 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index.js" --scriptoptions= --log "Bastian Mqtt server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-09 08:47:25 - Started 11476
+2023-05-09 08:48:25 - Stopping bastianmqttserver.exe
+2023-05-09 08:48:25 - ProcessKill 11476
+2023-05-09 08:48:26 - Found child process: 10980 Name: conhost.exe
+2023-05-09 08:48:26 - Found child process: 9500 Name: node.exe
+2023-05-09 08:48:26 - Stopping process 10980
+2023-05-09 08:48:26 - Send SIGINT 10980
+2023-05-09 08:48:26 - SIGINT to 10980 failed - Killing as fallback
+2023-05-09 08:48:26 - Stopping process 9500
+2023-05-09 08:48:26 - Send SIGINT 9500
+2023-05-09 08:48:26 - SIGINT to 9500 failed - Killing as fallback
+2023-05-09 08:48:26 - Stopping process 11476
+2023-05-09 08:48:26 - Send SIGINT 11476
+2023-05-09 08:48:26 - SIGINT to 11476 failed - Killing as fallback
+2023-05-09 08:48:26 - Finished bastianmqttserver.exe
+2023-05-09 08:53:51 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index.js" --scriptoptions= --log "Bastian Mqtt server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-09 08:53:51 - Started 12928
+2023-05-09 09:29:10 - Stopping bastianmqttserver.exe
+2023-05-09 09:29:10 - ProcessKill 12928
+2023-05-09 09:29:10 - Found child process: 11980 Name: conhost.exe
+2023-05-09 09:29:10 - Found child process: 12312 Name: node.exe
+2023-05-09 09:29:10 - Stopping process 11980
+2023-05-09 09:29:10 - Send SIGINT 11980
+2023-05-09 09:29:10 - SIGINT to 11980 failed - Killing as fallback
+2023-05-09 09:29:10 - Stopping process 12312
+2023-05-09 09:29:10 - Send SIGINT 12312
+2023-05-09 09:29:10 - SIGINT to 12312 failed - Killing as fallback
+2023-05-09 09:29:10 - Stopping process 12928
+2023-05-09 09:29:10 - Send SIGINT 12928
+2023-05-09 09:29:10 - SIGINT to 12928 failed - Killing as fallback
+2023-05-09 09:29:10 - Finished bastianmqttserver.exe
+2023-05-09 09:29:11 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index.js" --scriptoptions= --log "Bastian Mqtt server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-09 09:29:11 - Started 6096
+2023-05-09 09:57:50 - Stopping bastianmqttserver.exe
+2023-05-09 09:57:50 - ProcessKill 6096
+2023-05-09 09:57:50 - Found child process: 7348 Name: conhost.exe
+2023-05-09 09:57:50 - Found child process: 1800 Name: node.exe
+2023-05-09 09:57:51 - Stopping process 7348
+2023-05-09 09:57:51 - Send SIGINT 7348
+2023-05-09 09:57:51 - SIGINT to 7348 failed - Killing as fallback
+2023-05-09 09:57:51 - Stopping process 1800
+2023-05-09 09:57:51 - Send SIGINT 1800
+2023-05-09 09:57:51 - SIGINT to 1800 failed - Killing as fallback
+2023-05-09 09:57:51 - Stopping process 6096
+2023-05-09 09:57:51 - Send SIGINT 6096
+2023-05-09 09:57:51 - SIGINT to 6096 failed - Killing as fallback
+2023-05-09 09:57:51 - Finished bastianmqttserver.exe
+2023-05-09 09:57:52 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index.js" --scriptoptions= --log "Bastian Mqtt server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-09 09:57:52 - Started 12960
+2023-05-09 10:38:28 - Stopping bastianmqttserver.exe
+2023-05-09 10:38:28 - ProcessKill 12960
+2023-05-09 10:38:28 - Found child process: 11468 Name: conhost.exe
+2023-05-09 10:38:28 - Found child process: 7420 Name: node.exe
+2023-05-09 10:38:29 - Stopping process 11468
+2023-05-09 10:38:29 - Send SIGINT 11468
+2023-05-09 10:38:29 - SIGINT to 11468 failed - Killing as fallback
+2023-05-09 10:38:29 - Stopping process 7420
+2023-05-09 10:38:29 - Send SIGINT 7420
+2023-05-09 10:38:29 - SIGINT to 7420 failed - Killing as fallback
+2023-05-09 10:38:29 - Stopping process 12960
+2023-05-09 10:38:29 - Send SIGINT 12960
+2023-05-09 10:38:29 - SIGINT to 12960 failed - Killing as fallback
+2023-05-09 10:38:29 - Finished bastianmqttserver.exe
+2023-05-09 10:38:30 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index.js" --scriptoptions= --log "Bastian Mqtt server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-09 10:38:30 - Started 5888
+2023-05-15 14:15:44 - Stopping bastianmqttserver.exe
+2023-05-15 14:15:44 - ProcessKill 5888
+2023-05-15 14:15:44 - Found child process: 8204 Name: conhost.exe
+2023-05-15 14:15:44 - Found child process: 4544 Name: node.exe
+2023-05-15 14:15:44 - Stopping process 8204
+2023-05-15 14:15:44 - Send SIGINT 8204
+2023-05-15 14:15:44 - SIGINT to 8204 failed - Killing as fallback
+2023-05-15 14:15:44 - Stopping process 4544
+2023-05-15 14:15:44 - Send SIGINT 4544
+2023-05-15 14:15:44 - SIGINT to 4544 failed - Killing as fallback
+2023-05-15 14:15:44 - Stopping process 5888
+2023-05-15 14:15:44 - Send SIGINT 5888
+2023-05-15 14:15:44 - SIGINT to 5888 failed - Killing as fallback
+2023-05-15 14:15:44 - Finished bastianmqttserver.exe
+2023-05-15 14:15:45 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index.js" --scriptoptions= --log "Bastian Mqtt server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-15 14:15:45 - Started 752
+2023-05-15 14:15:56 - Stopping bastianmqttserver.exe
+2023-05-15 14:15:56 - ProcessKill 752
+2023-05-15 14:15:56 - Found child process: 12144 Name: conhost.exe
+2023-05-15 14:15:56 - Found child process: 12952 Name: node.exe
+2023-05-15 14:15:56 - Stopping process 12144
+2023-05-15 14:15:56 - Send SIGINT 12144
+2023-05-15 14:15:56 - SIGINT to 12144 failed - Killing as fallback
+2023-05-15 14:15:57 - Stopping process 12952
+2023-05-15 14:15:57 - Send SIGINT 12952
+2023-05-15 14:15:57 - SIGINT to 12952 failed - Killing as fallback
+2023-05-15 14:15:57 - Stopping process 752
+2023-05-15 14:15:57 - Send SIGINT 752
+2023-05-15 14:15:57 - SIGINT to 752 failed - Killing as fallback
+2023-05-15 14:15:57 - Finished bastianmqttserver.exe
+2023-05-15 14:15:58 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index.js" --scriptoptions= --log "Bastian Mqtt server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-15 14:15:58 - Started 10052
+2023-05-16 10:00:57 - Stopping bastianmqttserver.exe
+2023-05-16 10:00:57 - ProcessKill 10052
+2023-05-16 10:00:57 - Found child process: 12860 Name: conhost.exe
+2023-05-16 10:00:57 - Found child process: 5648 Name: node.exe
+2023-05-16 10:00:57 - Stopping process 12860
+2023-05-16 10:00:57 - Send SIGINT 12860
+2023-05-16 10:00:57 - SIGINT to 12860 failed - Killing as fallback
+2023-05-16 10:00:57 - Stopping process 5648
+2023-05-16 10:00:57 - Send SIGINT 5648
+2023-05-16 10:00:57 - SIGINT to 5648 failed - Killing as fallback
+2023-05-16 10:00:57 - Stopping process 10052
+2023-05-16 10:00:57 - Send SIGINT 10052
+2023-05-16 10:00:57 - SIGINT to 10052 failed - Killing as fallback
+2023-05-16 10:00:57 - Finished bastianmqttserver.exe
+2023-05-16 13:21:41 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index.js" --scriptoptions= --log "Bastian Mqtt server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-16 13:21:41 - Started 7048
+2023-05-16 13:36:45 - Stopping bastianmqttserver.exe
+2023-05-16 13:36:45 - ProcessKill 7048
+2023-05-16 13:36:45 - Found child process: 1096 Name: conhost.exe
+2023-05-16 13:36:45 - Found child process: 1132 Name: node.exe
+2023-05-16 13:36:45 - Stopping process 1096
+2023-05-16 13:36:45 - Send SIGINT 1096
+2023-05-16 13:36:45 - SIGINT to 1096 failed - Killing as fallback
+2023-05-16 13:36:45 - Stopping process 1132
+2023-05-16 13:36:45 - Send SIGINT 1132
+2023-05-16 13:36:45 - SIGINT to 1132 failed - Killing as fallback
+2023-05-16 13:36:45 - Stopping process 7048
+2023-05-16 13:36:45 - Send SIGINT 7048
+2023-05-16 13:36:45 - SIGINT to 7048 failed - Killing as fallback
+2023-05-16 13:36:45 - Finished bastianmqttserver.exe
+2023-05-16 13:36:46 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index.js" --scriptoptions= --log "Bastian Mqtt server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-16 13:36:46 - Started 8428
+2023-05-16 13:46:15 - Stopping bastianmqttserver.exe
+2023-05-16 13:46:15 - ProcessKill 8428
+2023-05-16 13:46:15 - Found child process: 10296 Name: conhost.exe
+2023-05-16 13:46:15 - Found child process: 792 Name: node.exe
+2023-05-16 13:46:15 - Stopping process 10296
+2023-05-16 13:46:15 - Send SIGINT 10296
+2023-05-16 13:46:15 - SIGINT to 10296 failed - Killing as fallback
+2023-05-16 13:46:15 - Stopping process 792
+2023-05-16 13:46:15 - Send SIGINT 792
+2023-05-16 13:46:15 - SIGINT to 792 failed - Killing as fallback
+2023-05-16 13:46:15 - Stopping process 8428
+2023-05-16 13:46:15 - Send SIGINT 8428
+2023-05-16 13:46:15 - SIGINT to 8428 failed - Killing as fallback
+2023-05-16 13:46:15 - Finished bastianmqttserver.exe
+2023-05-16 13:46:17 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index.js" --scriptoptions= --log "Bastian Mqtt server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-16 13:46:17 - Started 7564
+2023-05-16 14:04:03 - Stopping bastianmqttserver.exe
+2023-05-16 14:04:03 - ProcessKill 7564
+2023-05-16 14:04:03 - Found child process: 4316 Name: conhost.exe
+2023-05-16 14:04:03 - Found child process: 12976 Name: node.exe
+2023-05-16 14:04:03 - Stopping process 4316
+2023-05-16 14:04:03 - Send SIGINT 4316
+2023-05-16 14:04:03 - SIGINT to 4316 failed - Killing as fallback
+2023-05-16 14:04:04 - Stopping process 12976
+2023-05-16 14:04:04 - Send SIGINT 12976
+2023-05-16 14:04:04 - SIGINT to 12976 failed - Killing as fallback
+2023-05-16 14:04:04 - Stopping process 7564
+2023-05-16 14:04:04 - Send SIGINT 7564
+2023-05-16 14:04:04 - SIGINT to 7564 failed - Killing as fallback
+2023-05-16 14:04:04 - Finished bastianmqttserver.exe
+2023-05-16 14:04:05 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index.js" --scriptoptions= --log "Bastian Mqtt server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-16 14:04:05 - Started 3168
+2023-05-16 14:08:38 - Stopping bastianmqttserver.exe
+2023-05-16 14:08:38 - ProcessKill 3168
+2023-05-16 14:08:38 - Found child process: 7508 Name: conhost.exe
+2023-05-16 14:08:38 - Found child process: 6136 Name: node.exe
+2023-05-16 14:08:39 - Stopping process 7508
+2023-05-16 14:08:39 - Send SIGINT 7508
+2023-05-16 14:08:39 - SIGINT to 7508 failed - Killing as fallback
+2023-05-16 14:08:39 - Stopping process 6136
+2023-05-16 14:08:39 - Send SIGINT 6136
+2023-05-16 14:08:39 - SIGINT to 6136 failed - Killing as fallback
+2023-05-16 14:08:39 - Stopping process 3168
+2023-05-16 14:08:39 - Send SIGINT 3168
+2023-05-16 14:08:39 - SIGINT to 3168 failed - Killing as fallback
+2023-05-16 14:08:39 - Finished bastianmqttserver.exe
+2023-05-16 14:08:40 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index.js" --scriptoptions= --log "Bastian Mqtt server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-16 14:08:40 - Started 11288
+2023-05-16 14:24:56 - Stopping bastianmqttserver.exe
+2023-05-16 14:24:56 - ProcessKill 11288
+2023-05-16 14:24:57 - Found child process: 396 Name: conhost.exe
+2023-05-16 14:24:57 - Found child process: 12880 Name: node.exe
+2023-05-16 14:24:57 - Stopping process 396
+2023-05-16 14:24:57 - Send SIGINT 396
+2023-05-16 14:24:57 - SIGINT to 396 failed - Killing as fallback
+2023-05-16 14:24:57 - Stopping process 12880
+2023-05-16 14:24:57 - Send SIGINT 12880
+2023-05-16 14:24:57 - SIGINT to 12880 failed - Killing as fallback
+2023-05-16 14:24:57 - Stopping process 11288
+2023-05-16 14:24:57 - Send SIGINT 11288
+2023-05-16 14:24:57 - SIGINT to 11288 failed - Killing as fallback
+2023-05-16 14:24:57 - Finished bastianmqttserver.exe
+2023-05-16 14:24:58 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index.js" --scriptoptions= --log "Bastian Mqtt server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-16 14:24:58 - Started 5884
+2023-05-16 14:39:24 - Stopping bastianmqttserver.exe
+2023-05-16 14:39:24 - ProcessKill 5884
+2023-05-16 14:39:24 - Found child process: 8 Name: conhost.exe
+2023-05-16 14:39:24 - Found child process: 10672 Name: node.exe
+2023-05-16 14:39:24 - Stopping process 8
+2023-05-16 14:39:24 - Send SIGINT 8
+2023-05-16 14:39:24 - SIGINT to 8 failed - Killing as fallback
+2023-05-16 14:39:24 - Stopping process 10672
+2023-05-16 14:39:24 - Send SIGINT 10672
+2023-05-16 14:39:24 - SIGINT to 10672 failed - Killing as fallback
+2023-05-16 14:39:24 - Stopping process 5884
+2023-05-16 14:39:24 - Send SIGINT 5884
+2023-05-16 14:39:24 - SIGINT to 5884 failed - Killing as fallback
+2023-05-16 14:39:24 - Finished bastianmqttserver.exe
+2023-05-16 14:39:26 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index.js" --scriptoptions= --log "Bastian Mqtt server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-16 14:39:26 - Started 3120
+2023-05-16 17:26:56 - Stopping bastianmqttserver.exe
+2023-05-16 17:26:56 - ProcessKill 3120
+2023-05-16 17:26:56 - Found child process: 9664 Name: conhost.exe
+2023-05-16 17:26:56 - Found child process: 10204 Name: node.exe
+2023-05-16 17:26:56 - Stopping process 9664
+2023-05-16 17:26:56 - Send SIGINT 9664
+2023-05-16 17:26:56 - SIGINT to 9664 failed - Killing as fallback
+2023-05-16 17:26:56 - Stopping process 10204
+2023-05-16 17:26:56 - Send SIGINT 10204
+2023-05-16 17:26:56 - SIGINT to 10204 failed - Killing as fallback
+2023-05-16 17:26:56 - Stopping process 3120
+2023-05-16 17:26:56 - Send SIGINT 3120
+2023-05-16 17:26:56 - SIGINT to 3120 failed - Killing as fallback
+2023-05-16 17:26:56 - Finished bastianmqttserver.exe
+2023-05-16 17:27:59 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index.js" --scriptoptions= --log "Bastian Mqtt server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-16 17:27:59 - Started 4844
+2023-05-16 17:28:35 - Stopping bastianmqttserver.exe
+2023-05-16 17:28:35 - ProcessKill 4844
+2023-05-16 17:28:35 - Found child process: 6080 Name: conhost.exe
+2023-05-16 17:28:35 - Found child process: 5896 Name: node.exe
+2023-05-16 17:28:35 - Stopping process 6080
+2023-05-16 17:28:35 - Send SIGINT 6080
+2023-05-16 17:28:35 - SIGINT to 6080 failed - Killing as fallback
+2023-05-16 17:28:35 - Stopping process 5896
+2023-05-16 17:28:35 - Send SIGINT 5896
+2023-05-16 17:28:35 - SIGINT to 5896 failed - Killing as fallback
+2023-05-16 17:28:35 - Stopping process 4844
+2023-05-16 17:28:35 - Send SIGINT 4844
+2023-05-16 17:28:35 - SIGINT to 4844 failed - Killing as fallback
+2023-05-16 17:28:35 - Finished bastianmqttserver.exe
+2023-05-16 17:29:24 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index.js" --scriptoptions= --log "Bastian Mqtt server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-16 17:29:24 - Started 12436
+2023-05-17 13:47:12 - Stopping bastianmqttserver.exe
+2023-05-17 13:47:12 - ProcessKill 12436
+2023-05-17 13:47:12 - Found child process: 11892 Name: conhost.exe
+2023-05-17 13:47:12 - Found child process: 13020 Name: node.exe
+2023-05-17 13:47:12 - Stopping process 11892
+2023-05-17 13:47:12 - Send SIGINT 11892
+2023-05-17 13:47:12 - SIGINT to 11892 failed - Killing as fallback
+2023-05-17 13:47:12 - Stopping process 13020
+2023-05-17 13:47:12 - Send SIGINT 13020
+2023-05-17 13:47:12 - SIGINT to 13020 failed - Killing as fallback
+2023-05-17 13:47:12 - Stopping process 12436
+2023-05-17 13:47:12 - Send SIGINT 12436
+2023-05-17 13:47:12 - SIGINT to 12436 failed - Killing as fallback
+2023-05-17 13:47:12 - Finished bastianmqttserver.exe
+2023-05-17 13:47:14 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index.js" --scriptoptions= --log "Bastian Mqtt server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-17 13:47:14 - Started 2024
+2023-05-17 14:03:10 - Stopping bastianmqttserver.exe
+2023-05-17 14:03:10 - ProcessKill 2024
+2023-05-17 14:03:10 - Found child process: 12468 Name: conhost.exe
+2023-05-17 14:03:10 - Found child process: 11056 Name: node.exe
+2023-05-17 14:03:10 - Stopping process 12468
+2023-05-17 14:03:10 - Send SIGINT 12468
+2023-05-17 14:03:10 - SIGINT to 12468 failed - Killing as fallback
+2023-05-17 14:03:10 - Stopping process 11056
+2023-05-17 14:03:10 - Send SIGINT 11056
+2023-05-17 14:03:10 - SIGINT to 11056 failed - Killing as fallback
+2023-05-17 14:03:10 - Stopping process 2024
+2023-05-17 14:03:10 - Send SIGINT 2024
+2023-05-17 14:03:10 - SIGINT to 2024 failed - Killing as fallback
+2023-05-17 14:03:10 - Finished bastianmqttserver.exe
+2023-05-17 14:32:14 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index.js" --scriptoptions= --log "Bastian Mqtt server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-17 14:32:14 - Started 10980
+2023-05-18 14:35:40 - Stopping bastianmqttserver.exe
+2023-05-18 14:35:40 - ProcessKill 10980
+2023-05-18 14:35:40 - Found child process: 8868 Name: conhost.exe
+2023-05-18 14:35:40 - Found child process: 10984 Name: node.exe
+2023-05-18 14:35:40 - Stopping process 8868
+2023-05-18 14:35:40 - Send SIGINT 8868
+2023-05-18 14:35:40 - SIGINT to 8868 failed - Killing as fallback
+2023-05-18 14:35:40 - Stopping process 10984
+2023-05-18 14:35:40 - Send SIGINT 10984
+2023-05-18 14:35:40 - SIGINT to 10984 failed - Killing as fallback
+2023-05-18 14:35:40 - Stopping process 10980
+2023-05-18 14:35:40 - Send SIGINT 10980
+2023-05-18 14:35:40 - SIGINT to 10980 failed - Killing as fallback
+2023-05-18 14:35:40 - Finished bastianmqttserver.exe
+2023-05-18 14:35:41 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index.js" --scriptoptions= --log "Bastian Mqtt server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-18 14:35:42 - Started 11604
+2023-05-19 16:31:01 - Stopping bastianmqttserver.exe
+2023-05-19 16:31:01 - ProcessKill 11604
+2023-05-19 16:31:02 - Found child process: 12868 Name: conhost.exe
+2023-05-19 16:31:02 - Found child process: 9636 Name: node.exe
+2023-05-19 16:31:02 - Stopping process 12868
+2023-05-19 16:31:02 - Send SIGINT 12868
+2023-05-19 16:31:02 - SIGINT to 12868 failed - Killing as fallback
+2023-05-19 16:31:02 - Stopping process 9636
+2023-05-19 16:31:02 - Send SIGINT 9636
+2023-05-19 16:31:02 - SIGINT to 9636 failed - Killing as fallback
+2023-05-19 16:31:02 - Stopping process 11604
+2023-05-19 16:31:02 - Send SIGINT 11604
+2023-05-19 16:31:02 - SIGINT to 11604 failed - Killing as fallback
+2023-05-19 16:31:02 - Finished bastianmqttserver.exe
+2023-05-19 16:31:03 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index.js" --scriptoptions= --log "Bastian Mqtt server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-19 16:31:03 - Started 8428
+2023-05-21 00:08:59 - Stopping bastianmqttserver.exe
+2023-05-21 00:08:59 - ProcessKill 8428
+2023-05-21 00:08:59 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2023-05-21 00:09:25 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index.js" --scriptoptions= --log "Bastian Mqtt server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-21 00:09:25 - Started 4620
+2023-05-23 07:06:42 - Stopping bastianmqttserver.exe
+2023-05-23 07:06:42 - ProcessKill 4620
+2023-05-23 07:06:42 - Found child process: 4700 Name: conhost.exe
+2023-05-23 07:06:42 - Found child process: 6620 Name: node.exe
+2023-05-23 07:06:42 - Stopping process 4700
+2023-05-23 07:06:42 - Send SIGINT 4700
+2023-05-23 07:06:42 - SIGINT to 4700 failed - Killing as fallback
+2023-05-23 07:06:42 - Stopping process 6620
+2023-05-23 07:06:42 - Send SIGINT 6620
+2023-05-23 07:06:42 - SIGINT to 6620 failed - Killing as fallback
+2023-05-23 07:06:42 - Stopping process 4620
+2023-05-23 07:06:42 - Send SIGINT 4620
+2023-05-23 07:06:42 - SIGINT to 4620 failed - Killing as fallback
+2023-05-23 07:06:42 - Finished bastianmqttserver.exe
+2023-05-23 07:06:43 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index.js" --scriptoptions= --log "Bastian Mqtt server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-23 07:06:43 - Started 12040
+2023-05-23 07:08:43 - Stopping bastianmqttserver.exe
+2023-05-23 07:08:43 - ProcessKill 12040
+2023-05-23 07:08:43 - Found child process: 9136 Name: conhost.exe
+2023-05-23 07:08:43 - Found child process: 9320 Name: node.exe
+2023-05-23 07:08:43 - Stopping process 9136
+2023-05-23 07:08:43 - Send SIGINT 9136
+2023-05-23 07:08:43 - SIGINT to 9136 failed - Killing as fallback
+2023-05-23 07:08:43 - Stopping process 9320
+2023-05-23 07:08:43 - Send SIGINT 9320
+2023-05-23 07:08:43 - SIGINT to 9320 failed - Killing as fallback
+2023-05-23 07:08:43 - Stopping process 12040
+2023-05-23 07:08:43 - Send SIGINT 12040
+2023-05-23 07:08:43 - SIGINT to 12040 failed - Killing as fallback
+2023-05-23 07:08:43 - Finished bastianmqttserver.exe
+2023-05-23 07:13:02 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index.js" --scriptoptions= --log "Bastian Mqtt server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-23 07:13:02 - Started 11584
+2023-05-23 07:16:32 - Stopping bastianmqttserver.exe
+2023-05-23 07:16:32 - ProcessKill 11584
+2023-05-23 07:16:32 - Found child process: 5156 Name: conhost.exe
+2023-05-23 07:16:32 - Found child process: 10120 Name: node.exe
+2023-05-23 07:16:32 - Stopping process 5156
+2023-05-23 07:16:32 - Send SIGINT 5156
+2023-05-23 07:16:32 - SIGINT to 5156 failed - Killing as fallback
+2023-05-23 07:16:32 - Stopping process 10120
+2023-05-23 07:16:32 - Send SIGINT 10120
+2023-05-23 07:16:32 - SIGINT to 10120 failed - Killing as fallback
+2023-05-23 07:16:32 - Stopping process 11584
+2023-05-23 07:16:32 - Send SIGINT 11584
+2023-05-23 07:16:32 - SIGINT to 11584 failed - Killing as fallback
+2023-05-23 07:16:32 - Finished bastianmqttserver.exe
+2023-05-23 07:18:23 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index.js" --scriptoptions= --log "Bastian Mqtt server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-23 07:18:24 - Started 11480
+2023-05-23 09:42:01 - Stopping bastianmqttserver.exe
+2023-05-23 09:42:01 - ProcessKill 11480
+2023-05-23 09:42:01 - Found child process: 5416 Name: conhost.exe
+2023-05-23 09:42:01 - Found child process: 2640 Name: node.exe
+2023-05-23 09:42:01 - Stopping process 5416
+2023-05-23 09:42:01 - Send SIGINT 5416
+2023-05-23 09:42:01 - SIGINT to 5416 failed - Killing as fallback
+2023-05-23 09:42:01 - Stopping process 2640
+2023-05-23 09:42:01 - Send SIGINT 2640
+2023-05-23 09:42:01 - SIGINT to 2640 failed - Killing as fallback
+2023-05-23 09:42:01 - Stopping process 11480
+2023-05-23 09:42:01 - Send SIGINT 11480
+2023-05-23 09:42:01 - SIGINT to 11480 failed - Killing as fallback
+2023-05-23 09:42:01 - Finished bastianmqttserver.exe
+2023-05-23 09:42:03 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index.js" --scriptoptions= --log "Bastian Mqtt server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-23 09:42:03 - Started 9444
+2023-05-23 09:42:37 - Stopping bastianmqttserver.exe
+2023-05-23 09:42:37 - ProcessKill 9444
+2023-05-23 09:42:37 - Found child process: 1668 Name: conhost.exe
+2023-05-23 09:42:37 - Found child process: 12196 Name: node.exe
+2023-05-23 09:42:37 - Stopping process 1668
+2023-05-23 09:42:37 - Send SIGINT 1668
+2023-05-23 09:42:37 - SIGINT to 1668 failed - Killing as fallback
+2023-05-23 09:42:37 - Stopping process 12196
+2023-05-23 09:42:37 - Send SIGINT 12196
+2023-05-23 09:42:37 - SIGINT to 12196 failed - Killing as fallback
+2023-05-23 09:42:37 - Stopping process 9444
+2023-05-23 09:42:37 - Send SIGINT 9444
+2023-05-23 09:42:37 - SIGINT to 9444 failed - Killing as fallback
+2023-05-23 09:42:37 - Finished bastianmqttserver.exe
+2023-05-23 09:42:38 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index.js" --scriptoptions= --log "Bastian Mqtt server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-23 09:42:38 - Started 4792
+2023-05-23 09:47:06 - Stopping bastianmqttserver.exe
+2023-05-23 09:47:06 - ProcessKill 4792
+2023-05-23 09:47:06 - Found child process: 11184 Name: conhost.exe
+2023-05-23 09:47:06 - Found child process: 156 Name: node.exe
+2023-05-23 09:47:06 - Stopping process 11184
+2023-05-23 09:47:06 - Send SIGINT 11184
+2023-05-23 09:47:06 - SIGINT to 11184 failed - Killing as fallback
+2023-05-23 09:47:06 - Stopping process 156
+2023-05-23 09:47:06 - Send SIGINT 156
+2023-05-23 09:47:06 - SIGINT to 156 failed - Killing as fallback
+2023-05-23 09:47:06 - Stopping process 4792
+2023-05-23 09:47:06 - Send SIGINT 4792
+2023-05-23 09:47:06 - SIGINT to 4792 failed - Killing as fallback
+2023-05-23 09:47:06 - Finished bastianmqttserver.exe
+2023-05-23 10:47:08 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index.js" --scriptoptions= --log "Bastian Mqtt server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-23 10:47:08 - Started 2116
+2023-05-23 13:07:47 - Stopping bastianmqttserver.exe
+2023-05-23 13:07:47 - ProcessKill 2116
+2023-05-23 13:07:47 - Found child process: 1132 Name: conhost.exe
+2023-05-23 13:07:47 - Found child process: 10664 Name: node.exe
+2023-05-23 13:07:47 - Stopping process 1132
+2023-05-23 13:07:47 - Send SIGINT 1132
+2023-05-23 13:07:47 - SIGINT to 1132 failed - Killing as fallback
+2023-05-23 13:07:47 - Stopping process 10664
+2023-05-23 13:07:47 - Send SIGINT 10664
+2023-05-23 13:07:47 - SIGINT to 10664 failed - Killing as fallback
+2023-05-23 13:07:47 - Stopping process 2116
+2023-05-23 13:07:47 - Send SIGINT 2116
+2023-05-23 13:07:47 - SIGINT to 2116 failed - Killing as fallback
+2023-05-23 13:07:47 - Finished bastianmqttserver.exe
+2023-05-23 13:07:48 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index.js" --scriptoptions= --log "Bastian Mqtt server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-23 13:07:48 - Started 10816
+2023-05-23 14:46:56 - Stopping bastianmqttserver.exe
+2023-05-23 14:46:56 - ProcessKill 10816
+2023-05-23 14:46:56 - Found child process: 10372 Name: conhost.exe
+2023-05-23 14:46:56 - Found child process: 10376 Name: node.exe
+2023-05-23 14:46:56 - Stopping process 10372
+2023-05-23 14:46:56 - Send SIGINT 10372
+2023-05-23 14:46:56 - SIGINT to 10372 failed - Killing as fallback
+2023-05-23 14:46:56 - Stopping process 10376
+2023-05-23 14:46:56 - Send SIGINT 10376
+2023-05-23 14:46:56 - SIGINT to 10376 failed - Killing as fallback
+2023-05-23 14:46:56 - Stopping process 10816
+2023-05-23 14:46:56 - Send SIGINT 10816
+2023-05-23 14:46:56 - SIGINT to 10816 failed - Killing as fallback
+2023-05-23 14:46:56 - Finished bastianmqttserver.exe
+2023-05-23 14:46:57 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index.js" --scriptoptions= --log "Bastian Mqtt server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-23 14:46:58 - Started 7056
+2023-05-23 14:48:16 - Stopping bastianmqttserver.exe
+2023-05-23 14:48:16 - ProcessKill 7056
+2023-05-23 14:48:16 - Found child process: 4904 Name: conhost.exe
+2023-05-23 14:48:16 - Found child process: 2036 Name: node.exe
+2023-05-23 14:48:16 - Stopping process 4904
+2023-05-23 14:48:16 - Send SIGINT 4904
+2023-05-23 14:48:16 - SIGINT to 4904 failed - Killing as fallback
+2023-05-23 14:48:16 - Stopping process 2036
+2023-05-23 14:48:16 - Send SIGINT 2036
+2023-05-23 14:48:16 - SIGINT to 2036 failed - Killing as fallback
+2023-05-23 14:48:16 - Stopping process 7056
+2023-05-23 14:48:16 - Send SIGINT 7056
+2023-05-23 14:48:16 - SIGINT to 7056 failed - Killing as fallback
+2023-05-23 14:48:16 - Finished bastianmqttserver.exe
+2023-05-23 14:48:17 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index.js" --scriptoptions= --log "Bastian Mqtt server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-23 14:48:17 - Started 11040
+2023-05-23 15:15:47 - Stopping bastianmqttserver.exe
+2023-05-23 15:15:47 - ProcessKill 11040
+2023-05-23 15:15:47 - Found child process: 2004 Name: conhost.exe
+2023-05-23 15:15:47 - Found child process: 6868 Name: node.exe
+2023-05-23 15:15:48 - Stopping process 2004
+2023-05-23 15:15:48 - Send SIGINT 2004
+2023-05-23 15:15:48 - SIGINT to 2004 failed - Killing as fallback
+2023-05-23 15:15:48 - Stopping process 6868
+2023-05-23 15:15:48 - Send SIGINT 6868
+2023-05-23 15:15:48 - SIGINT to 6868 failed - Killing as fallback
+2023-05-23 15:15:48 - Stopping process 11040
+2023-05-23 15:15:48 - Send SIGINT 11040
+2023-05-23 15:15:48 - SIGINT to 11040 failed - Killing as fallback
+2023-05-23 15:15:48 - Finished bastianmqttserver.exe
+2023-05-23 15:15:49 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index.js" --scriptoptions= --log "Bastian Mqtt server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-23 15:15:49 - Started 2864
+2023-05-23 15:30:17 - Stopping bastianmqttserver.exe
+2023-05-23 15:30:17 - ProcessKill 2864
+2023-05-23 15:30:17 - Found child process: 4540 Name: conhost.exe
+2023-05-23 15:30:17 - Found child process: 7528 Name: node.exe
+2023-05-23 15:30:17 - Stopping process 4540
+2023-05-23 15:30:17 - Send SIGINT 4540
+2023-05-23 15:30:17 - SIGINT to 4540 failed - Killing as fallback
+2023-05-23 15:30:17 - Stopping process 7528
+2023-05-23 15:30:17 - Send SIGINT 7528
+2023-05-23 15:30:17 - SIGINT to 7528 failed - Killing as fallback
+2023-05-23 15:30:17 - Stopping process 2864
+2023-05-23 15:30:17 - Send SIGINT 2864
+2023-05-23 15:30:17 - SIGINT to 2864 failed - Killing as fallback
+2023-05-23 15:30:17 - Finished bastianmqttserver.exe
+2023-05-23 15:30:18 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index.js" --scriptoptions= --log "Bastian Mqtt server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-23 15:30:19 - Started 2964
+2023-05-23 15:32:03 - Stopping bastianmqttserver.exe
+2023-05-23 15:32:03 - ProcessKill 2964
+2023-05-23 15:32:03 - Found child process: 1884 Name: conhost.exe
+2023-05-23 15:32:03 - Found child process: 12712 Name: node.exe
+2023-05-23 15:32:04 - Stopping process 1884
+2023-05-23 15:32:04 - Send SIGINT 1884
+2023-05-23 15:32:04 - SIGINT to 1884 failed - Killing as fallback
+2023-05-23 15:32:04 - Stopping process 12712
+2023-05-23 15:32:04 - Send SIGINT 12712
+2023-05-23 15:32:04 - SIGINT to 12712 failed - Killing as fallback
+2023-05-23 15:32:04 - Stopping process 2964
+2023-05-23 15:32:04 - Send SIGINT 2964
+2023-05-23 15:32:04 - SIGINT to 2964 failed - Killing as fallback
+2023-05-23 15:32:04 - Finished bastianmqttserver.exe
+2023-05-23 15:32:05 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index.js" --scriptoptions= --log "Bastian Mqtt server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-23 15:32:05 - Started 2864
+2023-05-24 14:34:30 - Stopping bastianmqttserver.exe
+2023-05-24 14:34:30 - ProcessKill 2864
+2023-05-24 14:34:30 - Found child process: 13200 Name: conhost.exe
+2023-05-24 14:34:30 - Found child process: 4248 Name: node.exe
+2023-05-24 14:34:30 - Stopping process 13200
+2023-05-24 14:34:30 - Send SIGINT 13200
+2023-05-24 14:34:30 - SIGINT to 13200 failed - Killing as fallback
+2023-05-24 14:34:30 - Stopping process 4248
+2023-05-24 14:34:30 - Send SIGINT 4248
+2023-05-24 14:34:30 - SIGINT to 4248 failed - Killing as fallback
+2023-05-24 14:34:30 - Stopping process 2864
+2023-05-24 14:34:30 - Send SIGINT 2864
+2023-05-24 14:34:30 - SIGINT to 2864 failed - Killing as fallback
+2023-05-24 14:34:30 - Finished bastianmqttserver.exe
+2023-05-24 14:34:31 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index.js" --scriptoptions= --log "Bastian Mqtt server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-24 14:34:31 - Started 12416
+2023-05-25 08:27:37 - Stopping bastianmqttserver.exe
+2023-05-25 08:27:37 - ProcessKill 12416
+2023-05-25 08:27:37 - Found child process: 12888 Name: conhost.exe
+2023-05-25 08:27:37 - Found child process: 12872 Name: node.exe
+2023-05-25 08:27:37 - Stopping process 12888
+2023-05-25 08:27:37 - Send SIGINT 12888
+2023-05-25 08:27:37 - SIGINT to 12888 failed - Killing as fallback
+2023-05-25 08:27:37 - Stopping process 12872
+2023-05-25 08:27:37 - Send SIGINT 12872
+2023-05-25 08:27:37 - SIGINT to 12872 failed - Killing as fallback
+2023-05-25 08:27:37 - Stopping process 12416
+2023-05-25 08:27:37 - Send SIGINT 12416
+2023-05-25 08:27:37 - SIGINT to 12416 failed - Killing as fallback
+2023-05-25 08:27:37 - Finished bastianmqttserver.exe
+2023-05-25 08:27:38 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index.js" --scriptoptions= --log "Bastian Mqtt server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-25 08:27:38 - Started 7872
+2023-05-25 08:28:35 - Stopping bastianmqttserver.exe
+2023-05-25 08:28:35 - ProcessKill 7872
+2023-05-25 08:28:35 - Found child process: 6316 Name: conhost.exe
+2023-05-25 08:28:35 - Found child process: 5160 Name: node.exe
+2023-05-25 08:28:35 - Stopping process 6316
+2023-05-25 08:28:35 - Send SIGINT 6316
+2023-05-25 08:28:35 - SIGINT to 6316 failed - Killing as fallback
+2023-05-25 08:28:35 - Stopping process 5160
+2023-05-25 08:28:35 - Send SIGINT 5160
+2023-05-25 08:28:35 - SIGINT to 5160 failed - Killing as fallback
+2023-05-25 08:28:35 - Stopping process 7872
+2023-05-25 08:28:35 - Send SIGINT 7872
+2023-05-25 08:28:35 - SIGINT to 7872 failed - Killing as fallback
+2023-05-25 08:28:35 - Finished bastianmqttserver.exe
+2023-05-25 08:41:45 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index.js" --scriptoptions= --log "Bastian Mqtt server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-25 08:41:45 - Started 8156
+2023-05-25 08:49:08 - Stopping bastianmqttserver.exe
+2023-05-25 08:49:08 - ProcessKill 8156
+2023-05-25 08:49:08 - Found child process: 11068 Name: conhost.exe
+2023-05-25 08:49:08 - Found child process: 404 Name: node.exe
+2023-05-25 08:49:08 - Stopping process 11068
+2023-05-25 08:49:08 - Send SIGINT 11068
+2023-05-25 08:49:08 - SIGINT to 11068 failed - Killing as fallback
+2023-05-25 08:49:08 - Stopping process 404
+2023-05-25 08:49:08 - Send SIGINT 404
+2023-05-25 08:49:08 - SIGINT to 404 failed - Killing as fallback
+2023-05-25 08:49:08 - Stopping process 8156
+2023-05-25 08:49:08 - Send SIGINT 8156
+2023-05-25 08:49:08 - SIGINT to 8156 failed - Killing as fallback
+2023-05-25 08:49:08 - Finished bastianmqttserver.exe
+2023-05-25 10:31:34 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index.js" --scriptoptions= --log "Bastian Mqtt server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-25 10:31:34 - Started 2732
+2023-05-25 10:42:31 - Stopping bastianmqttserver.exe
+2023-05-25 10:42:31 - ProcessKill 2732
+2023-05-25 10:42:31 - Found child process: 2196 Name: conhost.exe
+2023-05-25 10:42:31 - Found child process: 10268 Name: node.exe
+2023-05-25 10:42:31 - Stopping process 2196
+2023-05-25 10:42:31 - Send SIGINT 2196
+2023-05-25 10:42:31 - SIGINT to 2196 failed - Killing as fallback
+2023-05-25 10:42:31 - Stopping process 10268
+2023-05-25 10:42:31 - Send SIGINT 10268
+2023-05-25 10:42:31 - SIGINT to 10268 failed - Killing as fallback
+2023-05-25 10:42:31 - Stopping process 2732
+2023-05-25 10:42:31 - Send SIGINT 2732
+2023-05-25 10:42:31 - SIGINT to 2732 failed - Killing as fallback
+2023-05-25 10:42:31 - Finished bastianmqttserver.exe
+2023-05-25 10:42:33 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index.js" --scriptoptions= --log "Bastian Mqtt server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-25 10:42:33 - Started 9392
+2023-05-26 14:00:37 - Stopping bastianmqttserver.exe
+2023-05-26 14:00:37 - ProcessKill 9392
+2023-05-26 14:00:37 - Found child process: 10120 Name: conhost.exe
+2023-05-26 14:00:37 - Found child process: 940 Name: node.exe
+2023-05-26 14:00:37 - Stopping process 10120
+2023-05-26 14:00:37 - Send SIGINT 10120
+2023-05-26 14:00:37 - SIGINT to 10120 failed - Killing as fallback
+2023-05-26 14:00:38 - Stopping process 940
+2023-05-26 14:00:38 - Send SIGINT 940
+2023-05-26 14:00:38 - SIGINT to 940 failed - Killing as fallback
+2023-05-26 14:00:38 - Stopping process 9392
+2023-05-26 14:00:38 - Send SIGINT 9392
+2023-05-26 14:00:38 - SIGINT to 9392 failed - Killing as fallback
+2023-05-26 14:00:38 - Finished bastianmqttserver.exe
+2023-05-26 14:00:39 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index.js" --scriptoptions= --log "Bastian Mqtt server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-26 14:00:39 - Started 2036
+2023-05-30 08:50:18 - Stopping bastianmqttserver.exe
+2023-05-30 08:50:18 - ProcessKill 2036
+2023-05-30 08:50:18 - Found child process: 7316 Name: conhost.exe
+2023-05-30 08:50:18 - Found child process: 11456 Name: node.exe
+2023-05-30 08:50:18 - Stopping process 7316
+2023-05-30 08:50:18 - Send SIGINT 7316
+2023-05-30 08:50:18 - SIGINT to 7316 failed - Killing as fallback
+2023-05-30 08:50:18 - Stopping process 11456
+2023-05-30 08:50:18 - Send SIGINT 11456
+2023-05-30 08:50:18 - SIGINT to 11456 failed - Killing as fallback
+2023-05-30 08:50:18 - Stopping process 2036
+2023-05-30 08:50:18 - Send SIGINT 2036
+2023-05-30 08:50:18 - SIGINT to 2036 failed - Killing as fallback
+2023-05-30 08:50:18 - Finished bastianmqttserver.exe
+2023-05-30 08:50:19 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index.js" --scriptoptions= --log "Bastian Mqtt server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-30 08:50:20 - Started 4620
+2023-05-30 11:58:53 - Stopping bastianmqttserver.exe
+2023-05-30 11:58:53 - ProcessKill 4620
+2023-05-30 11:58:53 - Found child process: 12828 Name: conhost.exe
+2023-05-30 11:58:53 - Found child process: 13204 Name: node.exe
+2023-05-30 11:58:53 - Stopping process 12828
+2023-05-30 11:58:53 - Send SIGINT 12828
+2023-05-30 11:58:53 - SIGINT to 12828 failed - Killing as fallback
+2023-05-30 11:58:53 - Stopping process 13204
+2023-05-30 11:58:53 - Send SIGINT 13204
+2023-05-30 11:58:53 - SIGINT to 13204 failed - Killing as fallback
+2023-05-30 11:58:53 - Stopping process 4620
+2023-05-30 11:58:53 - Send SIGINT 4620
+2023-05-30 11:58:53 - SIGINT to 4620 failed - Killing as fallback
+2023-05-30 11:58:53 - Finished bastianmqttserver.exe
+2023-05-30 11:58:54 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index.js" --scriptoptions= --log "Bastian Mqtt server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-30 11:58:54 - Started 11796
+2023-05-30 13:00:39 - Stopping bastianmqttserver.exe
+2023-05-30 13:00:39 - ProcessKill 11796
+2023-05-30 13:00:40 - Found child process: 8544 Name: conhost.exe
+2023-05-30 13:00:40 - Found child process: 6968 Name: node.exe
+2023-05-30 13:00:40 - Stopping process 8544
+2023-05-30 13:00:40 - Send SIGINT 8544
+2023-05-30 13:00:40 - SIGINT to 8544 failed - Killing as fallback
+2023-05-30 13:00:40 - Stopping process 6968
+2023-05-30 13:00:40 - Send SIGINT 6968
+2023-05-30 13:00:40 - SIGINT to 6968 failed - Killing as fallback
+2023-05-30 13:00:40 - Stopping process 11796
+2023-05-30 13:00:40 - Send SIGINT 11796
+2023-05-30 13:00:40 - SIGINT to 11796 failed - Killing as fallback
+2023-05-30 13:00:40 - Finished bastianmqttserver.exe
+2023-05-30 13:00:41 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index.js" --scriptoptions= --log "Bastian Mqtt server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-30 13:00:41 - Started 11080
+2023-05-30 13:01:36 - Stopping bastianmqttserver.exe
+2023-05-30 13:01:36 - ProcessKill 11080
+2023-05-30 13:01:36 - Found child process: 11816 Name: conhost.exe
+2023-05-30 13:01:36 - Found child process: 6428 Name: node.exe
+2023-05-30 13:01:36 - Stopping process 11816
+2023-05-30 13:01:36 - Send SIGINT 11816
+2023-05-30 13:01:36 - SIGINT to 11816 failed - Killing as fallback
+2023-05-30 13:01:36 - Stopping process 6428
+2023-05-30 13:01:36 - Send SIGINT 6428
+2023-05-30 13:01:36 - SIGINT to 6428 failed - Killing as fallback
+2023-05-30 13:01:36 - Stopping process 11080
+2023-05-30 13:01:36 - Send SIGINT 11080
+2023-05-30 13:01:36 - SIGINT to 11080 failed - Killing as fallback
+2023-05-30 13:01:36 - Finished bastianmqttserver.exe
+2023-05-30 13:01:37 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index.js" --scriptoptions= --log "Bastian Mqtt server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-30 13:01:37 - Started 6240
+2023-05-31 08:55:11 - Stopping bastianmqttserver.exe
+2023-05-31 08:55:11 - ProcessKill 6240
+2023-05-31 08:55:11 - Found child process: 880 Name: conhost.exe
+2023-05-31 08:55:11 - Found child process: 12964 Name: node.exe
+2023-05-31 08:55:11 - Stopping process 880
+2023-05-31 08:55:11 - Send SIGINT 880
+2023-05-31 08:55:11 - SIGINT to 880 failed - Killing as fallback
+2023-05-31 08:55:11 - Stopping process 12964
+2023-05-31 08:55:11 - Send SIGINT 12964
+2023-05-31 08:55:11 - SIGINT to 12964 failed - Killing as fallback
+2023-05-31 08:55:11 - Stopping process 6240
+2023-05-31 08:55:11 - Send SIGINT 6240
+2023-05-31 08:55:11 - SIGINT to 6240 failed - Killing as fallback
+2023-05-31 08:55:11 - Finished bastianmqttserver.exe
+2023-05-31 08:55:12 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index.js" --scriptoptions= --log "Bastian Mqtt server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-31 08:55:12 - Started 11936
+2023-05-31 16:52:35 - Stopping bastianmqttserver.exe
+2023-05-31 16:52:35 - ProcessKill 11936
+2023-05-31 16:52:35 - Found child process: 12480 Name: conhost.exe
+2023-05-31 16:52:35 - Found child process: 7440 Name: node.exe
+2023-05-31 16:52:35 - Stopping process 12480
+2023-05-31 16:52:35 - Send SIGINT 12480
+2023-05-31 16:52:35 - SIGINT to 12480 failed - Killing as fallback
+2023-05-31 16:52:35 - Stopping process 7440
+2023-05-31 16:52:35 - Send SIGINT 7440
+2023-05-31 16:52:35 - SIGINT to 7440 failed - Killing as fallback
+2023-05-31 16:52:35 - Stopping process 11936
+2023-05-31 16:52:35 - Send SIGINT 11936
+2023-05-31 16:52:35 - SIGINT to 11936 failed - Killing as fallback
+2023-05-31 16:52:35 - Finished bastianmqttserver.exe
+2023-05-31 16:52:36 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index.js" --scriptoptions= --log "Bastian Mqtt server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-31 16:52:36 - Started 6464
+2023-06-01 09:44:36 - Stopping bastianmqttserver.exe
+2023-06-01 09:44:36 - ProcessKill 6464
+2023-06-01 09:44:36 - Found child process: 12984 Name: conhost.exe
+2023-06-01 09:44:36 - Found child process: 13160 Name: node.exe
+2023-06-01 09:44:36 - Stopping process 12984
+2023-06-01 09:44:36 - Send SIGINT 12984
+2023-06-01 09:44:36 - SIGINT to 12984 failed - Killing as fallback
+2023-06-01 09:44:36 - Stopping process 13160
+2023-06-01 09:44:36 - Send SIGINT 13160
+2023-06-01 09:44:36 - SIGINT to 13160 failed - Killing as fallback
+2023-06-01 09:44:36 - Stopping process 6464
+2023-06-01 09:44:36 - Send SIGINT 6464
+2023-06-01 09:44:36 - SIGINT to 6464 failed - Killing as fallback
+2023-06-01 09:44:36 - Finished bastianmqttserver.exe
+2023-06-01 09:44:38 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index.js" --scriptoptions= --log "Bastian Mqtt server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-06-01 09:44:38 - Started 13112
+2023-06-01 10:19:58 - Stopping bastianmqttserver.exe
+2023-06-01 10:19:58 - ProcessKill 13112
+2023-06-01 10:19:59 - Found child process: 11300 Name: conhost.exe
+2023-06-01 10:19:59 - Found child process: 8740 Name: node.exe
+2023-06-01 10:19:59 - Stopping process 11300
+2023-06-01 10:19:59 - Send SIGINT 11300
+2023-06-01 10:19:59 - SIGINT to 11300 failed - Killing as fallback
+2023-06-01 10:19:59 - Stopping process 8740
+2023-06-01 10:19:59 - Send SIGINT 8740
+2023-06-01 10:19:59 - SIGINT to 8740 failed - Killing as fallback
+2023-06-01 10:19:59 - Stopping process 13112
+2023-06-01 10:19:59 - Send SIGINT 13112
+2023-06-01 10:19:59 - SIGINT to 13112 failed - Killing as fallback
+2023-06-01 10:19:59 - Finished bastianmqttserver.exe
+2023-06-01 10:20:00 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index.js" --scriptoptions= --log "Bastian Mqtt server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-06-01 10:20:00 - Started 13084
+2023-06-01 11:30:14 - Stopping bastianmqttserver.exe
+2023-06-01 11:30:14 - ProcessKill 13084
+2023-06-01 11:30:14 - Found child process: 8128 Name: conhost.exe
+2023-06-01 11:30:14 - Found child process: 7848 Name: node.exe
+2023-06-01 11:30:14 - Stopping process 8128
+2023-06-01 11:30:14 - Send SIGINT 8128
+2023-06-01 11:30:14 - SIGINT to 8128 failed - Killing as fallback
+2023-06-01 11:30:14 - Stopping process 7848
+2023-06-01 11:30:14 - Send SIGINT 7848
+2023-06-01 11:30:14 - SIGINT to 7848 failed - Killing as fallback
+2023-06-01 11:30:14 - Stopping process 13084
+2023-06-01 11:30:14 - Send SIGINT 13084
+2023-06-01 11:30:14 - SIGINT to 13084 failed - Killing as fallback
+2023-06-01 11:30:14 - Finished bastianmqttserver.exe
+2023-06-01 11:30:15 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index.js" --scriptoptions= --log "Bastian Mqtt server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-06-01 11:30:16 - Started 9124
+2023-06-01 12:23:05 - Stopping bastianmqttserver.exe
+2023-06-01 12:23:05 - ProcessKill 9124
+2023-06-01 12:23:05 - Found child process: 8648 Name: conhost.exe
+2023-06-01 12:23:05 - Found child process: 9812 Name: node.exe
+2023-06-01 12:23:05 - Stopping process 8648
+2023-06-01 12:23:05 - Send SIGINT 8648
+2023-06-01 12:23:05 - SIGINT to 8648 failed - Killing as fallback
+2023-06-01 12:23:05 - Stopping process 9812
+2023-06-01 12:23:05 - Send SIGINT 9812
+2023-06-01 12:23:05 - SIGINT to 9812 failed - Killing as fallback
+2023-06-01 12:23:05 - Stopping process 9124
+2023-06-01 12:23:05 - Send SIGINT 9124
+2023-06-01 12:23:05 - SIGINT to 9124 failed - Killing as fallback
+2023-06-01 12:23:05 - Finished bastianmqttserver.exe
+2023-06-01 12:23:07 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index.js" --scriptoptions= --log "Bastian Mqtt server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-06-01 12:23:07 - Started 11080
+2023-06-01 12:42:26 - Stopping bastianmqttserver.exe
+2023-06-01 12:42:26 - ProcessKill 11080
+2023-06-01 12:42:26 - Found child process: 12992 Name: conhost.exe
+2023-06-01 12:42:26 - Found child process: 12508 Name: node.exe
+2023-06-01 12:42:26 - Stopping process 12992
+2023-06-01 12:42:26 - Send SIGINT 12992
+2023-06-01 12:42:26 - SIGINT to 12992 failed - Killing as fallback
+2023-06-01 12:42:26 - Stopping process 12508
+2023-06-01 12:42:26 - Send SIGINT 12508
+2023-06-01 12:42:26 - SIGINT to 12508 failed - Killing as fallback
+2023-06-01 12:42:26 - Stopping process 11080
+2023-06-01 12:42:26 - Send SIGINT 11080
+2023-06-01 12:42:26 - SIGINT to 11080 failed - Killing as fallback
+2023-06-01 12:42:26 - Finished bastianmqttserver.exe
+2023-06-01 12:42:27 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index.js" --scriptoptions= --log "Bastian Mqtt server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-06-01 12:42:28 - Started 492
+2023-06-01 13:11:56 - Stopping bastianmqttserver.exe
+2023-06-01 13:11:56 - ProcessKill 492
+2023-06-01 13:11:56 - Found child process: 12416 Name: conhost.exe
+2023-06-01 13:11:56 - Found child process: 5404 Name: node.exe
+2023-06-01 13:11:56 - Stopping process 12416
+2023-06-01 13:11:56 - Send SIGINT 12416
+2023-06-01 13:11:56 - SIGINT to 12416 failed - Killing as fallback
+2023-06-01 13:11:56 - Stopping process 5404
+2023-06-01 13:11:56 - Send SIGINT 5404
+2023-06-01 13:11:56 - SIGINT to 5404 failed - Killing as fallback
+2023-06-01 13:11:56 - Stopping process 492
+2023-06-01 13:11:56 - Send SIGINT 492
+2023-06-01 13:11:56 - SIGINT to 492 failed - Killing as fallback
+2023-06-01 13:11:56 - Finished bastianmqttserver.exe
+2023-06-01 13:11:58 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index.js" --scriptoptions= --log "Bastian Mqtt server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-06-01 13:11:58 - Started 6956
+2023-06-02 09:45:49 - Stopping bastianmqttserver.exe
+2023-06-02 09:45:49 - ProcessKill 6956
+2023-06-02 09:45:49 - Found child process: 13012 Name: conhost.exe
+2023-06-02 09:45:49 - Found child process: 6424 Name: node.exe
+2023-06-02 09:45:50 - Stopping process 13012
+2023-06-02 09:45:50 - Send SIGINT 13012
+2023-06-02 09:45:50 - SIGINT to 13012 failed - Killing as fallback
+2023-06-02 09:45:50 - Stopping process 6424
+2023-06-02 09:45:50 - Send SIGINT 6424
+2023-06-02 09:45:50 - SIGINT to 6424 failed - Killing as fallback
+2023-06-02 09:45:50 - Stopping process 6956
+2023-06-02 09:45:50 - Send SIGINT 6956
+2023-06-02 09:45:50 - SIGINT to 6956 failed - Killing as fallback
+2023-06-02 09:45:50 - Finished bastianmqttserver.exe
+2023-06-02 09:45:51 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index.js" --scriptoptions= --log "Bastian Mqtt server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-06-02 09:45:51 - Started 13240
+2023-06-02 11:21:13 - Stopping bastianmqttserver.exe
+2023-06-02 11:21:13 - ProcessKill 13240
+2023-06-02 11:21:13 - Found child process: 11084 Name: conhost.exe
+2023-06-02 11:21:13 - Found child process: 5080 Name: node.exe
+2023-06-02 11:21:13 - Stopping process 11084
+2023-06-02 11:21:13 - Send SIGINT 11084
+2023-06-02 11:21:13 - SIGINT to 11084 failed - Killing as fallback
+2023-06-02 11:21:13 - Stopping process 5080
+2023-06-02 11:21:13 - Send SIGINT 5080
+2023-06-02 11:21:13 - SIGINT to 5080 failed - Killing as fallback
+2023-06-02 11:21:13 - Stopping process 13240
+2023-06-02 11:21:13 - Send SIGINT 13240
+2023-06-02 11:21:13 - SIGINT to 13240 failed - Killing as fallback
+2023-06-02 11:21:13 - Finished bastianmqttserver.exe
+2023-06-02 11:21:15 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index.js" --scriptoptions= --log "Bastian Mqtt server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-06-02 11:21:15 - Started 11388
+2023-06-02 13:25:11 - Stopping bastianmqttserver.exe
+2023-06-02 13:25:11 - ProcessKill 11388
+2023-06-02 13:25:12 - Found child process: 7760 Name: conhost.exe
+2023-06-02 13:25:12 - Found child process: 11936 Name: node.exe
+2023-06-02 13:25:12 - Stopping process 7760
+2023-06-02 13:25:12 - Send SIGINT 7760
+2023-06-02 13:25:12 - SIGINT to 7760 failed - Killing as fallback
+2023-06-02 13:25:12 - Stopping process 11936
+2023-06-02 13:25:12 - Send SIGINT 11936
+2023-06-02 13:25:12 - SIGINT to 11936 failed - Killing as fallback
+2023-06-02 13:25:12 - Stopping process 11388
+2023-06-02 13:25:12 - Send SIGINT 11388
+2023-06-02 13:25:12 - SIGINT to 11388 failed - Killing as fallback
+2023-06-02 13:25:12 - Finished bastianmqttserver.exe
+2023-06-02 13:42:47 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index.js" --scriptoptions= --log "Bastian Mqtt server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-06-02 13:42:47 - Started 8060
+2023-06-02 14:05:52 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index.js" --scriptoptions= --log "Bastian Mqtt server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-06-02 14:05:52 - Started 8648
+2023-06-02 14:09:54 - Stopping bastianmqttserver.exe
+2023-06-02 14:09:54 - ProcessKill 8648
+2023-06-02 14:09:54 - Found child process: 10744 Name: conhost.exe
+2023-06-02 14:09:54 - Found child process: 12660 Name: node.exe
+2023-06-02 14:09:54 - Stopping process 10744
+2023-06-02 14:09:54 - Send SIGINT 10744
+2023-06-02 14:09:54 - SIGINT to 10744 failed - Killing as fallback
+2023-06-02 14:09:54 - Stopping process 12660
+2023-06-02 14:09:54 - Send SIGINT 12660
+2023-06-02 14:09:54 - SIGINT to 12660 failed - Killing as fallback
+2023-06-02 14:09:54 - Stopping process 8648
+2023-06-02 14:09:54 - Send SIGINT 8648
+2023-06-02 14:09:54 - SIGINT to 8648 failed - Killing as fallback
+2023-06-02 14:09:54 - Finished bastianmqttserver.exe
+2023-06-02 15:06:47 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index.js" --scriptoptions= --log "Bastian Mqtt server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-06-02 15:06:48 - Started 12448
+2023-06-02 15:10:42 - Stopping bastianmqttserver.exe
+2023-06-02 15:10:42 - ProcessKill 12448
+2023-06-02 15:10:42 - Found child process: 13232 Name: conhost.exe
+2023-06-02 15:10:42 - Found child process: 4344 Name: node.exe
+2023-06-02 15:10:42 - Stopping process 13232
+2023-06-02 15:10:42 - Send SIGINT 13232
+2023-06-02 15:10:42 - SIGINT to 13232 failed - Killing as fallback
+2023-06-02 15:10:42 - Stopping process 4344
+2023-06-02 15:10:42 - Send SIGINT 4344
+2023-06-02 15:10:42 - SIGINT to 4344 failed - Killing as fallback
+2023-06-02 15:10:42 - Stopping process 12448
+2023-06-02 15:10:42 - Send SIGINT 12448
+2023-06-02 15:10:42 - SIGINT to 12448 failed - Killing as fallback
+2023-06-02 15:10:42 - Finished bastianmqttserver.exe
+2023-06-02 15:12:38 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index.js" --scriptoptions= --log "Bastian Mqtt server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-06-02 15:12:38 - Started 9712
+2023-06-02 15:20:31 - Stopping bastianmqttserver.exe
+2023-06-02 15:20:31 - ProcessKill 9712
+2023-06-02 15:20:32 - Found child process: 8884 Name: conhost.exe
+2023-06-02 15:20:32 - Found child process: 6660 Name: node.exe
+2023-06-02 15:20:32 - Stopping process 8884
+2023-06-02 15:20:32 - Send SIGINT 8884
+2023-06-02 15:20:32 - SIGINT to 8884 failed - Killing as fallback
+2023-06-02 15:20:32 - Stopping process 6660
+2023-06-02 15:20:32 - Send SIGINT 6660
+2023-06-02 15:20:32 - SIGINT to 6660 failed - Killing as fallback
+2023-06-02 15:20:32 - Stopping process 9712
+2023-06-02 15:20:32 - Send SIGINT 9712
+2023-06-02 15:20:32 - SIGINT to 9712 failed - Killing as fallback
+2023-06-02 15:20:32 - Finished bastianmqttserver.exe
+2023-06-02 15:20:33 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index.js" --scriptoptions= --log "Bastian Mqtt server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-06-02 15:20:33 - Started 10152
+2023-06-05 08:37:12 - Stopping bastianmqttserver.exe
+2023-06-05 08:37:12 - ProcessKill 10152
+2023-06-05 08:37:13 - Found child process: 12156 Name: conhost.exe
+2023-06-05 08:37:13 - Found child process: 10088 Name: node.exe
+2023-06-05 08:37:13 - Stopping process 12156
+2023-06-05 08:37:13 - Send SIGINT 12156
+2023-06-05 08:37:13 - SIGINT to 12156 failed - Killing as fallback
+2023-06-05 08:37:13 - Stopping process 10088
+2023-06-05 08:37:13 - Send SIGINT 10088
+2023-06-05 08:37:13 - SIGINT to 10088 failed - Killing as fallback
+2023-06-05 08:37:13 - Stopping process 10152
+2023-06-05 08:37:13 - Send SIGINT 10152
+2023-06-05 08:37:13 - SIGINT to 10152 failed - Killing as fallback
+2023-06-05 08:37:13 - Finished bastianmqttserver.exe
+2023-06-05 08:37:13 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index.js" --scriptoptions= --log "Bastian Mqtt server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-06-05 08:37:14 - Started 7368
+2023-06-05 09:17:05 - Stopping bastianmqttserver.exe
+2023-06-05 09:17:05 - ProcessKill 7368
+2023-06-05 09:17:06 - Found child process: 4784 Name: conhost.exe
+2023-06-05 09:17:06 - Found child process: 12620 Name: node.exe
+2023-06-05 09:17:06 - Stopping process 4784
+2023-06-05 09:17:06 - Send SIGINT 4784
+2023-06-05 09:17:06 - SIGINT to 4784 failed - Killing as fallback
+2023-06-05 09:17:06 - Stopping process 12620
+2023-06-05 09:17:06 - Send SIGINT 12620
+2023-06-05 09:17:06 - SIGINT to 12620 failed - Killing as fallback
+2023-06-05 09:17:06 - Stopping process 7368
+2023-06-05 09:17:06 - Send SIGINT 7368
+2023-06-05 09:17:06 - SIGINT to 7368 failed - Killing as fallback
+2023-06-05 09:17:06 - Finished bastianmqttserver.exe
+2023-06-05 09:17:07 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index.js" --scriptoptions= --log "Bastian Mqtt server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-06-05 09:17:07 - Started 5820
+2023-06-05 09:22:34 - Stopping bastianmqttserver.exe
+2023-06-05 09:22:34 - ProcessKill 5820
+2023-06-05 09:22:35 - Found child process: 6380 Name: conhost.exe
+2023-06-05 09:22:35 - Found child process: 4876 Name: node.exe
+2023-06-05 09:22:35 - Stopping process 6380
+2023-06-05 09:22:35 - Send SIGINT 6380
+2023-06-05 09:22:35 - SIGINT to 6380 failed - Killing as fallback
+2023-06-05 09:22:35 - Stopping process 4876
+2023-06-05 09:22:35 - Send SIGINT 4876
+2023-06-05 09:22:35 - SIGINT to 4876 failed - Killing as fallback
+2023-06-05 09:22:35 - Stopping process 5820
+2023-06-05 09:22:35 - Send SIGINT 5820
+2023-06-05 09:22:35 - SIGINT to 5820 failed - Killing as fallback
+2023-06-05 09:22:35 - Finished bastianmqttserver.exe
+2023-06-05 09:22:36 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index.js" --scriptoptions= --log "Bastian Mqtt server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-06-05 09:22:36 - Started 7804
+2023-06-05 09:23:21 - Stopping bastianmqttserver.exe
+2023-06-05 09:23:21 - ProcessKill 7804
+2023-06-05 09:23:21 - Found child process: 12908 Name: conhost.exe
+2023-06-05 09:23:21 - Found child process: 3240 Name: node.exe
+2023-06-05 09:23:21 - Stopping process 12908
+2023-06-05 09:23:21 - Send SIGINT 12908
+2023-06-05 09:23:21 - SIGINT to 12908 failed - Killing as fallback
+2023-06-05 09:23:22 - Stopping process 3240
+2023-06-05 09:23:22 - Send SIGINT 3240
+2023-06-05 09:23:22 - SIGINT to 3240 failed - Killing as fallback
+2023-06-05 09:23:22 - Stopping process 7804
+2023-06-05 09:23:22 - Send SIGINT 7804
+2023-06-05 09:23:22 - SIGINT to 7804 failed - Killing as fallback
+2023-06-05 09:23:22 - Finished bastianmqttserver.exe
+2023-06-05 09:23:23 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index.js" --scriptoptions= --log "Bastian Mqtt server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-06-05 09:23:23 - Started 11608
+2023-06-05 09:36:11 - Stopping bastianmqttserver.exe
+2023-06-05 09:36:11 - ProcessKill 11608
+2023-06-05 09:36:11 - Found child process: 4068 Name: conhost.exe
+2023-06-05 09:36:11 - Found child process: 7688 Name: node.exe
+2023-06-05 09:36:11 - Stopping process 4068
+2023-06-05 09:36:11 - Send SIGINT 4068
+2023-06-05 09:36:11 - SIGINT to 4068 failed - Killing as fallback
+2023-06-05 09:36:11 - Stopping process 7688
+2023-06-05 09:36:11 - Send SIGINT 7688
+2023-06-05 09:36:11 - SIGINT to 7688 failed - Killing as fallback
+2023-06-05 09:36:11 - Stopping process 11608
+2023-06-05 09:36:11 - Send SIGINT 11608
+2023-06-05 09:36:11 - SIGINT to 11608 failed - Killing as fallback
+2023-06-05 09:36:11 - Finished bastianmqttserver.exe
+2023-06-05 09:36:12 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index.js" --scriptoptions= --log "Bastian Mqtt server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-06-05 09:36:12 - Started 7184
+2023-06-05 09:37:27 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index.js" --scriptoptions= --log "Bastian Mqtt server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-06-05 09:37:27 - Started 9444
+2023-06-05 09:38:41 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index.js" --scriptoptions= --log "Bastian Mqtt server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-06-05 09:38:41 - Started 11044
+2023-06-05 09:39:55 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index.js" --scriptoptions= --log "Bastian Mqtt server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-06-05 09:39:56 - Started 10780
+2023-06-05 09:41:18 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index.js" --scriptoptions= --log "Bastian Mqtt server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-06-05 09:41:18 - Started 12880
+2023-06-05 09:42:49 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index.js" --scriptoptions= --log "Bastian Mqtt server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-06-05 09:42:49 - Started 8764
+2023-06-05 09:44:23 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index.js" --scriptoptions= --log "Bastian Mqtt server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-06-05 09:44:23 - Started 6560
+2023-06-05 09:45:58 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index.js" --scriptoptions= --log "Bastian Mqtt server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-06-05 09:45:58 - Started 12112
+2023-06-05 09:47:26 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index.js" --scriptoptions= --log "Bastian Mqtt server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-06-05 09:47:26 - Started 8300
+2023-06-05 09:47:33 - Stopping bastianmqttserver.exe
+2023-06-05 09:47:33 - ProcessKill 8300
+2023-06-05 09:47:33 - Found child process: 5344 Name: conhost.exe
+2023-06-05 09:47:33 - Found child process: 4460 Name: node.exe
+2023-06-05 09:47:33 - Stopping process 5344
+2023-06-05 09:47:33 - Send SIGINT 5344
+2023-06-05 09:47:33 - SIGINT to 5344 failed - Killing as fallback
+2023-06-05 09:47:33 - Stopping process 4460
+2023-06-05 09:47:33 - Send SIGINT 4460
+2023-06-05 09:47:33 - SIGINT to 4460 failed - Killing as fallback
+2023-06-05 09:47:33 - Stopping process 8300
+2023-06-05 09:47:33 - Send SIGINT 8300
+2023-06-05 09:47:33 - SIGINT to 8300 failed - Killing as fallback
+2023-06-05 09:47:33 - Finished bastianmqttserver.exe
+2023-06-05 10:11:28 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index.js" --scriptoptions= --log "Bastian Mqtt server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-06-05 10:11:28 - Started 12000
+2023-06-05 10:12:03 - Stopping bastianmqttserver.exe
+2023-06-05 10:12:03 - ProcessKill 12000
+2023-06-05 10:12:03 - Found child process: 8552 Name: conhost.exe
+2023-06-05 10:12:03 - Found child process: 2936 Name: node.exe
+2023-06-05 10:12:03 - Stopping process 8552
+2023-06-05 10:12:03 - Send SIGINT 8552
+2023-06-05 10:12:03 - SIGINT to 8552 failed - Killing as fallback
+2023-06-05 10:12:03 - Stopping process 2936
+2023-06-05 10:12:03 - Send SIGINT 2936
+2023-06-05 10:12:03 - SIGINT to 2936 failed - Killing as fallback
+2023-06-05 10:12:03 - Stopping process 12000
+2023-06-05 10:12:03 - Send SIGINT 12000
+2023-06-05 10:12:03 - SIGINT to 12000 failed - Killing as fallback
+2023-06-05 10:12:03 - Finished bastianmqttserver.exe
+2023-06-05 10:12:04 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index.js" --scriptoptions= --log "Bastian Mqtt server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-06-05 10:12:05 - Started 4636
+2023-06-05 17:14:04 - Stopping bastianmqttserver.exe
+2023-06-05 17:14:04 - ProcessKill 4636
+2023-06-05 17:14:04 - Found child process: 12392 Name: conhost.exe
+2023-06-05 17:14:04 - Found child process: 4476 Name: node.exe
+2023-06-05 17:14:05 - Stopping process 12392
+2023-06-05 17:14:05 - Send SIGINT 12392
+2023-06-05 17:14:05 - SIGINT to 12392 failed - Killing as fallback
+2023-06-05 17:14:05 - Stopping process 4476
+2023-06-05 17:14:05 - Send SIGINT 4476
+2023-06-05 17:14:05 - SIGINT to 4476 failed - Killing as fallback
+2023-06-05 17:14:05 - Stopping process 4636
+2023-06-05 17:14:05 - Send SIGINT 4636
+2023-06-05 17:14:05 - SIGINT to 4636 failed - Killing as fallback
+2023-06-05 17:14:05 - Finished bastianmqttserver.exe
+2023-06-05 17:14:06 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index.js" --scriptoptions= --log "Bastian Mqtt server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-06-05 17:14:06 - Started 8704
+2023-06-07 08:59:00 - Stopping bastianmqttserver.exe
+2023-06-07 08:59:00 - ProcessKill 8704
+2023-06-07 08:59:00 - Found child process: 4164 Name: conhost.exe
+2023-06-07 08:59:00 - Found child process: 11232 Name: node.exe
+2023-06-07 08:59:00 - Stopping process 4164
+2023-06-07 08:59:00 - Send SIGINT 4164
+2023-06-07 08:59:00 - SIGINT to 4164 failed - Killing as fallback
+2023-06-07 08:59:00 - Stopping process 11232
+2023-06-07 08:59:00 - Send SIGINT 11232
+2023-06-07 08:59:00 - SIGINT to 11232 failed - Killing as fallback
+2023-06-07 08:59:00 - Stopping process 8704
+2023-06-07 08:59:00 - Send SIGINT 8704
+2023-06-07 08:59:00 - SIGINT to 8704 failed - Killing as fallback
+2023-06-07 08:59:00 - Finished bastianmqttserver.exe
+2023-06-07 08:59:02 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index.js" --scriptoptions= --log "Bastian Mqtt server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-06-07 08:59:02 - Started 10612
+2023-06-15 17:33:50 - Stopping bastianmqttserver.exe
+2023-06-15 17:33:50 - ProcessKill 10612
+2023-06-15 17:33:50 - Found child process: 5712 Name: conhost.exe
+2023-06-15 17:33:50 - Found child process: 10912 Name: node.exe
+2023-06-15 17:33:50 - Stopping process 5712
+2023-06-15 17:33:50 - Send SIGINT 5712
+2023-06-15 17:33:50 - SIGINT to 5712 failed - Killing as fallback
+2023-06-15 17:33:50 - Stopping process 10912
+2023-06-15 17:33:50 - Send SIGINT 10912
+2023-06-15 17:33:50 - SIGINT to 10912 failed - Killing as fallback
+2023-06-15 17:33:50 - Stopping process 10612
+2023-06-15 17:33:50 - Send SIGINT 10612
+2023-06-15 17:33:50 - SIGINT to 10612 failed - Killing as fallback
+2023-06-15 17:33:50 - Finished bastianmqttserver.exe
+2023-06-15 17:33:51 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index.js" --scriptoptions= --log "Bastian Mqtt server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-06-15 17:33:51 - Started 10084
+2023-06-20 09:49:19 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index.js" --scriptoptions= --log "Bastian Mqtt server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-06-20 09:49:19 - Started 6592

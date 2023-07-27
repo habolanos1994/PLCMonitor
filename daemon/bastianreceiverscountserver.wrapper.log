@@ -1,0 +1,908 @@
+2023-05-23 06:58:11 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index4.js" --scriptoptions= --log "Bastian Receivers Count server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-23 06:58:11 - Started 8180
+2023-05-23 07:06:46 - Stopping bastianreceiverscountserver.exe
+2023-05-23 07:06:46 - ProcessKill 8180
+2023-05-23 07:06:46 - Found child process: 8884 Name: conhost.exe
+2023-05-23 07:06:46 - Found child process: 11360 Name: node.exe
+2023-05-23 07:06:47 - Stopping process 8884
+2023-05-23 07:06:47 - Send SIGINT 8884
+2023-05-23 07:06:47 - SIGINT to 8884 failed - Killing as fallback
+2023-05-23 07:06:47 - Stopping process 11360
+2023-05-23 07:06:47 - Send SIGINT 11360
+2023-05-23 07:06:47 - SIGINT to 11360 failed - Killing as fallback
+2023-05-23 07:06:47 - Stopping process 8180
+2023-05-23 07:06:47 - Send SIGINT 8180
+2023-05-23 07:06:47 - SIGINT to 8180 failed - Killing as fallback
+2023-05-23 07:06:47 - Finished bastianreceiverscountserver.exe
+2023-05-23 07:06:48 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index4.js" --scriptoptions= --log "Bastian Receivers Count server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-23 07:06:48 - Started 13040
+2023-05-23 07:08:52 - Stopping bastianreceiverscountserver.exe
+2023-05-23 07:08:52 - ProcessKill 13040
+2023-05-23 07:08:52 - Found child process: 11408 Name: conhost.exe
+2023-05-23 07:08:52 - Found child process: 13196 Name: node.exe
+2023-05-23 07:08:52 - Stopping process 11408
+2023-05-23 07:08:52 - Send SIGINT 11408
+2023-05-23 07:08:52 - SIGINT to 11408 failed - Killing as fallback
+2023-05-23 07:08:52 - Stopping process 13196
+2023-05-23 07:08:52 - Send SIGINT 13196
+2023-05-23 07:08:52 - SIGINT to 13196 failed - Killing as fallback
+2023-05-23 07:08:52 - Stopping process 13040
+2023-05-23 07:08:52 - Send SIGINT 13040
+2023-05-23 07:08:52 - SIGINT to 13040 failed - Killing as fallback
+2023-05-23 07:08:52 - Finished bastianreceiverscountserver.exe
+2023-05-23 07:12:59 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index4.js" --scriptoptions= --log "Bastian Receivers Count server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-23 07:12:59 - Started 680
+2023-05-23 07:16:35 - Stopping bastianreceiverscountserver.exe
+2023-05-23 07:16:35 - ProcessKill 680
+2023-05-23 07:16:35 - Found child process: 5964 Name: conhost.exe
+2023-05-23 07:16:35 - Found child process: 9712 Name: node.exe
+2023-05-23 07:16:35 - Stopping process 5964
+2023-05-23 07:16:35 - Send SIGINT 5964
+2023-05-23 07:16:35 - SIGINT to 5964 failed - Killing as fallback
+2023-05-23 07:16:35 - Stopping process 9712
+2023-05-23 07:16:35 - Send SIGINT 9712
+2023-05-23 07:16:35 - SIGINT to 9712 failed - Killing as fallback
+2023-05-23 07:16:35 - Stopping process 680
+2023-05-23 07:16:35 - Send SIGINT 680
+2023-05-23 07:16:35 - SIGINT to 680 failed - Killing as fallback
+2023-05-23 07:16:35 - Finished bastianreceiverscountserver.exe
+2023-05-23 07:18:20 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index4.js" --scriptoptions= --log "Bastian Receivers Count server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-23 07:18:20 - Started 13192
+2023-05-23 09:41:44 - Stopping bastianreceiverscountserver.exe
+2023-05-23 09:41:44 - ProcessKill 13192
+2023-05-23 09:41:44 - Found child process: 9932 Name: conhost.exe
+2023-05-23 09:41:44 - Found child process: 5848 Name: node.exe
+2023-05-23 09:41:44 - Stopping process 9932
+2023-05-23 09:41:44 - Send SIGINT 9932
+2023-05-23 09:41:44 - SIGINT to 9932 failed - Killing as fallback
+2023-05-23 09:41:44 - Stopping process 5848
+2023-05-23 09:41:44 - Send SIGINT 5848
+2023-05-23 09:41:44 - SIGINT to 5848 failed - Killing as fallback
+2023-05-23 09:41:44 - Stopping process 13192
+2023-05-23 09:41:44 - Send SIGINT 13192
+2023-05-23 09:41:44 - SIGINT to 13192 failed - Killing as fallback
+2023-05-23 09:41:44 - Finished bastianreceiverscountserver.exe
+2023-05-23 09:41:45 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index4.js" --scriptoptions= --log "Bastian Receivers Count server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-23 09:41:46 - Started 9400
+2023-05-23 09:41:57 - Stopping bastianreceiverscountserver.exe
+2023-05-23 09:41:57 - ProcessKill 9400
+2023-05-23 09:41:57 - Found child process: 12400 Name: conhost.exe
+2023-05-23 09:41:57 - Found child process: 7904 Name: node.exe
+2023-05-23 09:41:57 - Stopping process 12400
+2023-05-23 09:41:57 - Send SIGINT 12400
+2023-05-23 09:41:57 - SIGINT to 12400 failed - Killing as fallback
+2023-05-23 09:41:57 - Stopping process 7904
+2023-05-23 09:41:57 - Send SIGINT 7904
+2023-05-23 09:41:57 - SIGINT to 7904 failed - Killing as fallback
+2023-05-23 09:41:57 - Stopping process 9400
+2023-05-23 09:41:57 - Send SIGINT 9400
+2023-05-23 09:41:57 - SIGINT to 9400 failed - Killing as fallback
+2023-05-23 09:41:57 - Finished bastianreceiverscountserver.exe
+2023-05-23 09:41:58 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index4.js" --scriptoptions= --log "Bastian Receivers Count server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-23 09:41:59 - Started 4840
+2023-05-23 09:43:01 - Stopping bastianreceiverscountserver.exe
+2023-05-23 09:43:01 - ProcessKill 4840
+2023-05-23 09:43:02 - Found child process: 9560 Name: conhost.exe
+2023-05-23 09:43:02 - Found child process: 11176 Name: node.exe
+2023-05-23 09:43:02 - Stopping process 9560
+2023-05-23 09:43:02 - Send SIGINT 9560
+2023-05-23 09:43:02 - SIGINT to 9560 failed - Killing as fallback
+2023-05-23 09:43:02 - Stopping process 11176
+2023-05-23 09:43:02 - Send SIGINT 11176
+2023-05-23 09:43:02 - SIGINT to 11176 failed - Killing as fallback
+2023-05-23 09:43:02 - Stopping process 4840
+2023-05-23 09:43:02 - Send SIGINT 4840
+2023-05-23 09:43:02 - SIGINT to 4840 failed - Killing as fallback
+2023-05-23 09:43:02 - Finished bastianreceiverscountserver.exe
+2023-05-23 09:43:03 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index4.js" --scriptoptions= --log "Bastian Receivers Count server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-23 09:43:03 - Started 11884
+2023-05-23 09:47:03 - Stopping bastianreceiverscountserver.exe
+2023-05-23 09:47:03 - ProcessKill 11884
+2023-05-23 09:47:03 - Found child process: 5812 Name: conhost.exe
+2023-05-23 09:47:03 - Found child process: 12628 Name: node.exe
+2023-05-23 09:47:03 - Stopping process 5812
+2023-05-23 09:47:03 - Send SIGINT 5812
+2023-05-23 09:47:03 - SIGINT to 5812 failed - Killing as fallback
+2023-05-23 09:47:03 - Stopping process 12628
+2023-05-23 09:47:03 - Send SIGINT 12628
+2023-05-23 09:47:03 - SIGINT to 12628 failed - Killing as fallback
+2023-05-23 09:47:03 - Stopping process 11884
+2023-05-23 09:47:03 - Send SIGINT 11884
+2023-05-23 09:47:03 - SIGINT to 11884 failed - Killing as fallback
+2023-05-23 09:47:03 - Finished bastianreceiverscountserver.exe
+2023-05-23 10:47:11 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index4.js" --scriptoptions= --log "Bastian Receivers Count server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-23 10:47:11 - Started 11356
+2023-05-23 13:07:34 - Stopping bastianreceiverscountserver.exe
+2023-05-23 13:07:34 - ProcessKill 11356
+2023-05-23 13:07:34 - Found child process: 9908 Name: conhost.exe
+2023-05-23 13:07:34 - Found child process: 12136 Name: node.exe
+2023-05-23 13:07:34 - Stopping process 9908
+2023-05-23 13:07:34 - Send SIGINT 9908
+2023-05-23 13:07:34 - SIGINT to 9908 failed - Killing as fallback
+2023-05-23 13:07:34 - Stopping process 12136
+2023-05-23 13:07:34 - Send SIGINT 12136
+2023-05-23 13:07:34 - SIGINT to 12136 failed - Killing as fallback
+2023-05-23 13:07:34 - Stopping process 11356
+2023-05-23 13:07:34 - Send SIGINT 11356
+2023-05-23 13:07:34 - SIGINT to 11356 failed - Killing as fallback
+2023-05-23 13:07:34 - Finished bastianreceiverscountserver.exe
+2023-05-23 13:07:35 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index4.js" --scriptoptions= --log "Bastian Receivers Count server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-23 13:07:35 - Started 11844
+2023-05-23 13:07:52 - Stopping bastianreceiverscountserver.exe
+2023-05-23 13:07:52 - ProcessKill 11844
+2023-05-23 13:07:52 - Found child process: 9300 Name: conhost.exe
+2023-05-23 13:07:52 - Found child process: 13172 Name: node.exe
+2023-05-23 13:07:52 - Stopping process 9300
+2023-05-23 13:07:52 - Send SIGINT 9300
+2023-05-23 13:07:52 - SIGINT to 9300 failed - Killing as fallback
+2023-05-23 13:07:52 - Stopping process 13172
+2023-05-23 13:07:52 - Send SIGINT 13172
+2023-05-23 13:07:52 - SIGINT to 13172 failed - Killing as fallback
+2023-05-23 13:07:52 - Stopping process 11844
+2023-05-23 13:07:52 - Send SIGINT 11844
+2023-05-23 13:07:52 - SIGINT to 11844 failed - Killing as fallback
+2023-05-23 13:07:52 - Finished bastianreceiverscountserver.exe
+2023-05-23 13:07:53 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index4.js" --scriptoptions= --log "Bastian Receivers Count server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-23 13:07:53 - Started 11660
+2023-05-23 14:47:01 - Stopping bastianreceiverscountserver.exe
+2023-05-23 14:47:01 - ProcessKill 11660
+2023-05-23 14:47:01 - Found child process: 13280 Name: conhost.exe
+2023-05-23 14:47:01 - Found child process: 4448 Name: node.exe
+2023-05-23 14:47:01 - Stopping process 13280
+2023-05-23 14:47:02 - Send SIGINT 13280
+2023-05-23 14:47:02 - SIGINT to 13280 failed - Killing as fallback
+2023-05-23 14:47:02 - Stopping process 4448
+2023-05-23 14:47:02 - Send SIGINT 4448
+2023-05-23 14:47:02 - SIGINT to 4448 failed - Killing as fallback
+2023-05-23 14:47:02 - Stopping process 11660
+2023-05-23 14:47:02 - Send SIGINT 11660
+2023-05-23 14:47:02 - SIGINT to 11660 failed - Killing as fallback
+2023-05-23 14:47:02 - Finished bastianreceiverscountserver.exe
+2023-05-23 14:47:03 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index4.js" --scriptoptions= --log "Bastian Receivers Count server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-23 14:47:03 - Started 7616
+2023-05-23 14:48:22 - Stopping bastianreceiverscountserver.exe
+2023-05-23 14:48:22 - ProcessKill 7616
+2023-05-23 14:48:22 - Found child process: 11092 Name: conhost.exe
+2023-05-23 14:48:22 - Found child process: 5212 Name: node.exe
+2023-05-23 14:48:22 - Stopping process 11092
+2023-05-23 14:48:22 - Send SIGINT 11092
+2023-05-23 14:48:22 - SIGINT to 11092 failed - Killing as fallback
+2023-05-23 14:48:22 - Stopping process 5212
+2023-05-23 14:48:22 - Send SIGINT 5212
+2023-05-23 14:48:22 - SIGINT to 5212 failed - Killing as fallback
+2023-05-23 14:48:22 - Stopping process 7616
+2023-05-23 14:48:22 - Send SIGINT 7616
+2023-05-23 14:48:22 - SIGINT to 7616 failed - Killing as fallback
+2023-05-23 14:48:22 - Finished bastianreceiverscountserver.exe
+2023-05-23 14:48:23 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index4.js" --scriptoptions= --log "Bastian Receivers Count server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-23 14:48:23 - Started 10004
+2023-05-23 15:15:52 - Stopping bastianreceiverscountserver.exe
+2023-05-23 15:15:52 - ProcessKill 10004
+2023-05-23 15:15:52 - Found child process: 11668 Name: conhost.exe
+2023-05-23 15:15:52 - Found child process: 2964 Name: node.exe
+2023-05-23 15:15:52 - Stopping process 11668
+2023-05-23 15:15:52 - Send SIGINT 11668
+2023-05-23 15:15:52 - SIGINT to 11668 failed - Killing as fallback
+2023-05-23 15:15:52 - Stopping process 2964
+2023-05-23 15:15:52 - Send SIGINT 2964
+2023-05-23 15:15:52 - SIGINT to 2964 failed - Killing as fallback
+2023-05-23 15:15:52 - Stopping process 10004
+2023-05-23 15:15:52 - Send SIGINT 10004
+2023-05-23 15:15:52 - SIGINT to 10004 failed - Killing as fallback
+2023-05-23 15:15:52 - Finished bastianreceiverscountserver.exe
+2023-05-23 15:15:53 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index4.js" --scriptoptions= --log "Bastian Receivers Count server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-23 15:15:53 - Started 9664
+2023-05-23 15:30:12 - Stopping bastianreceiverscountserver.exe
+2023-05-23 15:30:12 - ProcessKill 9664
+2023-05-23 15:30:12 - Found child process: 8172 Name: conhost.exe
+2023-05-23 15:30:12 - Found child process: 13272 Name: node.exe
+2023-05-23 15:30:13 - Stopping process 8172
+2023-05-23 15:30:13 - Send SIGINT 8172
+2023-05-23 15:30:13 - SIGINT to 8172 failed - Killing as fallback
+2023-05-23 15:30:13 - Stopping process 13272
+2023-05-23 15:30:13 - Send SIGINT 13272
+2023-05-23 15:30:13 - SIGINT to 13272 failed - Killing as fallback
+2023-05-23 15:30:13 - Stopping process 9664
+2023-05-23 15:30:13 - Send SIGINT 9664
+2023-05-23 15:30:13 - SIGINT to 9664 failed - Killing as fallback
+2023-05-23 15:30:13 - Finished bastianreceiverscountserver.exe
+2023-05-23 15:30:14 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index4.js" --scriptoptions= --log "Bastian Receivers Count server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-23 15:30:14 - Started 12788
+2023-05-23 15:31:59 - Stopping bastianreceiverscountserver.exe
+2023-05-23 15:31:59 - ProcessKill 12788
+2023-05-23 15:31:59 - Found child process: 5420 Name: conhost.exe
+2023-05-23 15:31:59 - Found child process: 4304 Name: node.exe
+2023-05-23 15:31:59 - Stopping process 5420
+2023-05-23 15:31:59 - Send SIGINT 5420
+2023-05-23 15:31:59 - SIGINT to 5420 failed - Killing as fallback
+2023-05-23 15:31:59 - Stopping process 4304
+2023-05-23 15:31:59 - Send SIGINT 4304
+2023-05-23 15:31:59 - SIGINT to 4304 failed - Killing as fallback
+2023-05-23 15:31:59 - Stopping process 12788
+2023-05-23 15:31:59 - Send SIGINT 12788
+2023-05-23 15:31:59 - SIGINT to 12788 failed - Killing as fallback
+2023-05-23 15:31:59 - Finished bastianreceiverscountserver.exe
+2023-05-23 15:32:01 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index4.js" --scriptoptions= --log "Bastian Receivers Count server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-23 15:32:01 - Started 11752
+2023-05-25 08:27:26 - Stopping bastianreceiverscountserver.exe
+2023-05-25 08:27:26 - ProcessKill 11752
+2023-05-25 08:27:26 - Found child process: 11472 Name: conhost.exe
+2023-05-25 08:27:26 - Found child process: 8212 Name: node.exe
+2023-05-25 08:27:26 - Stopping process 11472
+2023-05-25 08:27:26 - Send SIGINT 11472
+2023-05-25 08:27:26 - SIGINT to 11472 failed - Killing as fallback
+2023-05-25 08:27:26 - Stopping process 8212
+2023-05-25 08:27:26 - Send SIGINT 8212
+2023-05-25 08:27:26 - SIGINT to 8212 failed - Killing as fallback
+2023-05-25 08:27:26 - Stopping process 11752
+2023-05-25 08:27:26 - Send SIGINT 11752
+2023-05-25 08:27:26 - SIGINT to 11752 failed - Killing as fallback
+2023-05-25 08:27:26 - Finished bastianreceiverscountserver.exe
+2023-05-25 08:27:27 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index4.js" --scriptoptions= --log "Bastian Receivers Count server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-25 08:27:28 - Started 12548
+2023-05-25 08:28:38 - Stopping bastianreceiverscountserver.exe
+2023-05-25 08:28:38 - ProcessKill 12548
+2023-05-25 08:28:38 - Found child process: 8004 Name: conhost.exe
+2023-05-25 08:28:38 - Found child process: 2964 Name: node.exe
+2023-05-25 08:28:39 - Stopping process 8004
+2023-05-25 08:28:39 - Send SIGINT 8004
+2023-05-25 08:28:39 - SIGINT to 8004 failed - Killing as fallback
+2023-05-25 08:28:39 - Stopping process 2964
+2023-05-25 08:28:39 - Send SIGINT 2964
+2023-05-25 08:28:39 - SIGINT to 2964 failed - Killing as fallback
+2023-05-25 08:28:39 - Stopping process 12548
+2023-05-25 08:28:39 - Send SIGINT 12548
+2023-05-25 08:28:39 - SIGINT to 12548 failed - Killing as fallback
+2023-05-25 08:28:39 - Finished bastianreceiverscountserver.exe
+2023-05-25 08:41:56 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index4.js" --scriptoptions= --log "Bastian Receivers Count server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-25 08:41:56 - Started 1452
+2023-05-25 08:49:17 - Stopping bastianreceiverscountserver.exe
+2023-05-25 08:49:17 - ProcessKill 1452
+2023-05-25 08:49:17 - Found child process: 3300 Name: conhost.exe
+2023-05-25 08:49:17 - Found child process: 8092 Name: node.exe
+2023-05-25 08:49:17 - Stopping process 3300
+2023-05-25 08:49:17 - Send SIGINT 3300
+2023-05-25 08:49:17 - SIGINT to 3300 failed - Killing as fallback
+2023-05-25 08:49:17 - Stopping process 8092
+2023-05-25 08:49:17 - Send SIGINT 8092
+2023-05-25 08:49:17 - SIGINT to 8092 failed - Killing as fallback
+2023-05-25 08:49:17 - Stopping process 1452
+2023-05-25 08:49:17 - Send SIGINT 1452
+2023-05-25 08:49:17 - SIGINT to 1452 failed - Killing as fallback
+2023-05-25 08:49:17 - Finished bastianreceiverscountserver.exe
+2023-05-25 08:49:37 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index4.js" --scriptoptions= --log "Bastian Receivers Count server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-25 08:49:37 - Started 4852
+2023-05-25 08:50:19 - Stopping bastianreceiverscountserver.exe
+2023-05-25 08:50:19 - ProcessKill 4852
+2023-05-25 08:50:19 - Found child process: 4560 Name: conhost.exe
+2023-05-25 08:50:19 - Found child process: 11316 Name: node.exe
+2023-05-25 08:50:19 - Stopping process 4560
+2023-05-25 08:50:19 - Send SIGINT 4560
+2023-05-25 08:50:19 - SIGINT to 4560 failed - Killing as fallback
+2023-05-25 08:50:19 - Stopping process 11316
+2023-05-25 08:50:19 - Send SIGINT 11316
+2023-05-25 08:50:19 - SIGINT to 11316 failed - Killing as fallback
+2023-05-25 08:50:19 - Stopping process 4852
+2023-05-25 08:50:19 - Send SIGINT 4852
+2023-05-25 08:50:19 - SIGINT to 4852 failed - Killing as fallback
+2023-05-25 08:50:19 - Finished bastianreceiverscountserver.exe
+2023-05-25 10:31:37 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index4.js" --scriptoptions= --log "Bastian Receivers Count server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-25 10:31:37 - Started 5840
+2023-05-25 13:10:08 - Stopping bastianreceiverscountserver.exe
+2023-05-25 13:10:08 - ProcessKill 5840
+2023-05-25 13:10:08 - Found child process: 12968 Name: conhost.exe
+2023-05-25 13:10:08 - Found child process: 11864 Name: node.exe
+2023-05-25 13:10:09 - Stopping process 12968
+2023-05-25 13:10:09 - Send SIGINT 12968
+2023-05-25 13:10:09 - SIGINT to 12968 failed - Killing as fallback
+2023-05-25 13:10:09 - Stopping process 11864
+2023-05-25 13:10:09 - Send SIGINT 11864
+2023-05-25 13:10:09 - SIGINT to 11864 failed - Killing as fallback
+2023-05-25 13:10:09 - Stopping process 5840
+2023-05-25 13:10:09 - Send SIGINT 5840
+2023-05-25 13:10:09 - SIGINT to 5840 failed - Killing as fallback
+2023-05-25 13:10:09 - Finished bastianreceiverscountserver.exe
+2023-05-25 13:10:10 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index4.js" --scriptoptions= --log "Bastian Receivers Count server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-25 13:10:10 - Started 8700
+2023-05-25 13:10:20 - Stopping bastianreceiverscountserver.exe
+2023-05-25 13:10:20 - ProcessKill 8700
+2023-05-25 13:10:21 - Found child process: 8012 Name: conhost.exe
+2023-05-25 13:10:21 - Found child process: 4668 Name: node.exe
+2023-05-25 13:10:21 - Stopping process 8012
+2023-05-25 13:10:21 - Send SIGINT 8012
+2023-05-25 13:10:21 - SIGINT to 8012 failed - Killing as fallback
+2023-05-25 13:10:21 - Stopping process 4668
+2023-05-25 13:10:21 - Send SIGINT 4668
+2023-05-25 13:10:21 - SIGINT to 4668 failed - Killing as fallback
+2023-05-25 13:10:21 - Stopping process 8700
+2023-05-25 13:10:21 - Send SIGINT 8700
+2023-05-25 13:10:21 - SIGINT to 8700 failed - Killing as fallback
+2023-05-25 13:10:21 - Finished bastianreceiverscountserver.exe
+2023-05-25 13:10:22 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index4.js" --scriptoptions= --log "Bastian Receivers Count server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-25 13:10:22 - Started 10260
+2023-05-25 13:25:57 - Stopping bastianreceiverscountserver.exe
+2023-05-25 13:25:57 - ProcessKill 10260
+2023-05-25 13:25:58 - Found child process: 4396 Name: conhost.exe
+2023-05-25 13:25:58 - Found child process: 13004 Name: node.exe
+2023-05-25 13:25:58 - Stopping process 4396
+2023-05-25 13:25:58 - Send SIGINT 4396
+2023-05-25 13:25:58 - SIGINT to 4396 failed - Killing as fallback
+2023-05-25 13:25:58 - Stopping process 13004
+2023-05-25 13:25:58 - Send SIGINT 13004
+2023-05-25 13:25:58 - SIGINT to 13004 failed - Killing as fallback
+2023-05-25 13:25:58 - Stopping process 10260
+2023-05-25 13:25:58 - Send SIGINT 10260
+2023-05-25 13:25:58 - SIGINT to 10260 failed - Killing as fallback
+2023-05-25 13:25:58 - Finished bastianreceiverscountserver.exe
+2023-05-25 13:25:59 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index4.js" --scriptoptions= --log "Bastian Receivers Count server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-25 13:25:59 - Started 5428
+2023-05-25 13:26:06 - Stopping bastianreceiverscountserver.exe
+2023-05-25 13:26:06 - ProcessKill 5428
+2023-05-25 13:26:07 - Found child process: 7964 Name: conhost.exe
+2023-05-25 13:26:07 - Found child process: 8936 Name: node.exe
+2023-05-25 13:26:07 - Stopping process 7964
+2023-05-25 13:26:07 - Send SIGINT 7964
+2023-05-25 13:26:07 - SIGINT to 7964 failed - Killing as fallback
+2023-05-25 13:26:07 - Stopping process 8936
+2023-05-25 13:26:07 - Send SIGINT 8936
+2023-05-25 13:26:07 - SIGINT to 8936 failed - Killing as fallback
+2023-05-25 13:26:07 - Stopping process 5428
+2023-05-25 13:26:07 - Send SIGINT 5428
+2023-05-25 13:26:07 - SIGINT to 5428 failed - Killing as fallback
+2023-05-25 13:26:07 - Finished bastianreceiverscountserver.exe
+2023-05-25 13:26:08 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index4.js" --scriptoptions= --log "Bastian Receivers Count server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-25 13:26:08 - Started 12960
+2023-05-25 13:27:20 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index4.js" --scriptoptions= --log "Bastian Receivers Count server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-25 13:27:20 - Started 12660
+2023-05-25 13:27:52 - Stopping bastianreceiverscountserver.exe
+2023-05-25 13:27:52 - ProcessKill 12660
+2023-05-25 13:27:52 - Found child process: 8620 Name: conhost.exe
+2023-05-25 13:27:52 - Found child process: 9460 Name: node.exe
+2023-05-25 13:27:52 - Stopping process 8620
+2023-05-25 13:27:52 - Send SIGINT 8620
+2023-05-25 13:27:52 - SIGINT to 8620 failed - Killing as fallback
+2023-05-25 13:27:52 - Stopping process 9460
+2023-05-25 13:27:52 - Send SIGINT 9460
+2023-05-25 13:27:52 - SIGINT to 9460 failed - Killing as fallback
+2023-05-25 13:27:52 - Stopping process 12660
+2023-05-25 13:27:52 - Send SIGINT 12660
+2023-05-25 13:27:52 - SIGINT to 12660 failed - Killing as fallback
+2023-05-25 13:27:52 - Finished bastianreceiverscountserver.exe
+2023-05-25 13:27:54 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index4.js" --scriptoptions= --log "Bastian Receivers Count server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-25 13:27:54 - Started 12776
+2023-05-26 14:00:25 - Stopping bastianreceiverscountserver.exe
+2023-05-26 14:00:25 - ProcessKill 12776
+2023-05-26 14:00:25 - Found child process: 9824 Name: conhost.exe
+2023-05-26 14:00:25 - Found child process: 9864 Name: node.exe
+2023-05-26 14:00:25 - Stopping process 9824
+2023-05-26 14:00:25 - Send SIGINT 9824
+2023-05-26 14:00:25 - SIGINT to 9824 failed - Killing as fallback
+2023-05-26 14:00:25 - Stopping process 9864
+2023-05-26 14:00:25 - Send SIGINT 9864
+2023-05-26 14:00:25 - SIGINT to 9864 failed - Killing as fallback
+2023-05-26 14:00:25 - Stopping process 12776
+2023-05-26 14:00:25 - Send SIGINT 12776
+2023-05-26 14:00:25 - SIGINT to 12776 failed - Killing as fallback
+2023-05-26 14:00:25 - Finished bastianreceiverscountserver.exe
+2023-05-26 14:00:26 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index4.js" --scriptoptions= --log "Bastian Receivers Count server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-26 14:00:26 - Started 9608
+2023-05-26 14:00:33 - Stopping bastianreceiverscountserver.exe
+2023-05-26 14:00:33 - ProcessKill 9608
+2023-05-26 14:00:33 - Found child process: 4136 Name: conhost.exe
+2023-05-26 14:00:33 - Found child process: 4816 Name: node.exe
+2023-05-26 14:00:33 - Stopping process 4136
+2023-05-26 14:00:33 - Send SIGINT 4136
+2023-05-26 14:00:33 - SIGINT to 4136 failed - Killing as fallback
+2023-05-26 14:00:33 - Stopping process 4816
+2023-05-26 14:00:33 - Send SIGINT 4816
+2023-05-26 14:00:33 - SIGINT to 4816 failed - Killing as fallback
+2023-05-26 14:00:33 - Stopping process 9608
+2023-05-26 14:00:33 - Send SIGINT 9608
+2023-05-26 14:00:33 - SIGINT to 9608 failed - Killing as fallback
+2023-05-26 14:00:33 - Finished bastianreceiverscountserver.exe
+2023-05-26 14:00:34 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index4.js" --scriptoptions= --log "Bastian Receivers Count server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-26 14:00:34 - Started 9408
+2023-05-30 08:50:10 - Stopping bastianreceiverscountserver.exe
+2023-05-30 08:50:10 - ProcessKill 9408
+2023-05-30 08:50:11 - Found child process: 12076 Name: conhost.exe
+2023-05-30 08:50:11 - Found child process: 2032 Name: node.exe
+2023-05-30 08:50:11 - Stopping process 12076
+2023-05-30 08:50:11 - Send SIGINT 12076
+2023-05-30 08:50:11 - SIGINT to 12076 failed - Killing as fallback
+2023-05-30 08:50:11 - Stopping process 2032
+2023-05-30 08:50:11 - Send SIGINT 2032
+2023-05-30 08:50:11 - SIGINT to 2032 failed - Killing as fallback
+2023-05-30 08:50:11 - Stopping process 9408
+2023-05-30 08:50:11 - Send SIGINT 9408
+2023-05-30 08:50:11 - SIGINT to 9408 failed - Killing as fallback
+2023-05-30 08:50:11 - Finished bastianreceiverscountserver.exe
+2023-05-30 08:50:12 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index4.js" --scriptoptions= --log "Bastian Receivers Count server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-30 08:50:12 - Started 9264
+2023-05-30 08:50:22 - Stopping bastianreceiverscountserver.exe
+2023-05-30 08:50:22 - ProcessKill 9264
+2023-05-30 08:50:23 - Found child process: 12524 Name: conhost.exe
+2023-05-30 08:50:23 - Found child process: 12208 Name: node.exe
+2023-05-30 08:50:23 - Stopping process 12524
+2023-05-30 08:50:23 - Send SIGINT 12524
+2023-05-30 08:50:23 - SIGINT to 12524 failed - Killing as fallback
+2023-05-30 08:50:23 - Stopping process 12208
+2023-05-30 08:50:23 - Send SIGINT 12208
+2023-05-30 08:50:23 - SIGINT to 12208 failed - Killing as fallback
+2023-05-30 08:50:23 - Stopping process 9264
+2023-05-30 08:50:23 - Send SIGINT 9264
+2023-05-30 08:50:23 - SIGINT to 9264 failed - Killing as fallback
+2023-05-30 08:50:23 - Finished bastianreceiverscountserver.exe
+2023-05-30 08:50:24 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index4.js" --scriptoptions= --log "Bastian Receivers Count server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-30 08:50:24 - Started 12968
+2023-05-30 11:58:57 - Stopping bastianreceiverscountserver.exe
+2023-05-30 11:58:57 - ProcessKill 12968
+2023-05-30 11:58:57 - Found child process: 12156 Name: conhost.exe
+2023-05-30 11:58:57 - Found child process: 5112 Name: node.exe
+2023-05-30 11:58:58 - Stopping process 12156
+2023-05-30 11:58:58 - Send SIGINT 12156
+2023-05-30 11:58:58 - SIGINT to 12156 failed - Killing as fallback
+2023-05-30 11:58:58 - Stopping process 5112
+2023-05-30 11:58:58 - Send SIGINT 5112
+2023-05-30 11:58:58 - SIGINT to 5112 failed - Killing as fallback
+2023-05-30 11:58:58 - Stopping process 12968
+2023-05-30 11:58:58 - Send SIGINT 12968
+2023-05-30 11:58:58 - SIGINT to 12968 failed - Killing as fallback
+2023-05-30 11:58:58 - Finished bastianreceiverscountserver.exe
+2023-05-30 11:58:59 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index4.js" --scriptoptions= --log "Bastian Receivers Count server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-30 11:58:59 - Started 12524
+2023-05-30 13:00:44 - Stopping bastianreceiverscountserver.exe
+2023-05-30 13:00:44 - ProcessKill 12524
+2023-05-30 13:00:44 - Found child process: 12696 Name: conhost.exe
+2023-05-30 13:00:44 - Found child process: 9668 Name: node.exe
+2023-05-30 13:00:44 - Stopping process 12696
+2023-05-30 13:00:44 - Send SIGINT 12696
+2023-05-30 13:00:44 - SIGINT to 12696 failed - Killing as fallback
+2023-05-30 13:00:44 - Stopping process 9668
+2023-05-30 13:00:44 - Send SIGINT 9668
+2023-05-30 13:00:44 - SIGINT to 9668 failed - Killing as fallback
+2023-05-30 13:00:44 - Stopping process 12524
+2023-05-30 13:00:44 - Send SIGINT 12524
+2023-05-30 13:00:44 - SIGINT to 12524 failed - Killing as fallback
+2023-05-30 13:00:44 - Finished bastianreceiverscountserver.exe
+2023-05-30 13:00:45 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index4.js" --scriptoptions= --log "Bastian Receivers Count server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-30 13:00:45 - Started 1868
+2023-05-30 13:01:40 - Stopping bastianreceiverscountserver.exe
+2023-05-30 13:01:40 - ProcessKill 1868
+2023-05-30 13:01:40 - Found child process: 9104 Name: conhost.exe
+2023-05-30 13:01:40 - Found child process: 4184 Name: node.exe
+2023-05-30 13:01:40 - Stopping process 9104
+2023-05-30 13:01:40 - Send SIGINT 9104
+2023-05-30 13:01:40 - SIGINT to 9104 failed - Killing as fallback
+2023-05-30 13:01:40 - Stopping process 4184
+2023-05-30 13:01:40 - Send SIGINT 4184
+2023-05-30 13:01:40 - SIGINT to 4184 failed - Killing as fallback
+2023-05-30 13:01:40 - Stopping process 1868
+2023-05-30 13:01:40 - Send SIGINT 1868
+2023-05-30 13:01:40 - SIGINT to 1868 failed - Killing as fallback
+2023-05-30 13:01:40 - Finished bastianreceiverscountserver.exe
+2023-05-30 13:01:41 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index4.js" --scriptoptions= --log "Bastian Receivers Count server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-30 13:01:42 - Started 6868
+2023-05-31 08:55:21 - Stopping bastianreceiverscountserver.exe
+2023-05-31 08:55:21 - ProcessKill 6868
+2023-05-31 08:55:21 - Found child process: 2276 Name: conhost.exe
+2023-05-31 08:55:21 - Found child process: 2220 Name: node.exe
+2023-05-31 08:55:21 - Stopping process 2276
+2023-05-31 08:55:21 - Send SIGINT 2276
+2023-05-31 08:55:21 - SIGINT to 2276 failed - Killing as fallback
+2023-05-31 08:55:21 - Stopping process 2220
+2023-05-31 08:55:21 - Send SIGINT 2220
+2023-05-31 08:55:21 - SIGINT to 2220 failed - Killing as fallback
+2023-05-31 08:55:21 - Stopping process 6868
+2023-05-31 08:55:21 - Send SIGINT 6868
+2023-05-31 08:55:21 - SIGINT to 6868 failed - Killing as fallback
+2023-05-31 08:55:21 - Finished bastianreceiverscountserver.exe
+2023-05-31 08:55:22 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index4.js" --scriptoptions= --log "Bastian Receivers Count server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-31 08:55:22 - Started 8912
+2023-05-31 16:52:25 - Stopping bastianreceiverscountserver.exe
+2023-05-31 16:52:25 - ProcessKill 8912
+2023-05-31 16:52:26 - Found child process: 9460 Name: conhost.exe
+2023-05-31 16:52:26 - Found child process: 10892 Name: node.exe
+2023-05-31 16:52:26 - Stopping process 9460
+2023-05-31 16:52:26 - Send SIGINT 9460
+2023-05-31 16:52:26 - SIGINT to 9460 failed - Killing as fallback
+2023-05-31 16:52:26 - Stopping process 10892
+2023-05-31 16:52:26 - Send SIGINT 10892
+2023-05-31 16:52:26 - SIGINT to 10892 failed - Killing as fallback
+2023-05-31 16:52:26 - Stopping process 8912
+2023-05-31 16:52:26 - Send SIGINT 8912
+2023-05-31 16:52:26 - SIGINT to 8912 failed - Killing as fallback
+2023-05-31 16:52:26 - Finished bastianreceiverscountserver.exe
+2023-05-31 16:52:27 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index4.js" --scriptoptions= --log "Bastian Receivers Count server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-31 16:52:28 - Started 5624
+2023-05-31 16:52:44 - Stopping bastianreceiverscountserver.exe
+2023-05-31 16:52:44 - ProcessKill 5624
+2023-05-31 16:52:44 - Found child process: 6056 Name: conhost.exe
+2023-05-31 16:52:44 - Found child process: 10004 Name: node.exe
+2023-05-31 16:52:44 - Stopping process 6056
+2023-05-31 16:52:44 - Send SIGINT 6056
+2023-05-31 16:52:44 - SIGINT to 6056 failed - Killing as fallback
+2023-05-31 16:52:44 - Stopping process 10004
+2023-05-31 16:52:45 - Send SIGINT 10004
+2023-05-31 16:52:45 - SIGINT to 10004 failed - Killing as fallback
+2023-05-31 16:52:45 - Stopping process 5624
+2023-05-31 16:52:45 - Send SIGINT 5624
+2023-05-31 16:52:45 - SIGINT to 5624 failed - Killing as fallback
+2023-05-31 16:52:45 - Finished bastianreceiverscountserver.exe
+2023-05-31 16:52:46 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index4.js" --scriptoptions= --log "Bastian Receivers Count server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-05-31 16:52:46 - Started 10824
+2023-06-01 09:44:32 - Stopping bastianreceiverscountserver.exe
+2023-06-01 09:44:32 - ProcessKill 10824
+2023-06-01 09:44:32 - Found child process: 9552 Name: conhost.exe
+2023-06-01 09:44:32 - Found child process: 5128 Name: node.exe
+2023-06-01 09:44:32 - Stopping process 9552
+2023-06-01 09:44:32 - Send SIGINT 9552
+2023-06-01 09:44:32 - SIGINT to 9552 failed - Killing as fallback
+2023-06-01 09:44:32 - Stopping process 5128
+2023-06-01 09:44:32 - Send SIGINT 5128
+2023-06-01 09:44:32 - SIGINT to 5128 failed - Killing as fallback
+2023-06-01 09:44:32 - Stopping process 10824
+2023-06-01 09:44:32 - Send SIGINT 10824
+2023-06-01 09:44:32 - SIGINT to 10824 failed - Killing as fallback
+2023-06-01 09:44:32 - Finished bastianreceiverscountserver.exe
+2023-06-01 09:44:33 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index4.js" --scriptoptions= --log "Bastian Receivers Count server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-06-01 09:44:34 - Started 532
+2023-06-01 10:20:03 - Stopping bastianreceiverscountserver.exe
+2023-06-01 10:20:03 - ProcessKill 532
+2023-06-01 10:20:03 - Found child process: 5404 Name: conhost.exe
+2023-06-01 10:20:03 - Found child process: 4720 Name: node.exe
+2023-06-01 10:20:04 - Stopping process 5404
+2023-06-01 10:20:04 - Send SIGINT 5404
+2023-06-01 10:20:04 - SIGINT to 5404 failed - Killing as fallback
+2023-06-01 10:20:04 - Stopping process 4720
+2023-06-01 10:20:04 - Send SIGINT 4720
+2023-06-01 10:20:04 - SIGINT to 4720 failed - Killing as fallback
+2023-06-01 10:20:04 - Stopping process 532
+2023-06-01 10:20:04 - Send SIGINT 532
+2023-06-01 10:20:04 - SIGINT to 532 failed - Killing as fallback
+2023-06-01 10:20:04 - Finished bastianreceiverscountserver.exe
+2023-06-01 10:20:05 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index4.js" --scriptoptions= --log "Bastian Receivers Count server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-06-01 10:20:05 - Started 5944
+2023-06-01 11:30:20 - Stopping bastianreceiverscountserver.exe
+2023-06-01 11:30:20 - ProcessKill 5944
+2023-06-01 11:30:20 - Found child process: 12212 Name: conhost.exe
+2023-06-01 11:30:20 - Found child process: 13224 Name: node.exe
+2023-06-01 11:30:20 - Stopping process 12212
+2023-06-01 11:30:20 - Send SIGINT 12212
+2023-06-01 11:30:20 - SIGINT to 12212 failed - Killing as fallback
+2023-06-01 11:30:20 - Stopping process 13224
+2023-06-01 11:30:20 - Send SIGINT 13224
+2023-06-01 11:30:20 - SIGINT to 13224 failed - Killing as fallback
+2023-06-01 11:30:20 - Stopping process 5944
+2023-06-01 11:30:20 - Send SIGINT 5944
+2023-06-01 11:30:20 - SIGINT to 5944 failed - Killing as fallback
+2023-06-01 11:30:20 - Finished bastianreceiverscountserver.exe
+2023-06-01 11:30:21 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index4.js" --scriptoptions= --log "Bastian Receivers Count server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-06-01 11:30:21 - Started 13092
+2023-06-01 12:42:31 - Stopping bastianreceiverscountserver.exe
+2023-06-01 12:42:31 - ProcessKill 13092
+2023-06-01 12:42:31 - Found child process: 9272 Name: conhost.exe
+2023-06-01 12:42:31 - Found child process: 10860 Name: node.exe
+2023-06-01 12:42:31 - Stopping process 9272
+2023-06-01 12:42:31 - Send SIGINT 9272
+2023-06-01 12:42:31 - SIGINT to 9272 failed - Killing as fallback
+2023-06-01 12:42:31 - Stopping process 10860
+2023-06-01 12:42:31 - Send SIGINT 10860
+2023-06-01 12:42:31 - SIGINT to 10860 failed - Killing as fallback
+2023-06-01 12:42:31 - Stopping process 13092
+2023-06-01 12:42:31 - Send SIGINT 13092
+2023-06-01 12:42:31 - SIGINT to 13092 failed - Killing as fallback
+2023-06-01 12:42:31 - Finished bastianreceiverscountserver.exe
+2023-06-01 12:42:32 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index4.js" --scriptoptions= --log "Bastian Receivers Count server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-06-01 12:42:32 - Started 11036
+2023-06-02 11:21:18 - Stopping bastianreceiverscountserver.exe
+2023-06-02 11:21:18 - ProcessKill 11036
+2023-06-02 11:21:18 - Found child process: 5912 Name: conhost.exe
+2023-06-02 11:21:18 - Found child process: 12864 Name: node.exe
+2023-06-02 11:21:18 - Stopping process 5912
+2023-06-02 11:21:18 - Send SIGINT 5912
+2023-06-02 11:21:18 - SIGINT to 5912 failed - Killing as fallback
+2023-06-02 11:21:18 - Stopping process 12864
+2023-06-02 11:21:18 - Send SIGINT 12864
+2023-06-02 11:21:18 - SIGINT to 12864 failed - Killing as fallback
+2023-06-02 11:21:18 - Stopping process 11036
+2023-06-02 11:21:18 - Send SIGINT 11036
+2023-06-02 11:21:18 - SIGINT to 11036 failed - Killing as fallback
+2023-06-02 11:21:18 - Finished bastianreceiverscountserver.exe
+2023-06-02 11:21:19 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index4.js" --scriptoptions= --log "Bastian Receivers Count server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-06-02 11:21:19 - Started 11120
+2023-06-02 14:06:07 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index4.js" --scriptoptions= --log "Bastian Receivers Count server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-06-02 14:06:07 - Started 4680
+2023-06-02 15:06:57 - Stopping bastianreceiverscountserver.exe
+2023-06-02 15:06:57 - ProcessKill 4680
+2023-06-02 15:06:57 - Found child process: 8476 Name: conhost.exe
+2023-06-02 15:06:57 - Found child process: 6552 Name: node.exe
+2023-06-02 15:06:57 - Stopping process 8476
+2023-06-02 15:06:57 - Send SIGINT 8476
+2023-06-02 15:06:57 - SIGINT to 8476 failed - Killing as fallback
+2023-06-02 15:06:57 - Stopping process 6552
+2023-06-02 15:06:57 - Send SIGINT 6552
+2023-06-02 15:06:57 - SIGINT to 6552 failed - Killing as fallback
+2023-06-02 15:06:57 - Stopping process 4680
+2023-06-02 15:06:57 - Send SIGINT 4680
+2023-06-02 15:06:57 - SIGINT to 4680 failed - Killing as fallback
+2023-06-02 15:06:57 - Finished bastianreceiverscountserver.exe
+2023-06-02 15:06:58 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index4.js" --scriptoptions= --log "Bastian Receivers Count server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-06-02 15:06:58 - Started 4612
+2023-06-02 15:12:41 - Stopping bastianreceiverscountserver.exe
+2023-06-02 15:12:41 - ProcessKill 4612
+2023-06-02 15:12:41 - Found child process: 9040 Name: conhost.exe
+2023-06-02 15:12:41 - Found child process: 11876 Name: node.exe
+2023-06-02 15:12:41 - Stopping process 9040
+2023-06-02 15:12:41 - Send SIGINT 9040
+2023-06-02 15:12:41 - SIGINT to 9040 failed - Killing as fallback
+2023-06-02 15:12:41 - Stopping process 11876
+2023-06-02 15:12:41 - Send SIGINT 11876
+2023-06-02 15:12:41 - SIGINT to 11876 failed - Killing as fallback
+2023-06-02 15:12:41 - Stopping process 4612
+2023-06-02 15:12:41 - Send SIGINT 4612
+2023-06-02 15:12:41 - SIGINT to 4612 failed - Killing as fallback
+2023-06-02 15:12:41 - Finished bastianreceiverscountserver.exe
+2023-06-02 15:12:42 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index4.js" --scriptoptions= --log "Bastian Receivers Count server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-06-02 15:12:42 - Started 1452
+2023-06-05 08:37:17 - Stopping bastianreceiverscountserver.exe
+2023-06-05 08:37:17 - ProcessKill 1452
+2023-06-05 08:37:17 - Found child process: 12336 Name: conhost.exe
+2023-06-05 08:37:17 - Found child process: 3624 Name: node.exe
+2023-06-05 08:37:17 - Stopping process 12336
+2023-06-05 08:37:17 - Send SIGINT 12336
+2023-06-05 08:37:17 - SIGINT to 12336 failed - Killing as fallback
+2023-06-05 08:37:17 - Stopping process 3624
+2023-06-05 08:37:17 - Send SIGINT 3624
+2023-06-05 08:37:17 - SIGINT to 3624 failed - Killing as fallback
+2023-06-05 08:37:17 - Stopping process 1452
+2023-06-05 08:37:17 - Send SIGINT 1452
+2023-06-05 08:37:17 - SIGINT to 1452 failed - Killing as fallback
+2023-06-05 08:37:17 - Finished bastianreceiverscountserver.exe
+2023-06-05 08:37:18 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index4.js" --scriptoptions= --log "Bastian Receivers Count server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-06-05 08:37:18 - Started 12916
+2023-06-05 09:17:10 - Stopping bastianreceiverscountserver.exe
+2023-06-05 09:17:10 - ProcessKill 12916
+2023-06-05 09:17:10 - Found child process: 4892 Name: conhost.exe
+2023-06-05 09:17:10 - Found child process: 10144 Name: node.exe
+2023-06-05 09:17:10 - Stopping process 4892
+2023-06-05 09:17:10 - Send SIGINT 4892
+2023-06-05 09:17:10 - SIGINT to 4892 failed - Killing as fallback
+2023-06-05 09:17:10 - Stopping process 10144
+2023-06-05 09:17:10 - Send SIGINT 10144
+2023-06-05 09:17:10 - SIGINT to 10144 failed - Killing as fallback
+2023-06-05 09:17:10 - Stopping process 12916
+2023-06-05 09:17:10 - Send SIGINT 12916
+2023-06-05 09:17:10 - SIGINT to 12916 failed - Killing as fallback
+2023-06-05 09:17:10 - Finished bastianreceiverscountserver.exe
+2023-06-05 09:17:11 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index4.js" --scriptoptions= --log "Bastian Receivers Count server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-06-05 09:17:11 - Started 4904
+2023-06-05 09:22:44 - Stopping bastianreceiverscountserver.exe
+2023-06-05 09:22:44 - ProcessKill 4904
+2023-06-05 09:22:44 - Found child process: 8988 Name: conhost.exe
+2023-06-05 09:22:44 - Found child process: 4272 Name: node.exe
+2023-06-05 09:22:44 - Stopping process 8988
+2023-06-05 09:22:44 - Send SIGINT 8988
+2023-06-05 09:22:44 - SIGINT to 8988 failed - Killing as fallback
+2023-06-05 09:22:44 - Stopping process 4272
+2023-06-05 09:22:44 - Send SIGINT 4272
+2023-06-05 09:22:44 - SIGINT to 4272 failed - Killing as fallback
+2023-06-05 09:22:44 - Stopping process 4904
+2023-06-05 09:22:44 - Send SIGINT 4904
+2023-06-05 09:22:44 - SIGINT to 4904 failed - Killing as fallback
+2023-06-05 09:22:44 - Finished bastianreceiverscountserver.exe
+2023-06-05 09:22:45 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index4.js" --scriptoptions= --log "Bastian Receivers Count server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-06-05 09:22:45 - Started 8488
+2023-06-05 09:47:29 - Stopping bastianreceiverscountserver.exe
+2023-06-05 09:47:29 - ProcessKill 8488
+2023-06-05 09:47:29 - Found child process: 10884 Name: conhost.exe
+2023-06-05 09:47:29 - Found child process: 11628 Name: node.exe
+2023-06-05 09:47:29 - Stopping process 10884
+2023-06-05 09:47:29 - Send SIGINT 10884
+2023-06-05 09:47:29 - SIGINT to 10884 failed - Killing as fallback
+2023-06-05 09:47:30 - Stopping process 11628
+2023-06-05 09:47:30 - Send SIGINT 11628
+2023-06-05 09:47:30 - SIGINT to 11628 failed - Killing as fallback
+2023-06-05 09:47:30 - Stopping process 8488
+2023-06-05 09:47:30 - Send SIGINT 8488
+2023-06-05 09:47:30 - SIGINT to 8488 failed - Killing as fallback
+2023-06-05 09:47:30 - Finished bastianreceiverscountserver.exe
+2023-06-05 10:12:08 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index4.js" --scriptoptions= --log "Bastian Receivers Count server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-06-05 10:12:08 - Started 10616
+2023-06-05 11:54:17 - Stopping bastianreceiverscountserver.exe
+2023-06-05 11:54:17 - ProcessKill 10616
+2023-06-05 11:54:17 - Found child process: 9128 Name: conhost.exe
+2023-06-05 11:54:17 - Found child process: 12160 Name: node.exe
+2023-06-05 11:54:17 - Stopping process 9128
+2023-06-05 11:54:17 - Send SIGINT 9128
+2023-06-05 11:54:17 - SIGINT to 9128 failed - Killing as fallback
+2023-06-05 11:54:17 - Stopping process 12160
+2023-06-05 11:54:17 - Send SIGINT 12160
+2023-06-05 11:54:17 - SIGINT to 12160 failed - Killing as fallback
+2023-06-05 11:54:17 - Stopping process 10616
+2023-06-05 11:54:17 - Send SIGINT 10616
+2023-06-05 11:54:17 - SIGINT to 10616 failed - Killing as fallback
+2023-06-05 11:54:17 - Finished bastianreceiverscountserver.exe
+2023-06-05 11:54:18 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index4.js" --scriptoptions= --log "Bastian Receivers Count server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-06-05 11:54:19 - Started 3664
+2023-06-05 17:13:52 - Stopping bastianreceiverscountserver.exe
+2023-06-05 17:13:52 - ProcessKill 3664
+2023-06-05 17:13:53 - Found child process: 10248 Name: conhost.exe
+2023-06-05 17:13:53 - Found child process: 9320 Name: node.exe
+2023-06-05 17:13:53 - Stopping process 10248
+2023-06-05 17:13:53 - Send SIGINT 10248
+2023-06-05 17:13:53 - SIGINT to 10248 failed - Killing as fallback
+2023-06-05 17:13:53 - Stopping process 9320
+2023-06-05 17:13:53 - Send SIGINT 9320
+2023-06-05 17:13:53 - SIGINT to 9320 failed - Killing as fallback
+2023-06-05 17:13:53 - Stopping process 3664
+2023-06-05 17:13:53 - Send SIGINT 3664
+2023-06-05 17:13:53 - SIGINT to 3664 failed - Killing as fallback
+2023-06-05 17:13:53 - Finished bastianreceiverscountserver.exe
+2023-06-05 17:13:54 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index4.js" --scriptoptions= --log "Bastian Receivers Count server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-06-05 17:13:54 - Started 12164
+2023-06-07 08:59:06 - Stopping bastianreceiverscountserver.exe
+2023-06-07 08:59:06 - ProcessKill 12164
+2023-06-07 08:59:06 - Found child process: 11396 Name: conhost.exe
+2023-06-07 08:59:06 - Found child process: 6500 Name: node.exe
+2023-06-07 08:59:06 - Stopping process 11396
+2023-06-07 08:59:06 - Send SIGINT 11396
+2023-06-07 08:59:06 - SIGINT to 11396 failed - Killing as fallback
+2023-06-07 08:59:06 - Stopping process 6500
+2023-06-07 08:59:06 - Send SIGINT 6500
+2023-06-07 08:59:06 - SIGINT to 6500 failed - Killing as fallback
+2023-06-07 08:59:06 - Stopping process 12164
+2023-06-07 08:59:06 - Send SIGINT 12164
+2023-06-07 08:59:06 - SIGINT to 12164 failed - Killing as fallback
+2023-06-07 08:59:06 - Finished bastianreceiverscountserver.exe
+2023-06-07 08:59:07 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index4.js" --scriptoptions= --log "Bastian Receivers Count server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-06-07 08:59:07 - Started 11148
+2023-06-07 09:00:30 - Stopping bastianreceiverscountserver.exe
+2023-06-07 09:00:30 - ProcessKill 11148
+2023-06-07 09:00:30 - Found child process: 10120 Name: conhost.exe
+2023-06-07 09:00:30 - Found child process: 12592 Name: node.exe
+2023-06-07 09:00:30 - Stopping process 10120
+2023-06-07 09:00:30 - Send SIGINT 10120
+2023-06-07 09:00:30 - SIGINT to 10120 failed - Killing as fallback
+2023-06-07 09:00:30 - Stopping process 12592
+2023-06-07 09:00:30 - Send SIGINT 12592
+2023-06-07 09:00:30 - SIGINT to 12592 failed - Killing as fallback
+2023-06-07 09:00:30 - Stopping process 11148
+2023-06-07 09:00:30 - Send SIGINT 11148
+2023-06-07 09:00:30 - SIGINT to 11148 failed - Killing as fallback
+2023-06-07 09:00:30 - Finished bastianreceiverscountserver.exe
+2023-06-07 09:02:09 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index4.js" --scriptoptions= --log "Bastian Receivers Count server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-06-07 09:02:09 - Started 5164
+2023-06-15 17:33:06 - Stopping bastianreceiverscountserver.exe
+2023-06-15 17:33:06 - ProcessKill 5164
+2023-06-15 17:33:07 - Found child process: 12364 Name: conhost.exe
+2023-06-15 17:33:07 - Found child process: 2424 Name: node.exe
+2023-06-15 17:33:07 - Stopping process 12364
+2023-06-15 17:33:07 - Send SIGINT 12364
+2023-06-15 17:33:07 - SIGINT to 12364 failed - Killing as fallback
+2023-06-15 17:33:07 - Stopping process 2424
+2023-06-15 17:33:07 - Send SIGINT 2424
+2023-06-15 17:33:07 - SIGINT to 2424 failed - Killing as fallback
+2023-06-15 17:33:07 - Stopping process 5164
+2023-06-15 17:33:07 - Send SIGINT 5164
+2023-06-15 17:33:07 - SIGINT to 5164 failed - Killing as fallback
+2023-06-15 17:33:07 - Finished bastianreceiverscountserver.exe
+2023-06-15 17:33:08 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index4.js" --scriptoptions= --log "Bastian Receivers Count server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-06-15 17:33:08 - Started 5808
+2023-06-15 17:33:54 - Stopping bastianreceiverscountserver.exe
+2023-06-15 17:33:54 - ProcessKill 5808
+2023-06-15 17:33:54 - Found child process: 6584 Name: conhost.exe
+2023-06-15 17:33:54 - Found child process: 3668 Name: node.exe
+2023-06-15 17:33:54 - Stopping process 6584
+2023-06-15 17:33:54 - Send SIGINT 6584
+2023-06-15 17:33:54 - SIGINT to 6584 failed - Killing as fallback
+2023-06-15 17:33:54 - Stopping process 3668
+2023-06-15 17:33:54 - Send SIGINT 3668
+2023-06-15 17:33:54 - SIGINT to 3668 failed - Killing as fallback
+2023-06-15 17:33:54 - Stopping process 5808
+2023-06-15 17:33:54 - Send SIGINT 5808
+2023-06-15 17:33:54 - SIGINT to 5808 failed - Killing as fallback
+2023-06-15 17:33:54 - Finished bastianreceiverscountserver.exe
+2023-06-15 17:33:55 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index4.js" --scriptoptions= --log "Bastian Receivers Count server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-06-15 17:33:55 - Started 13008
+2023-06-19 10:06:31 - Stopping bastianreceiverscountserver.exe
+2023-06-19 10:06:31 - ProcessKill 13008
+2023-06-19 10:06:32 - Found child process: 7624 Name: conhost.exe
+2023-06-19 10:06:32 - Found child process: 6996 Name: node.exe
+2023-06-19 10:06:32 - Stopping process 7624
+2023-06-19 10:06:32 - Send SIGINT 7624
+2023-06-19 10:06:32 - SIGINT to 7624 failed - Killing as fallback
+2023-06-19 10:06:32 - Stopping process 6996
+2023-06-19 10:06:32 - Send SIGINT 6996
+2023-06-19 10:06:32 - SIGINT to 6996 failed - Killing as fallback
+2023-06-19 10:06:32 - Stopping process 13008
+2023-06-19 10:06:32 - Send SIGINT 13008
+2023-06-19 10:06:32 - SIGINT to 13008 failed - Killing as fallback
+2023-06-19 10:06:32 - Finished bastianreceiverscountserver.exe
+2023-06-19 10:06:56 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index4.js" --scriptoptions= --log "Bastian Receivers Count server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-06-19 10:06:56 - Started 4160
+2023-06-19 10:48:33 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index4.js" --scriptoptions= --log "Bastian Receivers Count server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-06-19 10:48:33 - Started 768
+2023-06-20 09:47:18 - Stopping bastianreceiverscountserver.exe
+2023-06-20 09:47:18 - ProcessKill 768
+2023-06-20 09:47:18 - Found child process: 6888 Name: conhost.exe
+2023-06-20 09:47:18 - Found child process: 12504 Name: node.exe
+2023-06-20 09:47:18 - Stopping process 6888
+2023-06-20 09:47:18 - Send SIGINT 6888
+2023-06-20 09:47:18 - SIGINT to 6888 failed - Killing as fallback
+2023-06-20 09:47:18 - Stopping process 12504
+2023-06-20 09:47:18 - Send SIGINT 12504
+2023-06-20 09:47:18 - SIGINT to 12504 failed - Killing as fallback
+2023-06-20 09:47:18 - Stopping process 768
+2023-06-20 09:47:18 - Send SIGINT 768
+2023-06-20 09:47:18 - SIGINT to 768 failed - Killing as fallback
+2023-06-20 09:47:18 - Finished bastianreceiverscountserver.exe
+2023-06-20 09:47:19 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index4.js" --scriptoptions= --log "Bastian Receivers Count server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-06-20 09:47:19 - Started 9480
+2023-06-20 09:49:15 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index4.js" --scriptoptions= --log "Bastian Receivers Count server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-06-20 09:49:15 - Started 6756
+2023-06-20 10:15:20 - Stopping bastianreceiverscountserver.exe
+2023-06-20 10:15:20 - ProcessKill 6756
+2023-06-20 10:15:20 - Found child process: 4644 Name: conhost.exe
+2023-06-20 10:15:20 - Found child process: 8200 Name: node.exe
+2023-06-20 10:15:20 - Stopping process 4644
+2023-06-20 10:15:20 - Send SIGINT 4644
+2023-06-20 10:15:20 - SIGINT to 4644 failed - Killing as fallback
+2023-06-20 10:15:20 - Stopping process 8200
+2023-06-20 10:15:20 - Send SIGINT 8200
+2023-06-20 10:15:20 - SIGINT to 8200 failed - Killing as fallback
+2023-06-20 10:15:20 - Stopping process 6756
+2023-06-20 10:15:20 - Send SIGINT 6756
+2023-06-20 10:15:20 - SIGINT to 6756 failed - Killing as fallback
+2023-06-20 10:15:20 - Finished bastianreceiverscountserver.exe
+2023-06-20 10:24:59 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index4.js" --scriptoptions= --log "Bastian Receivers Count server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-06-20 10:24:59 - Started 12904
+2023-06-20 12:36:48 - Stopping bastianreceiverscountserver.exe
+2023-06-20 12:36:48 - ProcessKill 12904
+2023-06-20 12:36:49 - Found child process: 9668 Name: conhost.exe
+2023-06-20 12:36:49 - Found child process: 5584 Name: node.exe
+2023-06-20 12:36:49 - Stopping process 9668
+2023-06-20 12:36:49 - Send SIGINT 9668
+2023-06-20 12:36:49 - SIGINT to 9668 failed - Killing as fallback
+2023-06-20 12:36:49 - Stopping process 5584
+2023-06-20 12:36:49 - Send SIGINT 5584
+2023-06-20 12:36:49 - SIGINT to 5584 failed - Killing as fallback
+2023-06-20 12:36:49 - Stopping process 12904
+2023-06-20 12:36:49 - Send SIGINT 12904
+2023-06-20 12:36:49 - SIGINT to 12904 failed - Killing as fallback
+2023-06-20 12:36:49 - Finished bastianreceiverscountserver.exe
+2023-06-20 12:36:53 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index4.js" --scriptoptions= --log "Bastian Receivers Count server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-06-20 12:36:53 - Started 5076
+2023-06-21 14:52:09 - Stopping bastianreceiverscountserver.exe
+2023-06-21 14:52:09 - ProcessKill 5076
+2023-06-21 14:52:09 - Found child process: 13072 Name: conhost.exe
+2023-06-21 14:52:09 - Found child process: 8288 Name: node.exe
+2023-06-21 14:52:09 - Stopping process 13072
+2023-06-21 14:52:09 - Send SIGINT 13072
+2023-06-21 14:52:09 - SIGINT to 13072 failed - Killing as fallback
+2023-06-21 14:52:09 - Stopping process 8288
+2023-06-21 14:52:09 - Send SIGINT 8288
+2023-06-21 14:52:09 - SIGINT to 8288 failed - Killing as fallback
+2023-06-21 14:52:09 - Stopping process 5076
+2023-06-21 14:52:09 - Send SIGINT 5076
+2023-06-21 14:52:09 - SIGINT to 5076 failed - Killing as fallback
+2023-06-21 14:52:09 - Finished bastianreceiverscountserver.exe
+2023-06-21 14:52:10 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index4.js" --scriptoptions= --log "Bastian Receivers Count server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-06-21 14:52:10 - Started 6864
+2023-06-21 14:53:42 - Stopping bastianreceiverscountserver.exe
+2023-06-21 14:53:42 - ProcessKill 6864
+2023-06-21 14:53:42 - Found child process: 7984 Name: conhost.exe
+2023-06-21 14:53:42 - Found child process: 6060 Name: node.exe
+2023-06-21 14:53:42 - Stopping process 7984
+2023-06-21 14:53:42 - Send SIGINT 7984
+2023-06-21 14:53:42 - SIGINT to 7984 failed - Killing as fallback
+2023-06-21 14:53:42 - Stopping process 6060
+2023-06-21 14:53:42 - Send SIGINT 6060
+2023-06-21 14:53:42 - SIGINT to 6060 failed - Killing as fallback
+2023-06-21 14:53:42 - Stopping process 6864
+2023-06-21 14:53:42 - Send SIGINT 6864
+2023-06-21 14:53:42 - SIGINT to 6864 failed - Killing as fallback
+2023-06-21 14:53:42 - Finished bastianreceiverscountserver.exe
+2023-06-21 14:53:43 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index4.js" --scriptoptions= --log "Bastian Receivers Count server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-06-21 14:53:44 - Started 6848
+2023-06-21 14:54:48 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\inetpub\wwwroot\returns plc\node_modules\node-windows\lib\wrapper.js" --file "C:\inetpub\wwwroot\returns plc\index4.js" --scriptoptions= --log "Bastian Receivers Count server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-06-21 14:54:49 - Started 9460

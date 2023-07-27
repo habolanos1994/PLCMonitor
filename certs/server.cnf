@@ -1,0 +1,44 @@
+[req]
+distinguished_name = req_distinguished_name
+req_extensions = v3_req
+
+[req_distinguished_name]
+countryName = Country Name (2 letter code)
+countryName_default = US
+stateOrProvinceName = State or Province Name (full name)
+stateOrProvinceName_default = Texas
+localityName = Locality Name (e.g., city)
+localityName_default = El Paso
+organizationalUnitName  = Organizational Unit Name (e.g., section)
+organizationalUnitName_default  = Test Engineer
+commonName = Common Name (e.g. server FQDN or YOUR name)
+commonName_default = pcv1engmqtt01
+
+[v3_req]
+basicConstraints = CA:TRUE
+keyUsage = nonRepudiation, digitalSignature, keyEncipherment
+subjectAltName = @alt_names
+
+[alt_names]
+DNS.1 = pcv1engplcsvc01
+DNS.2 = pcv1engmongo01
+DNS.3 = elpiotmfg01
+DNS.4 = elpiotmfg02
+DNS.5 = pcv1engmqtt01
+DNS.6 = pcv1engiot01
+DNS.7 = pv1ENGPROXY01
+DNS.7 = pmv2ENGPROXY01
+IP.1 = 10.63.192.30
+IP.2 = 10.63.192.31
+IP.3 = 10.63.192.32
+IP.4 = 10.63.192.33
+IP.5 = 10.63.192.34
+IP.6 = 10.63.192.35
+IP.7 = 10.63.192.36
+IP.8 = 10.63.192.37
+IP.9 = 10.63.192.38
+IP.10 = 10.63.192.39
+IP.11 = 10.63.192.40
+IP.12 = 10.123.84.38
+IP.14 = 10.123.84.37
+IP.14 = 10.123.84.36

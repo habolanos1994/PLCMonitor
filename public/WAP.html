@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Accessory Packeting</title>
+    <link rel="stylesheet" type="text/css" href="lib/HTML/css/jquery.dataTables.css">
+    <link rel="stylesheet" type="text/css" href="./styles.css"> <!-- Link to your custom styles.css file -->
+    <script src="lib/HTML/js/jquery-3.5.1.min.js"></script>
+    <script src="./wap.js"></script>
+    <configuration>
+        <system.web>
+          <authentication mode="Windows" />
+          <authorization>
+            <deny users="?" /> <!-- This line denies access to anonymous users -->
+          </authorization>
+        </system.web>
+    </configuration>
+</head>
+<body>
+    <div class="container">
+      <h2 class="corner-text">Welcome <span id="ntLoginPlaceholder"></span></h2>
+        <h1>Accessory Packeting Validation</h1>
+        <h3>scan Serial Number</h3>
+        <input type="text" id="accessory" name="accessory">
+        <button id="check">Check</button>
+        <div id="message"></div>
+        <div id="components"></div>
+        <button id="confirm" style="display: none;">Confirm</button>
+    </div>
+</body>
+</html>

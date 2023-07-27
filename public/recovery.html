@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Recovery Status</title>
+    <link rel="stylesheet" type="text/css" href="/lib/HTML/css/jquery.dataTables.css">
+</head>
+<body>
+    <h1>Recovery Status</h1>
+
+    <input type="text" id="searchPartNumber" placeholder="Search by Part Number"/>
+    <input type="text" id="searchModel" placeholder="Search by Model"/>
+    <input type="text" id="searchDescription" placeholder="Search by Description"/>
+    <input type="text" id="searchSite" placeholder="Search by Site"/>
+    <select id="searchRecover">
+        <option value="">All</option>
+        <option value="1">Recoverable</option>
+        <option value="0">Non-Recoverable</option>
+    </select>
+    <button id="searchButton">Search</button>
+    <br/>
+    <table id="recordsTable" class="display" style="width:100%">
+        <thead>
+            <tr>
+                <th>Part Number</th>
+                <th>Description</th>
+                <th>Model</th>
+                <th>Recover</th>
+                <th>Site</th>
+                <th>Action</th>
+            </tr>
+        </thead>
+        <tbody></tbody>
+    </table>
+
+    <script src="/lib/HTML/js/jquery-3.5.1.min.js"></script>
+    <script type="text/javascript" charset="utf8" src="/lib/HTML/js/jquery.dataTables.js"></script>
+    <script src="./recovery.js"></script>
+</body>
+</html>
