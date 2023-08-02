@@ -2,6 +2,7 @@
 const express = require('express');
 var ntlm = require('express-ntlm');
 const fs = require('fs');
+const fsPromises = require('fs').promises;
 const path = require('path');
 const bodyParser = require('body-parser');
 const https = require('https'); // Import the HTTPS module
@@ -74,21 +75,28 @@ app.use((req, res, next) => {
 
 passport.use('custom', new CustomStrategy(
   async function(req, done) {
-    try {
-      // get the NT Login from the request
-      const ntLogin = req.body.nt_login;
-      console.log("NT Login:", ntLogin); // Log the NT login
-      // query the database with the provided NT Login
-      const employee = await sqlModule.GetEmployeeDetails(ntLogin);
-      // if no matching user was found, fail the authentication
-      if (employee.recordset.length === 0) {
-        return done(null, false, { message: 'Incorrect NT Login.' });
+      try {
+          // get the NT Login from the request
+          const ntLogin = req.body.nt_login;
+          console.log("NT Login:", ntLogin); // Log the NT login
+
+          // Read authorized users from JSON file every time
+          let authorizedUsersData = await fsPromises.readFile(path.join(__dirname, 'jsonfiles', 'authorizedusers.json'), 'utf8');
+          let authorizedUsers = JSON.parse(authorizedUsersData).Users;
+          
+          // Find the user in the authorized users list
+          const user = authorizedUsers.find(u => u.ntLogin === ntLogin);
+
+          // if no matching user was found, fail the authentication
+          if (!user) {
+              return done(null, false, { message: 'Incorrect NT Login.' });
+          }
+
+          // if a matching user was found, pass it to the done callback
+          done(null, user);
+      } catch (err) {
+          done(err);
       }
-      // if a matching user was found, pass it to the done callback
-      done(null, employee.recordset[0]);
-    } catch (err) {
-      done(err);
-    }
   }
 ));
 
@@ -233,20 +241,23 @@ app.post('/api/recovery/updateRecord', async (req, res) => {
   }
 });
 
-app.post('/api/wap/GetWAPStatus', async (req, res) => {
+app.post('/api/wap/GetWAPStatus', passport.authenticate('custom', { session: false }), async (req, res) => {
   let { serial } = req.body;
   try {
-    const result = await sqlModule.GetWAPStatus(serial)
-    res.send(result); // Send the result back
+      const result = await sqlModule.GetWAPStatus(serial)
+      res.send(result); // Send the result back
   } catch (err) {
-    console.error(err);
-    res.status(500).send('Server error'); // Send a generic error message
+      console.error(err);
+      res.status(500).send('Server error'); // Send a generic error message
   }
 });
 
 app.get('/wap', (req, res) => {
-
   res.sendFile(path.join(__dirname, 'public', 'WAP.html'));
+});
+
+app.get('/unauthorized', (req, res) => {
+  res.sendFile(path.join(__dirname, 'public', 'unauthorized.html'));
 });
 
 // Middleware for handling 404 errors
