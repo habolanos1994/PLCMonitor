@@ -6,23 +6,48 @@ body {
 }
 
 .container {
-  background-color: #fff;
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-  border-radius: 4px;
-  padding: 2em;
+  background-color: #ffffff;
+  background-image: url("dish.jpg");
+  background-repeat: no-repeat;
+  background-size: 30%;
+  background-position:-2.5cm 0cm;
+  border-radius: 50px;
+  border: 12px solid;
+  border-color: #e53d3d;
+  padding: 1em;
   display: flex;
   flex-direction: column;
   align-items: center;
-  justify-content: center;
   text-align: center;
-  width: 80%;
+  width: 90%;
   margin: 0 auto;
-  margin-top: 2em;
+  margin-top: 1em;
+  height: 1200px;
+}
+
+.corner-text {
+  position: relative;
+  top: auto; 
+  left: auto; 
+  font-size: 1.2em; 
+  color: #333;
+  margin-top: 2px;
+  margin-bottom: 1.5em;
 }
 
 h1 {
   color: #333;
   margin-bottom: 1em;
+  margin-top: 0em;
+  font-size: 3.5em;
+}
+
+
+h3 {
+  color: #333;
+  margin-bottom: 1em;
+  margin-top: 0.2em;
+  font-size: 1.8em;
 }
 
 .divider {
@@ -85,28 +110,49 @@ h1 {
   text-align: center;
   margin: 0 auto 40px auto;
   padding: 10px;
-  font-size: 30px;
+  font-size: 20px;
+  font-weight: 700;
   width: 15%;
 }
 
 #check {
   display: block;
+  border-radius: 5px;
   margin: 0 auto 20px auto;
-  padding: 10px 20px;
+  padding: 10px 10px;
+  width: 150px;
+  font-size: 1.8em;
   background-color: #007BFF;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+  box-shadow: 0 12px #999;
+}
+
+#check:hover {
+  opacity: 0.7;
+}
+
+#check:active {
+  box-shadow: 0 6px #666;
+  transform: translateY(6px);
+}
+
+.component-btn {
+  border-radius: 15px;
+  margin: 25px;
+  margin-top: 25px;
+  margin-bottom: 15px;
+  font-size: 1.2em; 
+  padding: 80px;
+  background-color: #6c757d;
   color: #fff;
   border: none;
   cursor: pointer;
 }
 
-.component-btn {
-  margin: 10px;
-  font-size: 1.2em; 
-  padding: 20px;
-  background-color: #6c757d;
-  color: #fff;
-  border: none;
-  cursor: pointer;
+.component-btn:hover {
+  opacity: 0.7;
 }
 
 #components {
@@ -116,18 +162,24 @@ h1 {
 
 #confirm {
   display: block;
+  border-radius: 15px;
   margin: 0 auto 20px auto;
-  padding: 10px 20px;
-  background-color: #28a745;
+  padding: 40px 20px;
+  width: 80%;
+  font-size: 1.8em;
+  background-color: #515552;
   color: #fff;
   border: none;
   cursor: pointer;
+  box-shadow: 0 12px #999;
 }
 
-.corner-text {
-  position: absolute;
-  top: 20px;  /* Adjust these values as needed */
-  left: 2050px; /* Adjust these values as needed */
-  font-size: 1.2em; 
-  color: #333;
+#confirm:hover {
+  background-color: #1a8a34;
+  color: #fff;
+}
+
+#confirm:active {
+  box-shadow: 0 6px #666;
+  transform: translateY(6px);
 }
